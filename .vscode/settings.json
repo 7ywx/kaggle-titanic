@@ -1,0 +1,6 @@
+{
+	"commentTranslate.source": "Google",
+	"commentTranslate.multiLineMerge": true,
+	"cmake.configureOnOpen": false,
+	"commentTranslate.hover.enabled": true
+}

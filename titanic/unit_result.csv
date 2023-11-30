@@ -1,0 +1,9827 @@
+,,0
+0,PassengerId,1
+0,Survived,0
+0,Pclass,3
+0,Name,"Braund, Mr. Owen Harris"
+0,Sex,male
+0,Age,22.0
+0,SibSp,1
+0,Parch,0
+0,Ticket,A/5 21171
+0,Fare,7.25
+0,Embarked,S
+1,PassengerId,2
+1,Survived,1
+1,Pclass,1
+1,Name,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)"
+1,Sex,female
+1,Age,38.0
+1,SibSp,1
+1,Parch,0
+1,Ticket,PC 17599
+1,Fare,71.2833
+1,Cabin,C85
+1,Embarked,C
+2,PassengerId,3
+2,Survived,1
+2,Pclass,3
+2,Name,"Heikkinen, Miss. Laina"
+2,Sex,female
+2,Age,26.0
+2,SibSp,0
+2,Parch,0
+2,Ticket,STON/O2. 3101282
+2,Fare,7.925
+2,Embarked,S
+3,PassengerId,4
+3,Survived,1
+3,Pclass,1
+3,Name,"Futrelle, Mrs. Jacques Heath (Lily May Peel)"
+3,Sex,female
+3,Age,35.0
+3,SibSp,1
+3,Parch,0
+3,Ticket,113803
+3,Fare,53.1
+3,Cabin,C123
+3,Embarked,S
+4,PassengerId,5
+4,Survived,0
+4,Pclass,3
+4,Name,"Allen, Mr. William Henry"
+4,Sex,male
+4,Age,35.0
+4,SibSp,0
+4,Parch,0
+4,Ticket,373450
+4,Fare,8.05
+4,Embarked,S
+5,PassengerId,6
+5,Survived,0
+5,Pclass,3
+5,Name,"Moran, Mr. James"
+5,Sex,male
+5,SibSp,0
+5,Parch,0
+5,Ticket,330877
+5,Fare,8.4583
+5,Embarked,Q
+6,PassengerId,7
+6,Survived,0
+6,Pclass,1
+6,Name,"McCarthy, Mr. Timothy J"
+6,Sex,male
+6,Age,54.0
+6,SibSp,0
+6,Parch,0
+6,Ticket,17463
+6,Fare,51.8625
+6,Cabin,E46
+6,Embarked,S
+7,PassengerId,8
+7,Survived,0
+7,Pclass,3
+7,Name,"Palsson, Master. Gosta Leonard"
+7,Sex,male
+7,Age,2.0
+7,SibSp,3
+7,Parch,1
+7,Ticket,349909
+7,Fare,21.075
+7,Embarked,S
+8,PassengerId,9
+8,Survived,1
+8,Pclass,3
+8,Name,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)"
+8,Sex,female
+8,Age,27.0
+8,SibSp,0
+8,Parch,2
+8,Ticket,347742
+8,Fare,11.1333
+8,Embarked,S
+9,PassengerId,10
+9,Survived,1
+9,Pclass,2
+9,Name,"Nasser, Mrs. Nicholas (Adele Achem)"
+9,Sex,female
+9,Age,14.0
+9,SibSp,1
+9,Parch,0
+9,Ticket,237736
+9,Fare,30.0708
+9,Embarked,C
+10,PassengerId,11
+10,Survived,1
+10,Pclass,3
+10,Name,"Sandstrom, Miss. Marguerite Rut"
+10,Sex,female
+10,Age,4.0
+10,SibSp,1
+10,Parch,1
+10,Ticket,PP 9549
+10,Fare,16.7
+10,Cabin,G6
+10,Embarked,S
+11,PassengerId,12
+11,Survived,1
+11,Pclass,1
+11,Name,"Bonnell, Miss. Elizabeth"
+11,Sex,female
+11,Age,58.0
+11,SibSp,0
+11,Parch,0
+11,Ticket,113783
+11,Fare,26.55
+11,Cabin,C103
+11,Embarked,S
+12,PassengerId,13
+12,Survived,0
+12,Pclass,3
+12,Name,"Saundercock, Mr. William Henry"
+12,Sex,male
+12,Age,20.0
+12,SibSp,0
+12,Parch,0
+12,Ticket,A/5. 2151
+12,Fare,8.05
+12,Embarked,S
+13,PassengerId,14
+13,Survived,0
+13,Pclass,3
+13,Name,"Andersson, Mr. Anders Johan"
+13,Sex,male
+13,Age,39.0
+13,SibSp,1
+13,Parch,5
+13,Ticket,347082
+13,Fare,31.275
+13,Embarked,S
+14,PassengerId,15
+14,Survived,0
+14,Pclass,3
+14,Name,"Vestrom, Miss. Hulda Amanda Adolfina"
+14,Sex,female
+14,Age,14.0
+14,SibSp,0
+14,Parch,0
+14,Ticket,350406
+14,Fare,7.8542
+14,Embarked,S
+15,PassengerId,16
+15,Survived,1
+15,Pclass,2
+15,Name,"Hewlett, Mrs. (Mary D Kingcome) "
+15,Sex,female
+15,Age,55.0
+15,SibSp,0
+15,Parch,0
+15,Ticket,248706
+15,Fare,16.0
+15,Embarked,S
+16,PassengerId,17
+16,Survived,0
+16,Pclass,3
+16,Name,"Rice, Master. Eugene"
+16,Sex,male
+16,Age,2.0
+16,SibSp,4
+16,Parch,1
+16,Ticket,382652
+16,Fare,29.125
+16,Embarked,Q
+17,PassengerId,18
+17,Survived,1
+17,Pclass,2
+17,Name,"Williams, Mr. Charles Eugene"
+17,Sex,male
+17,SibSp,0
+17,Parch,0
+17,Ticket,244373
+17,Fare,13.0
+17,Embarked,S
+18,PassengerId,19
+18,Survived,0
+18,Pclass,3
+18,Name,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)"
+18,Sex,female
+18,Age,31.0
+18,SibSp,1
+18,Parch,0
+18,Ticket,345763
+18,Fare,18.0
+18,Embarked,S
+19,PassengerId,20
+19,Survived,1
+19,Pclass,3
+19,Name,"Masselmani, Mrs. Fatima"
+19,Sex,female
+19,SibSp,0
+19,Parch,0
+19,Ticket,2649
+19,Fare,7.225
+19,Embarked,C
+20,PassengerId,21
+20,Survived,0
+20,Pclass,2
+20,Name,"Fynney, Mr. Joseph J"
+20,Sex,male
+20,Age,35.0
+20,SibSp,0
+20,Parch,0
+20,Ticket,239865
+20,Fare,26.0
+20,Embarked,S
+21,PassengerId,22
+21,Survived,1
+21,Pclass,2
+21,Name,"Beesley, Mr. Lawrence"
+21,Sex,male
+21,Age,34.0
+21,SibSp,0
+21,Parch,0
+21,Ticket,248698
+21,Fare,13.0
+21,Cabin,D56
+21,Embarked,S
+22,PassengerId,23
+22,Survived,1
+22,Pclass,3
+22,Name,"McGowan, Miss. Anna ""Annie"""
+22,Sex,female
+22,Age,15.0
+22,SibSp,0
+22,Parch,0
+22,Ticket,330923
+22,Fare,8.0292
+22,Embarked,Q
+23,PassengerId,24
+23,Survived,1
+23,Pclass,1
+23,Name,"Sloper, Mr. William Thompson"
+23,Sex,male
+23,Age,28.0
+23,SibSp,0
+23,Parch,0
+23,Ticket,113788
+23,Fare,35.5
+23,Cabin,A6
+23,Embarked,S
+24,PassengerId,25
+24,Survived,0
+24,Pclass,3
+24,Name,"Palsson, Miss. Torborg Danira"
+24,Sex,female
+24,Age,8.0
+24,SibSp,3
+24,Parch,1
+24,Ticket,349909
+24,Fare,21.075
+24,Embarked,S
+25,PassengerId,26
+25,Survived,1
+25,Pclass,3
+25,Name,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)"
+25,Sex,female
+25,Age,38.0
+25,SibSp,1
+25,Parch,5
+25,Ticket,347077
+25,Fare,31.3875
+25,Embarked,S
+26,PassengerId,27
+26,Survived,0
+26,Pclass,3
+26,Name,"Emir, Mr. Farred Chehab"
+26,Sex,male
+26,SibSp,0
+26,Parch,0
+26,Ticket,2631
+26,Fare,7.225
+26,Embarked,C
+27,PassengerId,28
+27,Survived,0
+27,Pclass,1
+27,Name,"Fortune, Mr. Charles Alexander"
+27,Sex,male
+27,Age,19.0
+27,SibSp,3
+27,Parch,2
+27,Ticket,19950
+27,Fare,263.0
+27,Cabin,C23 C25 C27
+27,Embarked,S
+28,PassengerId,29
+28,Survived,1
+28,Pclass,3
+28,Name,"O'Dwyer, Miss. Ellen ""Nellie"""
+28,Sex,female
+28,SibSp,0
+28,Parch,0
+28,Ticket,330959
+28,Fare,7.8792
+28,Embarked,Q
+29,PassengerId,30
+29,Survived,0
+29,Pclass,3
+29,Name,"Todoroff, Mr. Lalio"
+29,Sex,male
+29,SibSp,0
+29,Parch,0
+29,Ticket,349216
+29,Fare,7.8958
+29,Embarked,S
+30,PassengerId,31
+30,Survived,0
+30,Pclass,1
+30,Name,"Uruchurtu, Don. Manuel E"
+30,Sex,male
+30,Age,40.0
+30,SibSp,0
+30,Parch,0
+30,Ticket,PC 17601
+30,Fare,27.7208
+30,Embarked,C
+31,PassengerId,32
+31,Survived,1
+31,Pclass,1
+31,Name,"Spencer, Mrs. William Augustus (Marie Eugenie)"
+31,Sex,female
+31,SibSp,1
+31,Parch,0
+31,Ticket,PC 17569
+31,Fare,146.5208
+31,Cabin,B78
+31,Embarked,C
+32,PassengerId,33
+32,Survived,1
+32,Pclass,3
+32,Name,"Glynn, Miss. Mary Agatha"
+32,Sex,female
+32,SibSp,0
+32,Parch,0
+32,Ticket,335677
+32,Fare,7.75
+32,Embarked,Q
+33,PassengerId,34
+33,Survived,0
+33,Pclass,2
+33,Name,"Wheadon, Mr. Edward H"
+33,Sex,male
+33,Age,66.0
+33,SibSp,0
+33,Parch,0
+33,Ticket,C.A. 24579
+33,Fare,10.5
+33,Embarked,S
+34,PassengerId,35
+34,Survived,0
+34,Pclass,1
+34,Name,"Meyer, Mr. Edgar Joseph"
+34,Sex,male
+34,Age,28.0
+34,SibSp,1
+34,Parch,0
+34,Ticket,PC 17604
+34,Fare,82.1708
+34,Embarked,C
+35,PassengerId,36
+35,Survived,0
+35,Pclass,1
+35,Name,"Holverson, Mr. Alexander Oskar"
+35,Sex,male
+35,Age,42.0
+35,SibSp,1
+35,Parch,0
+35,Ticket,113789
+35,Fare,52.0
+35,Embarked,S
+36,PassengerId,37
+36,Survived,1
+36,Pclass,3
+36,Name,"Mamee, Mr. Hanna"
+36,Sex,male
+36,SibSp,0
+36,Parch,0
+36,Ticket,2677
+36,Fare,7.2292
+36,Embarked,C
+37,PassengerId,38
+37,Survived,0
+37,Pclass,3
+37,Name,"Cann, Mr. Ernest Charles"
+37,Sex,male
+37,Age,21.0
+37,SibSp,0
+37,Parch,0
+37,Ticket,A./5. 2152
+37,Fare,8.05
+37,Embarked,S
+38,PassengerId,39
+38,Survived,0
+38,Pclass,3
+38,Name,"Vander Planke, Miss. Augusta Maria"
+38,Sex,female
+38,Age,18.0
+38,SibSp,2
+38,Parch,0
+38,Ticket,345764
+38,Fare,18.0
+38,Embarked,S
+39,PassengerId,40
+39,Survived,1
+39,Pclass,3
+39,Name,"Nicola-Yarred, Miss. Jamila"
+39,Sex,female
+39,Age,14.0
+39,SibSp,1
+39,Parch,0
+39,Ticket,2651
+39,Fare,11.2417
+39,Embarked,C
+40,PassengerId,41
+40,Survived,0
+40,Pclass,3
+40,Name,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)"
+40,Sex,female
+40,Age,40.0
+40,SibSp,1
+40,Parch,0
+40,Ticket,7546
+40,Fare,9.475
+40,Embarked,S
+41,PassengerId,42
+41,Survived,0
+41,Pclass,2
+41,Name,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)"
+41,Sex,female
+41,Age,27.0
+41,SibSp,1
+41,Parch,0
+41,Ticket,11668
+41,Fare,21.0
+41,Embarked,S
+42,PassengerId,43
+42,Survived,0
+42,Pclass,3
+42,Name,"Kraeff, Mr. Theodor"
+42,Sex,male
+42,SibSp,0
+42,Parch,0
+42,Ticket,349253
+42,Fare,7.8958
+42,Embarked,C
+43,PassengerId,44
+43,Survived,1
+43,Pclass,2
+43,Name,"Laroche, Miss. Simonne Marie Anne Andree"
+43,Sex,female
+43,Age,3.0
+43,SibSp,1
+43,Parch,2
+43,Ticket,SC/Paris 2123
+43,Fare,41.5792
+43,Embarked,C
+44,PassengerId,45
+44,Survived,1
+44,Pclass,3
+44,Name,"Devaney, Miss. Margaret Delia"
+44,Sex,female
+44,Age,19.0
+44,SibSp,0
+44,Parch,0
+44,Ticket,330958
+44,Fare,7.8792
+44,Embarked,Q
+45,PassengerId,46
+45,Survived,0
+45,Pclass,3
+45,Name,"Rogers, Mr. William John"
+45,Sex,male
+45,SibSp,0
+45,Parch,0
+45,Ticket,S.C./A.4. 23567
+45,Fare,8.05
+45,Embarked,S
+46,PassengerId,47
+46,Survived,0
+46,Pclass,3
+46,Name,"Lennon, Mr. Denis"
+46,Sex,male
+46,SibSp,1
+46,Parch,0
+46,Ticket,370371
+46,Fare,15.5
+46,Embarked,Q
+47,PassengerId,48
+47,Survived,1
+47,Pclass,3
+47,Name,"O'Driscoll, Miss. Bridget"
+47,Sex,female
+47,SibSp,0
+47,Parch,0
+47,Ticket,14311
+47,Fare,7.75
+47,Embarked,Q
+48,PassengerId,49
+48,Survived,0
+48,Pclass,3
+48,Name,"Samaan, Mr. Youssef"
+48,Sex,male
+48,SibSp,2
+48,Parch,0
+48,Ticket,2662
+48,Fare,21.6792
+48,Embarked,C
+49,PassengerId,50
+49,Survived,0
+49,Pclass,3
+49,Name,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)"
+49,Sex,female
+49,Age,18.0
+49,SibSp,1
+49,Parch,0
+49,Ticket,349237
+49,Fare,17.8
+49,Embarked,S
+50,PassengerId,51
+50,Survived,0
+50,Pclass,3
+50,Name,"Panula, Master. Juha Niilo"
+50,Sex,male
+50,Age,7.0
+50,SibSp,4
+50,Parch,1
+50,Ticket,3101295
+50,Fare,39.6875
+50,Embarked,S
+51,PassengerId,52
+51,Survived,0
+51,Pclass,3
+51,Name,"Nosworthy, Mr. Richard Cater"
+51,Sex,male
+51,Age,21.0
+51,SibSp,0
+51,Parch,0
+51,Ticket,A/4. 39886
+51,Fare,7.8
+51,Embarked,S
+52,PassengerId,53
+52,Survived,1
+52,Pclass,1
+52,Name,"Harper, Mrs. Henry Sleeper (Myna Haxtun)"
+52,Sex,female
+52,Age,49.0
+52,SibSp,1
+52,Parch,0
+52,Ticket,PC 17572
+52,Fare,76.7292
+52,Cabin,D33
+52,Embarked,C
+53,PassengerId,54
+53,Survived,1
+53,Pclass,2
+53,Name,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)"
+53,Sex,female
+53,Age,29.0
+53,SibSp,1
+53,Parch,0
+53,Ticket,2926
+53,Fare,26.0
+53,Embarked,S
+54,PassengerId,55
+54,Survived,0
+54,Pclass,1
+54,Name,"Ostby, Mr. Engelhart Cornelius"
+54,Sex,male
+54,Age,65.0
+54,SibSp,0
+54,Parch,1
+54,Ticket,113509
+54,Fare,61.9792
+54,Cabin,B30
+54,Embarked,C
+55,PassengerId,56
+55,Survived,1
+55,Pclass,1
+55,Name,"Woolner, Mr. Hugh"
+55,Sex,male
+55,SibSp,0
+55,Parch,0
+55,Ticket,19947
+55,Fare,35.5
+55,Cabin,C52
+55,Embarked,S
+56,PassengerId,57
+56,Survived,1
+56,Pclass,2
+56,Name,"Rugg, Miss. Emily"
+56,Sex,female
+56,Age,21.0
+56,SibSp,0
+56,Parch,0
+56,Ticket,C.A. 31026
+56,Fare,10.5
+56,Embarked,S
+57,PassengerId,58
+57,Survived,0
+57,Pclass,3
+57,Name,"Novel, Mr. Mansouer"
+57,Sex,male
+57,Age,28.5
+57,SibSp,0
+57,Parch,0
+57,Ticket,2697
+57,Fare,7.2292
+57,Embarked,C
+58,PassengerId,59
+58,Survived,1
+58,Pclass,2
+58,Name,"West, Miss. Constance Mirium"
+58,Sex,female
+58,Age,5.0
+58,SibSp,1
+58,Parch,2
+58,Ticket,C.A. 34651
+58,Fare,27.75
+58,Embarked,S
+59,PassengerId,60
+59,Survived,0
+59,Pclass,3
+59,Name,"Goodwin, Master. William Frederick"
+59,Sex,male
+59,Age,11.0
+59,SibSp,5
+59,Parch,2
+59,Ticket,CA 2144
+59,Fare,46.9
+59,Embarked,S
+60,PassengerId,61
+60,Survived,0
+60,Pclass,3
+60,Name,"Sirayanian, Mr. Orsen"
+60,Sex,male
+60,Age,22.0
+60,SibSp,0
+60,Parch,0
+60,Ticket,2669
+60,Fare,7.2292
+60,Embarked,C
+61,PassengerId,62
+61,Survived,1
+61,Pclass,1
+61,Name,"Icard, Miss. Amelie"
+61,Sex,female
+61,Age,38.0
+61,SibSp,0
+61,Parch,0
+61,Ticket,113572
+61,Fare,80.0
+61,Cabin,B28
+62,PassengerId,63
+62,Survived,0
+62,Pclass,1
+62,Name,"Harris, Mr. Henry Birkhardt"
+62,Sex,male
+62,Age,45.0
+62,SibSp,1
+62,Parch,0
+62,Ticket,36973
+62,Fare,83.475
+62,Cabin,C83
+62,Embarked,S
+63,PassengerId,64
+63,Survived,0
+63,Pclass,3
+63,Name,"Skoog, Master. Harald"
+63,Sex,male
+63,Age,4.0
+63,SibSp,3
+63,Parch,2
+63,Ticket,347088
+63,Fare,27.9
+63,Embarked,S
+64,PassengerId,65
+64,Survived,0
+64,Pclass,1
+64,Name,"Stewart, Mr. Albert A"
+64,Sex,male
+64,SibSp,0
+64,Parch,0
+64,Ticket,PC 17605
+64,Fare,27.7208
+64,Embarked,C
+65,PassengerId,66
+65,Survived,1
+65,Pclass,3
+65,Name,"Moubarek, Master. Gerios"
+65,Sex,male
+65,SibSp,1
+65,Parch,1
+65,Ticket,2661
+65,Fare,15.2458
+65,Embarked,C
+66,PassengerId,67
+66,Survived,1
+66,Pclass,2
+66,Name,"Nye, Mrs. (Elizabeth Ramell)"
+66,Sex,female
+66,Age,29.0
+66,SibSp,0
+66,Parch,0
+66,Ticket,C.A. 29395
+66,Fare,10.5
+66,Cabin,F33
+66,Embarked,S
+67,PassengerId,68
+67,Survived,0
+67,Pclass,3
+67,Name,"Crease, Mr. Ernest James"
+67,Sex,male
+67,Age,19.0
+67,SibSp,0
+67,Parch,0
+67,Ticket,S.P. 3464
+67,Fare,8.1583
+67,Embarked,S
+68,PassengerId,69
+68,Survived,1
+68,Pclass,3
+68,Name,"Andersson, Miss. Erna Alexandra"
+68,Sex,female
+68,Age,17.0
+68,SibSp,4
+68,Parch,2
+68,Ticket,3101281
+68,Fare,7.925
+68,Embarked,S
+69,PassengerId,70
+69,Survived,0
+69,Pclass,3
+69,Name,"Kink, Mr. Vincenz"
+69,Sex,male
+69,Age,26.0
+69,SibSp,2
+69,Parch,0
+69,Ticket,315151
+69,Fare,8.6625
+69,Embarked,S
+70,PassengerId,71
+70,Survived,0
+70,Pclass,2
+70,Name,"Jenkin, Mr. Stephen Curnow"
+70,Sex,male
+70,Age,32.0
+70,SibSp,0
+70,Parch,0
+70,Ticket,C.A. 33111
+70,Fare,10.5
+70,Embarked,S
+71,PassengerId,72
+71,Survived,0
+71,Pclass,3
+71,Name,"Goodwin, Miss. Lillian Amy"
+71,Sex,female
+71,Age,16.0
+71,SibSp,5
+71,Parch,2
+71,Ticket,CA 2144
+71,Fare,46.9
+71,Embarked,S
+72,PassengerId,73
+72,Survived,0
+72,Pclass,2
+72,Name,"Hood, Mr. Ambrose Jr"
+72,Sex,male
+72,Age,21.0
+72,SibSp,0
+72,Parch,0
+72,Ticket,S.O.C. 14879
+72,Fare,73.5
+72,Embarked,S
+73,PassengerId,74
+73,Survived,0
+73,Pclass,3
+73,Name,"Chronopoulos, Mr. Apostolos"
+73,Sex,male
+73,Age,26.0
+73,SibSp,1
+73,Parch,0
+73,Ticket,2680
+73,Fare,14.4542
+73,Embarked,C
+74,PassengerId,75
+74,Survived,1
+74,Pclass,3
+74,Name,"Bing, Mr. Lee"
+74,Sex,male
+74,Age,32.0
+74,SibSp,0
+74,Parch,0
+74,Ticket,1601
+74,Fare,56.4958
+74,Embarked,S
+75,PassengerId,76
+75,Survived,0
+75,Pclass,3
+75,Name,"Moen, Mr. Sigurd Hansen"
+75,Sex,male
+75,Age,25.0
+75,SibSp,0
+75,Parch,0
+75,Ticket,348123
+75,Fare,7.65
+75,Cabin,F G73
+75,Embarked,S
+76,PassengerId,77
+76,Survived,0
+76,Pclass,3
+76,Name,"Staneff, Mr. Ivan"
+76,Sex,male
+76,SibSp,0
+76,Parch,0
+76,Ticket,349208
+76,Fare,7.8958
+76,Embarked,S
+77,PassengerId,78
+77,Survived,0
+77,Pclass,3
+77,Name,"Moutal, Mr. Rahamin Haim"
+77,Sex,male
+77,SibSp,0
+77,Parch,0
+77,Ticket,374746
+77,Fare,8.05
+77,Embarked,S
+78,PassengerId,79
+78,Survived,1
+78,Pclass,2
+78,Name,"Caldwell, Master. Alden Gates"
+78,Sex,male
+78,Age,0.83
+78,SibSp,0
+78,Parch,2
+78,Ticket,248738
+78,Fare,29.0
+78,Embarked,S
+79,PassengerId,80
+79,Survived,1
+79,Pclass,3
+79,Name,"Dowdell, Miss. Elizabeth"
+79,Sex,female
+79,Age,30.0
+79,SibSp,0
+79,Parch,0
+79,Ticket,364516
+79,Fare,12.475
+79,Embarked,S
+80,PassengerId,81
+80,Survived,0
+80,Pclass,3
+80,Name,"Waelens, Mr. Achille"
+80,Sex,male
+80,Age,22.0
+80,SibSp,0
+80,Parch,0
+80,Ticket,345767
+80,Fare,9.0
+80,Embarked,S
+81,PassengerId,82
+81,Survived,1
+81,Pclass,3
+81,Name,"Sheerlinck, Mr. Jan Baptist"
+81,Sex,male
+81,Age,29.0
+81,SibSp,0
+81,Parch,0
+81,Ticket,345779
+81,Fare,9.5
+81,Embarked,S
+82,PassengerId,83
+82,Survived,1
+82,Pclass,3
+82,Name,"McDermott, Miss. Brigdet Delia"
+82,Sex,female
+82,SibSp,0
+82,Parch,0
+82,Ticket,330932
+82,Fare,7.7875
+82,Embarked,Q
+83,PassengerId,84
+83,Survived,0
+83,Pclass,1
+83,Name,"Carrau, Mr. Francisco M"
+83,Sex,male
+83,Age,28.0
+83,SibSp,0
+83,Parch,0
+83,Ticket,113059
+83,Fare,47.1
+83,Embarked,S
+84,PassengerId,85
+84,Survived,1
+84,Pclass,2
+84,Name,"Ilett, Miss. Bertha"
+84,Sex,female
+84,Age,17.0
+84,SibSp,0
+84,Parch,0
+84,Ticket,SO/C 14885
+84,Fare,10.5
+84,Embarked,S
+85,PassengerId,86
+85,Survived,1
+85,Pclass,3
+85,Name,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)"
+85,Sex,female
+85,Age,33.0
+85,SibSp,3
+85,Parch,0
+85,Ticket,3101278
+85,Fare,15.85
+85,Embarked,S
+86,PassengerId,87
+86,Survived,0
+86,Pclass,3
+86,Name,"Ford, Mr. William Neal"
+86,Sex,male
+86,Age,16.0
+86,SibSp,1
+86,Parch,3
+86,Ticket,W./C. 6608
+86,Fare,34.375
+86,Embarked,S
+87,PassengerId,88
+87,Survived,0
+87,Pclass,3
+87,Name,"Slocovski, Mr. Selman Francis"
+87,Sex,male
+87,SibSp,0
+87,Parch,0
+87,Ticket,SOTON/OQ 392086
+87,Fare,8.05
+87,Embarked,S
+88,PassengerId,89
+88,Survived,1
+88,Pclass,1
+88,Name,"Fortune, Miss. Mabel Helen"
+88,Sex,female
+88,Age,23.0
+88,SibSp,3
+88,Parch,2
+88,Ticket,19950
+88,Fare,263.0
+88,Cabin,C23 C25 C27
+88,Embarked,S
+89,PassengerId,90
+89,Survived,0
+89,Pclass,3
+89,Name,"Celotti, Mr. Francesco"
+89,Sex,male
+89,Age,24.0
+89,SibSp,0
+89,Parch,0
+89,Ticket,343275
+89,Fare,8.05
+89,Embarked,S
+90,PassengerId,91
+90,Survived,0
+90,Pclass,3
+90,Name,"Christmann, Mr. Emil"
+90,Sex,male
+90,Age,29.0
+90,SibSp,0
+90,Parch,0
+90,Ticket,343276
+90,Fare,8.05
+90,Embarked,S
+91,PassengerId,92
+91,Survived,0
+91,Pclass,3
+91,Name,"Andreasson, Mr. Paul Edvin"
+91,Sex,male
+91,Age,20.0
+91,SibSp,0
+91,Parch,0
+91,Ticket,347466
+91,Fare,7.8542
+91,Embarked,S
+92,PassengerId,93
+92,Survived,0
+92,Pclass,1
+92,Name,"Chaffee, Mr. Herbert Fuller"
+92,Sex,male
+92,Age,46.0
+92,SibSp,1
+92,Parch,0
+92,Ticket,W.E.P. 5734
+92,Fare,61.175
+92,Cabin,E31
+92,Embarked,S
+93,PassengerId,94
+93,Survived,0
+93,Pclass,3
+93,Name,"Dean, Mr. Bertram Frank"
+93,Sex,male
+93,Age,26.0
+93,SibSp,1
+93,Parch,2
+93,Ticket,C.A. 2315
+93,Fare,20.575
+93,Embarked,S
+94,PassengerId,95
+94,Survived,0
+94,Pclass,3
+94,Name,"Coxon, Mr. Daniel"
+94,Sex,male
+94,Age,59.0
+94,SibSp,0
+94,Parch,0
+94,Ticket,364500
+94,Fare,7.25
+94,Embarked,S
+95,PassengerId,96
+95,Survived,0
+95,Pclass,3
+95,Name,"Shorney, Mr. Charles Joseph"
+95,Sex,male
+95,SibSp,0
+95,Parch,0
+95,Ticket,374910
+95,Fare,8.05
+95,Embarked,S
+96,PassengerId,97
+96,Survived,0
+96,Pclass,1
+96,Name,"Goldschmidt, Mr. George B"
+96,Sex,male
+96,Age,71.0
+96,SibSp,0
+96,Parch,0
+96,Ticket,PC 17754
+96,Fare,34.6542
+96,Cabin,A5
+96,Embarked,C
+97,PassengerId,98
+97,Survived,1
+97,Pclass,1
+97,Name,"Greenfield, Mr. William Bertram"
+97,Sex,male
+97,Age,23.0
+97,SibSp,0
+97,Parch,1
+97,Ticket,PC 17759
+97,Fare,63.3583
+97,Cabin,D10 D12
+97,Embarked,C
+98,PassengerId,99
+98,Survived,1
+98,Pclass,2
+98,Name,"Doling, Mrs. John T (Ada Julia Bone)"
+98,Sex,female
+98,Age,34.0
+98,SibSp,0
+98,Parch,1
+98,Ticket,231919
+98,Fare,23.0
+98,Embarked,S
+99,PassengerId,100
+99,Survived,0
+99,Pclass,2
+99,Name,"Kantor, Mr. Sinai"
+99,Sex,male
+99,Age,34.0
+99,SibSp,1
+99,Parch,0
+99,Ticket,244367
+99,Fare,26.0
+99,Embarked,S
+100,PassengerId,101
+100,Survived,0
+100,Pclass,3
+100,Name,"Petranec, Miss. Matilda"
+100,Sex,female
+100,Age,28.0
+100,SibSp,0
+100,Parch,0
+100,Ticket,349245
+100,Fare,7.8958
+100,Embarked,S
+101,PassengerId,102
+101,Survived,0
+101,Pclass,3
+101,Name,"Petroff, Mr. Pastcho (""Pentcho"")"
+101,Sex,male
+101,SibSp,0
+101,Parch,0
+101,Ticket,349215
+101,Fare,7.8958
+101,Embarked,S
+102,PassengerId,103
+102,Survived,0
+102,Pclass,1
+102,Name,"White, Mr. Richard Frasar"
+102,Sex,male
+102,Age,21.0
+102,SibSp,0
+102,Parch,1
+102,Ticket,35281
+102,Fare,77.2875
+102,Cabin,D26
+102,Embarked,S
+103,PassengerId,104
+103,Survived,0
+103,Pclass,3
+103,Name,"Johansson, Mr. Gustaf Joel"
+103,Sex,male
+103,Age,33.0
+103,SibSp,0
+103,Parch,0
+103,Ticket,7540
+103,Fare,8.6542
+103,Embarked,S
+104,PassengerId,105
+104,Survived,0
+104,Pclass,3
+104,Name,"Gustafsson, Mr. Anders Vilhelm"
+104,Sex,male
+104,Age,37.0
+104,SibSp,2
+104,Parch,0
+104,Ticket,3101276
+104,Fare,7.925
+104,Embarked,S
+105,PassengerId,106
+105,Survived,0
+105,Pclass,3
+105,Name,"Mionoff, Mr. Stoytcho"
+105,Sex,male
+105,Age,28.0
+105,SibSp,0
+105,Parch,0
+105,Ticket,349207
+105,Fare,7.8958
+105,Embarked,S
+106,PassengerId,107
+106,Survived,1
+106,Pclass,3
+106,Name,"Salkjelsvik, Miss. Anna Kristine"
+106,Sex,female
+106,Age,21.0
+106,SibSp,0
+106,Parch,0
+106,Ticket,343120
+106,Fare,7.65
+106,Embarked,S
+107,PassengerId,108
+107,Survived,1
+107,Pclass,3
+107,Name,"Moss, Mr. Albert Johan"
+107,Sex,male
+107,SibSp,0
+107,Parch,0
+107,Ticket,312991
+107,Fare,7.775
+107,Embarked,S
+108,PassengerId,109
+108,Survived,0
+108,Pclass,3
+108,Name,"Rekic, Mr. Tido"
+108,Sex,male
+108,Age,38.0
+108,SibSp,0
+108,Parch,0
+108,Ticket,349249
+108,Fare,7.8958
+108,Embarked,S
+109,PassengerId,110
+109,Survived,1
+109,Pclass,3
+109,Name,"Moran, Miss. Bertha"
+109,Sex,female
+109,SibSp,1
+109,Parch,0
+109,Ticket,371110
+109,Fare,24.15
+109,Embarked,Q
+110,PassengerId,111
+110,Survived,0
+110,Pclass,1
+110,Name,"Porter, Mr. Walter Chamberlain"
+110,Sex,male
+110,Age,47.0
+110,SibSp,0
+110,Parch,0
+110,Ticket,110465
+110,Fare,52.0
+110,Cabin,C110
+110,Embarked,S
+111,PassengerId,112
+111,Survived,0
+111,Pclass,3
+111,Name,"Zabour, Miss. Hileni"
+111,Sex,female
+111,Age,14.5
+111,SibSp,1
+111,Parch,0
+111,Ticket,2665
+111,Fare,14.4542
+111,Embarked,C
+112,PassengerId,113
+112,Survived,0
+112,Pclass,3
+112,Name,"Barton, Mr. David John"
+112,Sex,male
+112,Age,22.0
+112,SibSp,0
+112,Parch,0
+112,Ticket,324669
+112,Fare,8.05
+112,Embarked,S
+113,PassengerId,114
+113,Survived,0
+113,Pclass,3
+113,Name,"Jussila, Miss. Katriina"
+113,Sex,female
+113,Age,20.0
+113,SibSp,1
+113,Parch,0
+113,Ticket,4136
+113,Fare,9.825
+113,Embarked,S
+114,PassengerId,115
+114,Survived,0
+114,Pclass,3
+114,Name,"Attalah, Miss. Malake"
+114,Sex,female
+114,Age,17.0
+114,SibSp,0
+114,Parch,0
+114,Ticket,2627
+114,Fare,14.4583
+114,Embarked,C
+115,PassengerId,116
+115,Survived,0
+115,Pclass,3
+115,Name,"Pekoniemi, Mr. Edvard"
+115,Sex,male
+115,Age,21.0
+115,SibSp,0
+115,Parch,0
+115,Ticket,STON/O 2. 3101294
+115,Fare,7.925
+115,Embarked,S
+116,PassengerId,117
+116,Survived,0
+116,Pclass,3
+116,Name,"Connors, Mr. Patrick"
+116,Sex,male
+116,Age,70.5
+116,SibSp,0
+116,Parch,0
+116,Ticket,370369
+116,Fare,7.75
+116,Embarked,Q
+117,PassengerId,118
+117,Survived,0
+117,Pclass,2
+117,Name,"Turpin, Mr. William John Robert"
+117,Sex,male
+117,Age,29.0
+117,SibSp,1
+117,Parch,0
+117,Ticket,11668
+117,Fare,21.0
+117,Embarked,S
+118,PassengerId,119
+118,Survived,0
+118,Pclass,1
+118,Name,"Baxter, Mr. Quigg Edmond"
+118,Sex,male
+118,Age,24.0
+118,SibSp,0
+118,Parch,1
+118,Ticket,PC 17558
+118,Fare,247.5208
+118,Cabin,B58 B60
+118,Embarked,C
+119,PassengerId,120
+119,Survived,0
+119,Pclass,3
+119,Name,"Andersson, Miss. Ellis Anna Maria"
+119,Sex,female
+119,Age,2.0
+119,SibSp,4
+119,Parch,2
+119,Ticket,347082
+119,Fare,31.275
+119,Embarked,S
+120,PassengerId,121
+120,Survived,0
+120,Pclass,2
+120,Name,"Hickman, Mr. Stanley George"
+120,Sex,male
+120,Age,21.0
+120,SibSp,2
+120,Parch,0
+120,Ticket,S.O.C. 14879
+120,Fare,73.5
+120,Embarked,S
+121,PassengerId,122
+121,Survived,0
+121,Pclass,3
+121,Name,"Moore, Mr. Leonard Charles"
+121,Sex,male
+121,SibSp,0
+121,Parch,0
+121,Ticket,A4. 54510
+121,Fare,8.05
+121,Embarked,S
+122,PassengerId,123
+122,Survived,0
+122,Pclass,2
+122,Name,"Nasser, Mr. Nicholas"
+122,Sex,male
+122,Age,32.5
+122,SibSp,1
+122,Parch,0
+122,Ticket,237736
+122,Fare,30.0708
+122,Embarked,C
+123,PassengerId,124
+123,Survived,1
+123,Pclass,2
+123,Name,"Webber, Miss. Susan"
+123,Sex,female
+123,Age,32.5
+123,SibSp,0
+123,Parch,0
+123,Ticket,27267
+123,Fare,13.0
+123,Cabin,E101
+123,Embarked,S
+124,PassengerId,125
+124,Survived,0
+124,Pclass,1
+124,Name,"White, Mr. Percival Wayland"
+124,Sex,male
+124,Age,54.0
+124,SibSp,0
+124,Parch,1
+124,Ticket,35281
+124,Fare,77.2875
+124,Cabin,D26
+124,Embarked,S
+125,PassengerId,126
+125,Survived,1
+125,Pclass,3
+125,Name,"Nicola-Yarred, Master. Elias"
+125,Sex,male
+125,Age,12.0
+125,SibSp,1
+125,Parch,0
+125,Ticket,2651
+125,Fare,11.2417
+125,Embarked,C
+126,PassengerId,127
+126,Survived,0
+126,Pclass,3
+126,Name,"McMahon, Mr. Martin"
+126,Sex,male
+126,SibSp,0
+126,Parch,0
+126,Ticket,370372
+126,Fare,7.75
+126,Embarked,Q
+127,PassengerId,128
+127,Survived,1
+127,Pclass,3
+127,Name,"Madsen, Mr. Fridtjof Arne"
+127,Sex,male
+127,Age,24.0
+127,SibSp,0
+127,Parch,0
+127,Ticket,C 17369
+127,Fare,7.1417
+127,Embarked,S
+128,PassengerId,129
+128,Survived,1
+128,Pclass,3
+128,Name,"Peter, Miss. Anna"
+128,Sex,female
+128,SibSp,1
+128,Parch,1
+128,Ticket,2668
+128,Fare,22.3583
+128,Cabin,F E69
+128,Embarked,C
+129,PassengerId,130
+129,Survived,0
+129,Pclass,3
+129,Name,"Ekstrom, Mr. Johan"
+129,Sex,male
+129,Age,45.0
+129,SibSp,0
+129,Parch,0
+129,Ticket,347061
+129,Fare,6.975
+129,Embarked,S
+130,PassengerId,131
+130,Survived,0
+130,Pclass,3
+130,Name,"Drazenoic, Mr. Jozef"
+130,Sex,male
+130,Age,33.0
+130,SibSp,0
+130,Parch,0
+130,Ticket,349241
+130,Fare,7.8958
+130,Embarked,C
+131,PassengerId,132
+131,Survived,0
+131,Pclass,3
+131,Name,"Coelho, Mr. Domingos Fernandeo"
+131,Sex,male
+131,Age,20.0
+131,SibSp,0
+131,Parch,0
+131,Ticket,SOTON/O.Q. 3101307
+131,Fare,7.05
+131,Embarked,S
+132,PassengerId,133
+132,Survived,0
+132,Pclass,3
+132,Name,"Robins, Mrs. Alexander A (Grace Charity Laury)"
+132,Sex,female
+132,Age,47.0
+132,SibSp,1
+132,Parch,0
+132,Ticket,A/5. 3337
+132,Fare,14.5
+132,Embarked,S
+133,PassengerId,134
+133,Survived,1
+133,Pclass,2
+133,Name,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)"
+133,Sex,female
+133,Age,29.0
+133,SibSp,1
+133,Parch,0
+133,Ticket,228414
+133,Fare,26.0
+133,Embarked,S
+134,PassengerId,135
+134,Survived,0
+134,Pclass,2
+134,Name,"Sobey, Mr. Samuel James Hayden"
+134,Sex,male
+134,Age,25.0
+134,SibSp,0
+134,Parch,0
+134,Ticket,C.A. 29178
+134,Fare,13.0
+134,Embarked,S
+135,PassengerId,136
+135,Survived,0
+135,Pclass,2
+135,Name,"Richard, Mr. Emile"
+135,Sex,male
+135,Age,23.0
+135,SibSp,0
+135,Parch,0
+135,Ticket,SC/PARIS 2133
+135,Fare,15.0458
+135,Embarked,C
+136,PassengerId,137
+136,Survived,1
+136,Pclass,1
+136,Name,"Newsom, Miss. Helen Monypeny"
+136,Sex,female
+136,Age,19.0
+136,SibSp,0
+136,Parch,2
+136,Ticket,11752
+136,Fare,26.2833
+136,Cabin,D47
+136,Embarked,S
+137,PassengerId,138
+137,Survived,0
+137,Pclass,1
+137,Name,"Futrelle, Mr. Jacques Heath"
+137,Sex,male
+137,Age,37.0
+137,SibSp,1
+137,Parch,0
+137,Ticket,113803
+137,Fare,53.1
+137,Cabin,C123
+137,Embarked,S
+138,PassengerId,139
+138,Survived,0
+138,Pclass,3
+138,Name,"Osen, Mr. Olaf Elon"
+138,Sex,male
+138,Age,16.0
+138,SibSp,0
+138,Parch,0
+138,Ticket,7534
+138,Fare,9.2167
+138,Embarked,S
+139,PassengerId,140
+139,Survived,0
+139,Pclass,1
+139,Name,"Giglio, Mr. Victor"
+139,Sex,male
+139,Age,24.0
+139,SibSp,0
+139,Parch,0
+139,Ticket,PC 17593
+139,Fare,79.2
+139,Cabin,B86
+139,Embarked,C
+140,PassengerId,141
+140,Survived,0
+140,Pclass,3
+140,Name,"Boulos, Mrs. Joseph (Sultana)"
+140,Sex,female
+140,SibSp,0
+140,Parch,2
+140,Ticket,2678
+140,Fare,15.2458
+140,Embarked,C
+141,PassengerId,142
+141,Survived,1
+141,Pclass,3
+141,Name,"Nysten, Miss. Anna Sofia"
+141,Sex,female
+141,Age,22.0
+141,SibSp,0
+141,Parch,0
+141,Ticket,347081
+141,Fare,7.75
+141,Embarked,S
+142,PassengerId,143
+142,Survived,1
+142,Pclass,3
+142,Name,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)"
+142,Sex,female
+142,Age,24.0
+142,SibSp,1
+142,Parch,0
+142,Ticket,STON/O2. 3101279
+142,Fare,15.85
+142,Embarked,S
+143,PassengerId,144
+143,Survived,0
+143,Pclass,3
+143,Name,"Burke, Mr. Jeremiah"
+143,Sex,male
+143,Age,19.0
+143,SibSp,0
+143,Parch,0
+143,Ticket,365222
+143,Fare,6.75
+143,Embarked,Q
+144,PassengerId,145
+144,Survived,0
+144,Pclass,2
+144,Name,"Andrew, Mr. Edgardo Samuel"
+144,Sex,male
+144,Age,18.0
+144,SibSp,0
+144,Parch,0
+144,Ticket,231945
+144,Fare,11.5
+144,Embarked,S
+145,PassengerId,146
+145,Survived,0
+145,Pclass,2
+145,Name,"Nicholls, Mr. Joseph Charles"
+145,Sex,male
+145,Age,19.0
+145,SibSp,1
+145,Parch,1
+145,Ticket,C.A. 33112
+145,Fare,36.75
+145,Embarked,S
+146,PassengerId,147
+146,Survived,1
+146,Pclass,3
+146,Name,"Andersson, Mr. August Edvard (""Wennerstrom"")"
+146,Sex,male
+146,Age,27.0
+146,SibSp,0
+146,Parch,0
+146,Ticket,350043
+146,Fare,7.7958
+146,Embarked,S
+147,PassengerId,148
+147,Survived,0
+147,Pclass,3
+147,Name,"Ford, Miss. Robina Maggie ""Ruby"""
+147,Sex,female
+147,Age,9.0
+147,SibSp,2
+147,Parch,2
+147,Ticket,W./C. 6608
+147,Fare,34.375
+147,Embarked,S
+148,PassengerId,149
+148,Survived,0
+148,Pclass,2
+148,Name,"Navratil, Mr. Michel (""Louis M Hoffman"")"
+148,Sex,male
+148,Age,36.5
+148,SibSp,0
+148,Parch,2
+148,Ticket,230080
+148,Fare,26.0
+148,Cabin,F2
+148,Embarked,S
+149,PassengerId,150
+149,Survived,0
+149,Pclass,2
+149,Name,"Byles, Rev. Thomas Roussel Davids"
+149,Sex,male
+149,Age,42.0
+149,SibSp,0
+149,Parch,0
+149,Ticket,244310
+149,Fare,13.0
+149,Embarked,S
+150,PassengerId,151
+150,Survived,0
+150,Pclass,2
+150,Name,"Bateman, Rev. Robert James"
+150,Sex,male
+150,Age,51.0
+150,SibSp,0
+150,Parch,0
+150,Ticket,S.O.P. 1166
+150,Fare,12.525
+150,Embarked,S
+151,PassengerId,152
+151,Survived,1
+151,Pclass,1
+151,Name,"Pears, Mrs. Thomas (Edith Wearne)"
+151,Sex,female
+151,Age,22.0
+151,SibSp,1
+151,Parch,0
+151,Ticket,113776
+151,Fare,66.6
+151,Cabin,C2
+151,Embarked,S
+152,PassengerId,153
+152,Survived,0
+152,Pclass,3
+152,Name,"Meo, Mr. Alfonzo"
+152,Sex,male
+152,Age,55.5
+152,SibSp,0
+152,Parch,0
+152,Ticket,A.5. 11206
+152,Fare,8.05
+152,Embarked,S
+153,PassengerId,154
+153,Survived,0
+153,Pclass,3
+153,Name,"van Billiard, Mr. Austin Blyler"
+153,Sex,male
+153,Age,40.5
+153,SibSp,0
+153,Parch,2
+153,Ticket,A/5. 851
+153,Fare,14.5
+153,Embarked,S
+154,PassengerId,155
+154,Survived,0
+154,Pclass,3
+154,Name,"Olsen, Mr. Ole Martin"
+154,Sex,male
+154,SibSp,0
+154,Parch,0
+154,Ticket,Fa 265302
+154,Fare,7.3125
+154,Embarked,S
+155,PassengerId,156
+155,Survived,0
+155,Pclass,1
+155,Name,"Williams, Mr. Charles Duane"
+155,Sex,male
+155,Age,51.0
+155,SibSp,0
+155,Parch,1
+155,Ticket,PC 17597
+155,Fare,61.3792
+155,Embarked,C
+156,PassengerId,157
+156,Survived,1
+156,Pclass,3
+156,Name,"Gilnagh, Miss. Katherine ""Katie"""
+156,Sex,female
+156,Age,16.0
+156,SibSp,0
+156,Parch,0
+156,Ticket,35851
+156,Fare,7.7333
+156,Embarked,Q
+157,PassengerId,158
+157,Survived,0
+157,Pclass,3
+157,Name,"Corn, Mr. Harry"
+157,Sex,male
+157,Age,30.0
+157,SibSp,0
+157,Parch,0
+157,Ticket,SOTON/OQ 392090
+157,Fare,8.05
+157,Embarked,S
+158,PassengerId,159
+158,Survived,0
+158,Pclass,3
+158,Name,"Smiljanic, Mr. Mile"
+158,Sex,male
+158,SibSp,0
+158,Parch,0
+158,Ticket,315037
+158,Fare,8.6625
+158,Embarked,S
+159,PassengerId,160
+159,Survived,0
+159,Pclass,3
+159,Name,"Sage, Master. Thomas Henry"
+159,Sex,male
+159,SibSp,8
+159,Parch,2
+159,Ticket,CA. 2343
+159,Fare,69.55
+159,Embarked,S
+160,PassengerId,161
+160,Survived,0
+160,Pclass,3
+160,Name,"Cribb, Mr. John Hatfield"
+160,Sex,male
+160,Age,44.0
+160,SibSp,0
+160,Parch,1
+160,Ticket,371362
+160,Fare,16.1
+160,Embarked,S
+161,PassengerId,162
+161,Survived,1
+161,Pclass,2
+161,Name,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)"
+161,Sex,female
+161,Age,40.0
+161,SibSp,0
+161,Parch,0
+161,Ticket,C.A. 33595
+161,Fare,15.75
+161,Embarked,S
+162,PassengerId,163
+162,Survived,0
+162,Pclass,3
+162,Name,"Bengtsson, Mr. John Viktor"
+162,Sex,male
+162,Age,26.0
+162,SibSp,0
+162,Parch,0
+162,Ticket,347068
+162,Fare,7.775
+162,Embarked,S
+163,PassengerId,164
+163,Survived,0
+163,Pclass,3
+163,Name,"Calic, Mr. Jovo"
+163,Sex,male
+163,Age,17.0
+163,SibSp,0
+163,Parch,0
+163,Ticket,315093
+163,Fare,8.6625
+163,Embarked,S
+164,PassengerId,165
+164,Survived,0
+164,Pclass,3
+164,Name,"Panula, Master. Eino Viljami"
+164,Sex,male
+164,Age,1.0
+164,SibSp,4
+164,Parch,1
+164,Ticket,3101295
+164,Fare,39.6875
+164,Embarked,S
+165,PassengerId,166
+165,Survived,1
+165,Pclass,3
+165,Name,"Goldsmith, Master. Frank John William ""Frankie"""
+165,Sex,male
+165,Age,9.0
+165,SibSp,0
+165,Parch,2
+165,Ticket,363291
+165,Fare,20.525
+165,Embarked,S
+166,PassengerId,167
+166,Survived,1
+166,Pclass,1
+166,Name,"Chibnall, Mrs. (Edith Martha Bowerman)"
+166,Sex,female
+166,SibSp,0
+166,Parch,1
+166,Ticket,113505
+166,Fare,55.0
+166,Cabin,E33
+166,Embarked,S
+167,PassengerId,168
+167,Survived,0
+167,Pclass,3
+167,Name,"Skoog, Mrs. William (Anna Bernhardina Karlsson)"
+167,Sex,female
+167,Age,45.0
+167,SibSp,1
+167,Parch,4
+167,Ticket,347088
+167,Fare,27.9
+167,Embarked,S
+168,PassengerId,169
+168,Survived,0
+168,Pclass,1
+168,Name,"Baumann, Mr. John D"
+168,Sex,male
+168,SibSp,0
+168,Parch,0
+168,Ticket,PC 17318
+168,Fare,25.925
+168,Embarked,S
+169,PassengerId,170
+169,Survived,0
+169,Pclass,3
+169,Name,"Ling, Mr. Lee"
+169,Sex,male
+169,Age,28.0
+169,SibSp,0
+169,Parch,0
+169,Ticket,1601
+169,Fare,56.4958
+169,Embarked,S
+170,PassengerId,171
+170,Survived,0
+170,Pclass,1
+170,Name,"Van der hoef, Mr. Wyckoff"
+170,Sex,male
+170,Age,61.0
+170,SibSp,0
+170,Parch,0
+170,Ticket,111240
+170,Fare,33.5
+170,Cabin,B19
+170,Embarked,S
+171,PassengerId,172
+171,Survived,0
+171,Pclass,3
+171,Name,"Rice, Master. Arthur"
+171,Sex,male
+171,Age,4.0
+171,SibSp,4
+171,Parch,1
+171,Ticket,382652
+171,Fare,29.125
+171,Embarked,Q
+172,PassengerId,173
+172,Survived,1
+172,Pclass,3
+172,Name,"Johnson, Miss. Eleanor Ileen"
+172,Sex,female
+172,Age,1.0
+172,SibSp,1
+172,Parch,1
+172,Ticket,347742
+172,Fare,11.1333
+172,Embarked,S
+173,PassengerId,174
+173,Survived,0
+173,Pclass,3
+173,Name,"Sivola, Mr. Antti Wilhelm"
+173,Sex,male
+173,Age,21.0
+173,SibSp,0
+173,Parch,0
+173,Ticket,STON/O 2. 3101280
+173,Fare,7.925
+173,Embarked,S
+174,PassengerId,175
+174,Survived,0
+174,Pclass,1
+174,Name,"Smith, Mr. James Clinch"
+174,Sex,male
+174,Age,56.0
+174,SibSp,0
+174,Parch,0
+174,Ticket,17764
+174,Fare,30.6958
+174,Cabin,A7
+174,Embarked,C
+175,PassengerId,176
+175,Survived,0
+175,Pclass,3
+175,Name,"Klasen, Mr. Klas Albin"
+175,Sex,male
+175,Age,18.0
+175,SibSp,1
+175,Parch,1
+175,Ticket,350404
+175,Fare,7.8542
+175,Embarked,S
+176,PassengerId,177
+176,Survived,0
+176,Pclass,3
+176,Name,"Lefebre, Master. Henry Forbes"
+176,Sex,male
+176,SibSp,3
+176,Parch,1
+176,Ticket,4133
+176,Fare,25.4667
+176,Embarked,S
+177,PassengerId,178
+177,Survived,0
+177,Pclass,1
+177,Name,"Isham, Miss. Ann Elizabeth"
+177,Sex,female
+177,Age,50.0
+177,SibSp,0
+177,Parch,0
+177,Ticket,PC 17595
+177,Fare,28.7125
+177,Cabin,C49
+177,Embarked,C
+178,PassengerId,179
+178,Survived,0
+178,Pclass,2
+178,Name,"Hale, Mr. Reginald"
+178,Sex,male
+178,Age,30.0
+178,SibSp,0
+178,Parch,0
+178,Ticket,250653
+178,Fare,13.0
+178,Embarked,S
+179,PassengerId,180
+179,Survived,0
+179,Pclass,3
+179,Name,"Leonard, Mr. Lionel"
+179,Sex,male
+179,Age,36.0
+179,SibSp,0
+179,Parch,0
+179,Ticket,LINE
+179,Fare,0.0
+179,Embarked,S
+180,PassengerId,181
+180,Survived,0
+180,Pclass,3
+180,Name,"Sage, Miss. Constance Gladys"
+180,Sex,female
+180,SibSp,8
+180,Parch,2
+180,Ticket,CA. 2343
+180,Fare,69.55
+180,Embarked,S
+181,PassengerId,182
+181,Survived,0
+181,Pclass,2
+181,Name,"Pernot, Mr. Rene"
+181,Sex,male
+181,SibSp,0
+181,Parch,0
+181,Ticket,SC/PARIS 2131
+181,Fare,15.05
+181,Embarked,C
+182,PassengerId,183
+182,Survived,0
+182,Pclass,3
+182,Name,"Asplund, Master. Clarence Gustaf Hugo"
+182,Sex,male
+182,Age,9.0
+182,SibSp,4
+182,Parch,2
+182,Ticket,347077
+182,Fare,31.3875
+182,Embarked,S
+183,PassengerId,184
+183,Survived,1
+183,Pclass,2
+183,Name,"Becker, Master. Richard F"
+183,Sex,male
+183,Age,1.0
+183,SibSp,2
+183,Parch,1
+183,Ticket,230136
+183,Fare,39.0
+183,Cabin,F4
+183,Embarked,S
+184,PassengerId,185
+184,Survived,1
+184,Pclass,3
+184,Name,"Kink-Heilmann, Miss. Luise Gretchen"
+184,Sex,female
+184,Age,4.0
+184,SibSp,0
+184,Parch,2
+184,Ticket,315153
+184,Fare,22.025
+184,Embarked,S
+185,PassengerId,186
+185,Survived,0
+185,Pclass,1
+185,Name,"Rood, Mr. Hugh Roscoe"
+185,Sex,male
+185,SibSp,0
+185,Parch,0
+185,Ticket,113767
+185,Fare,50.0
+185,Cabin,A32
+185,Embarked,S
+186,PassengerId,187
+186,Survived,1
+186,Pclass,3
+186,Name,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)"
+186,Sex,female
+186,SibSp,1
+186,Parch,0
+186,Ticket,370365
+186,Fare,15.5
+186,Embarked,Q
+187,PassengerId,188
+187,Survived,1
+187,Pclass,1
+187,Name,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")"
+187,Sex,male
+187,Age,45.0
+187,SibSp,0
+187,Parch,0
+187,Ticket,111428
+187,Fare,26.55
+187,Embarked,S
+188,PassengerId,189
+188,Survived,0
+188,Pclass,3
+188,Name,"Bourke, Mr. John"
+188,Sex,male
+188,Age,40.0
+188,SibSp,1
+188,Parch,1
+188,Ticket,364849
+188,Fare,15.5
+188,Embarked,Q
+189,PassengerId,190
+189,Survived,0
+189,Pclass,3
+189,Name,"Turcin, Mr. Stjepan"
+189,Sex,male
+189,Age,36.0
+189,SibSp,0
+189,Parch,0
+189,Ticket,349247
+189,Fare,7.8958
+189,Embarked,S
+190,PassengerId,191
+190,Survived,1
+190,Pclass,2
+190,Name,"Pinsky, Mrs. (Rosa)"
+190,Sex,female
+190,Age,32.0
+190,SibSp,0
+190,Parch,0
+190,Ticket,234604
+190,Fare,13.0
+190,Embarked,S
+191,PassengerId,192
+191,Survived,0
+191,Pclass,2
+191,Name,"Carbines, Mr. William"
+191,Sex,male
+191,Age,19.0
+191,SibSp,0
+191,Parch,0
+191,Ticket,28424
+191,Fare,13.0
+191,Embarked,S
+192,PassengerId,193
+192,Survived,1
+192,Pclass,3
+192,Name,"Andersen-Jensen, Miss. Carla Christine Nielsine"
+192,Sex,female
+192,Age,19.0
+192,SibSp,1
+192,Parch,0
+192,Ticket,350046
+192,Fare,7.8542
+192,Embarked,S
+193,PassengerId,194
+193,Survived,1
+193,Pclass,2
+193,Name,"Navratil, Master. Michel M"
+193,Sex,male
+193,Age,3.0
+193,SibSp,1
+193,Parch,1
+193,Ticket,230080
+193,Fare,26.0
+193,Cabin,F2
+193,Embarked,S
+194,PassengerId,195
+194,Survived,1
+194,Pclass,1
+194,Name,"Brown, Mrs. James Joseph (Margaret Tobin)"
+194,Sex,female
+194,Age,44.0
+194,SibSp,0
+194,Parch,0
+194,Ticket,PC 17610
+194,Fare,27.7208
+194,Cabin,B4
+194,Embarked,C
+195,PassengerId,196
+195,Survived,1
+195,Pclass,1
+195,Name,"Lurette, Miss. Elise"
+195,Sex,female
+195,Age,58.0
+195,SibSp,0
+195,Parch,0
+195,Ticket,PC 17569
+195,Fare,146.5208
+195,Cabin,B80
+195,Embarked,C
+196,PassengerId,197
+196,Survived,0
+196,Pclass,3
+196,Name,"Mernagh, Mr. Robert"
+196,Sex,male
+196,SibSp,0
+196,Parch,0
+196,Ticket,368703
+196,Fare,7.75
+196,Embarked,Q
+197,PassengerId,198
+197,Survived,0
+197,Pclass,3
+197,Name,"Olsen, Mr. Karl Siegwart Andreas"
+197,Sex,male
+197,Age,42.0
+197,SibSp,0
+197,Parch,1
+197,Ticket,4579
+197,Fare,8.4042
+197,Embarked,S
+198,PassengerId,199
+198,Survived,1
+198,Pclass,3
+198,Name,"Madigan, Miss. Margaret ""Maggie"""
+198,Sex,female
+198,SibSp,0
+198,Parch,0
+198,Ticket,370370
+198,Fare,7.75
+198,Embarked,Q
+199,PassengerId,200
+199,Survived,0
+199,Pclass,2
+199,Name,"Yrois, Miss. Henriette (""Mrs Harbeck"")"
+199,Sex,female
+199,Age,24.0
+199,SibSp,0
+199,Parch,0
+199,Ticket,248747
+199,Fare,13.0
+199,Embarked,S
+200,PassengerId,201
+200,Survived,0
+200,Pclass,3
+200,Name,"Vande Walle, Mr. Nestor Cyriel"
+200,Sex,male
+200,Age,28.0
+200,SibSp,0
+200,Parch,0
+200,Ticket,345770
+200,Fare,9.5
+200,Embarked,S
+201,PassengerId,202
+201,Survived,0
+201,Pclass,3
+201,Name,"Sage, Mr. Frederick"
+201,Sex,male
+201,SibSp,8
+201,Parch,2
+201,Ticket,CA. 2343
+201,Fare,69.55
+201,Embarked,S
+202,PassengerId,203
+202,Survived,0
+202,Pclass,3
+202,Name,"Johanson, Mr. Jakob Alfred"
+202,Sex,male
+202,Age,34.0
+202,SibSp,0
+202,Parch,0
+202,Ticket,3101264
+202,Fare,6.4958
+202,Embarked,S
+203,PassengerId,204
+203,Survived,0
+203,Pclass,3
+203,Name,"Youseff, Mr. Gerious"
+203,Sex,male
+203,Age,45.5
+203,SibSp,0
+203,Parch,0
+203,Ticket,2628
+203,Fare,7.225
+203,Embarked,C
+204,PassengerId,205
+204,Survived,1
+204,Pclass,3
+204,Name,"Cohen, Mr. Gurshon ""Gus"""
+204,Sex,male
+204,Age,18.0
+204,SibSp,0
+204,Parch,0
+204,Ticket,A/5 3540
+204,Fare,8.05
+204,Embarked,S
+205,PassengerId,206
+205,Survived,0
+205,Pclass,3
+205,Name,"Strom, Miss. Telma Matilda"
+205,Sex,female
+205,Age,2.0
+205,SibSp,0
+205,Parch,1
+205,Ticket,347054
+205,Fare,10.4625
+205,Cabin,G6
+205,Embarked,S
+206,PassengerId,207
+206,Survived,0
+206,Pclass,3
+206,Name,"Backstrom, Mr. Karl Alfred"
+206,Sex,male
+206,Age,32.0
+206,SibSp,1
+206,Parch,0
+206,Ticket,3101278
+206,Fare,15.85
+206,Embarked,S
+207,PassengerId,208
+207,Survived,1
+207,Pclass,3
+207,Name,"Albimona, Mr. Nassef Cassem"
+207,Sex,male
+207,Age,26.0
+207,SibSp,0
+207,Parch,0
+207,Ticket,2699
+207,Fare,18.7875
+207,Embarked,C
+208,PassengerId,209
+208,Survived,1
+208,Pclass,3
+208,Name,"Carr, Miss. Helen ""Ellen"""
+208,Sex,female
+208,Age,16.0
+208,SibSp,0
+208,Parch,0
+208,Ticket,367231
+208,Fare,7.75
+208,Embarked,Q
+209,PassengerId,210
+209,Survived,1
+209,Pclass,1
+209,Name,"Blank, Mr. Henry"
+209,Sex,male
+209,Age,40.0
+209,SibSp,0
+209,Parch,0
+209,Ticket,112277
+209,Fare,31.0
+209,Cabin,A31
+209,Embarked,C
+210,PassengerId,211
+210,Survived,0
+210,Pclass,3
+210,Name,"Ali, Mr. Ahmed"
+210,Sex,male
+210,Age,24.0
+210,SibSp,0
+210,Parch,0
+210,Ticket,SOTON/O.Q. 3101311
+210,Fare,7.05
+210,Embarked,S
+211,PassengerId,212
+211,Survived,1
+211,Pclass,2
+211,Name,"Cameron, Miss. Clear Annie"
+211,Sex,female
+211,Age,35.0
+211,SibSp,0
+211,Parch,0
+211,Ticket,F.C.C. 13528
+211,Fare,21.0
+211,Embarked,S
+212,PassengerId,213
+212,Survived,0
+212,Pclass,3
+212,Name,"Perkin, Mr. John Henry"
+212,Sex,male
+212,Age,22.0
+212,SibSp,0
+212,Parch,0
+212,Ticket,A/5 21174
+212,Fare,7.25
+212,Embarked,S
+213,PassengerId,214
+213,Survived,0
+213,Pclass,2
+213,Name,"Givard, Mr. Hans Kristensen"
+213,Sex,male
+213,Age,30.0
+213,SibSp,0
+213,Parch,0
+213,Ticket,250646
+213,Fare,13.0
+213,Embarked,S
+214,PassengerId,215
+214,Survived,0
+214,Pclass,3
+214,Name,"Kiernan, Mr. Philip"
+214,Sex,male
+214,SibSp,1
+214,Parch,0
+214,Ticket,367229
+214,Fare,7.75
+214,Embarked,Q
+215,PassengerId,216
+215,Survived,1
+215,Pclass,1
+215,Name,"Newell, Miss. Madeleine"
+215,Sex,female
+215,Age,31.0
+215,SibSp,1
+215,Parch,0
+215,Ticket,35273
+215,Fare,113.275
+215,Cabin,D36
+215,Embarked,C
+216,PassengerId,217
+216,Survived,1
+216,Pclass,3
+216,Name,"Honkanen, Miss. Eliina"
+216,Sex,female
+216,Age,27.0
+216,SibSp,0
+216,Parch,0
+216,Ticket,STON/O2. 3101283
+216,Fare,7.925
+216,Embarked,S
+217,PassengerId,218
+217,Survived,0
+217,Pclass,2
+217,Name,"Jacobsohn, Mr. Sidney Samuel"
+217,Sex,male
+217,Age,42.0
+217,SibSp,1
+217,Parch,0
+217,Ticket,243847
+217,Fare,27.0
+217,Embarked,S
+218,PassengerId,219
+218,Survived,1
+218,Pclass,1
+218,Name,"Bazzani, Miss. Albina"
+218,Sex,female
+218,Age,32.0
+218,SibSp,0
+218,Parch,0
+218,Ticket,11813
+218,Fare,76.2917
+218,Cabin,D15
+218,Embarked,C
+219,PassengerId,220
+219,Survived,0
+219,Pclass,2
+219,Name,"Harris, Mr. Walter"
+219,Sex,male
+219,Age,30.0
+219,SibSp,0
+219,Parch,0
+219,Ticket,W/C 14208
+219,Fare,10.5
+219,Embarked,S
+220,PassengerId,221
+220,Survived,1
+220,Pclass,3
+220,Name,"Sunderland, Mr. Victor Francis"
+220,Sex,male
+220,Age,16.0
+220,SibSp,0
+220,Parch,0
+220,Ticket,SOTON/OQ 392089
+220,Fare,8.05
+220,Embarked,S
+221,PassengerId,222
+221,Survived,0
+221,Pclass,2
+221,Name,"Bracken, Mr. James H"
+221,Sex,male
+221,Age,27.0
+221,SibSp,0
+221,Parch,0
+221,Ticket,220367
+221,Fare,13.0
+221,Embarked,S
+222,PassengerId,223
+222,Survived,0
+222,Pclass,3
+222,Name,"Green, Mr. George Henry"
+222,Sex,male
+222,Age,51.0
+222,SibSp,0
+222,Parch,0
+222,Ticket,21440
+222,Fare,8.05
+222,Embarked,S
+223,PassengerId,224
+223,Survived,0
+223,Pclass,3
+223,Name,"Nenkoff, Mr. Christo"
+223,Sex,male
+223,SibSp,0
+223,Parch,0
+223,Ticket,349234
+223,Fare,7.8958
+223,Embarked,S
+224,PassengerId,225
+224,Survived,1
+224,Pclass,1
+224,Name,"Hoyt, Mr. Frederick Maxfield"
+224,Sex,male
+224,Age,38.0
+224,SibSp,1
+224,Parch,0
+224,Ticket,19943
+224,Fare,90.0
+224,Cabin,C93
+224,Embarked,S
+225,PassengerId,226
+225,Survived,0
+225,Pclass,3
+225,Name,"Berglund, Mr. Karl Ivar Sven"
+225,Sex,male
+225,Age,22.0
+225,SibSp,0
+225,Parch,0
+225,Ticket,PP 4348
+225,Fare,9.35
+225,Embarked,S
+226,PassengerId,227
+226,Survived,1
+226,Pclass,2
+226,Name,"Mellors, Mr. William John"
+226,Sex,male
+226,Age,19.0
+226,SibSp,0
+226,Parch,0
+226,Ticket,SW/PP 751
+226,Fare,10.5
+226,Embarked,S
+227,PassengerId,228
+227,Survived,0
+227,Pclass,3
+227,Name,"Lovell, Mr. John Hall (""Henry"")"
+227,Sex,male
+227,Age,20.5
+227,SibSp,0
+227,Parch,0
+227,Ticket,A/5 21173
+227,Fare,7.25
+227,Embarked,S
+228,PassengerId,229
+228,Survived,0
+228,Pclass,2
+228,Name,"Fahlstrom, Mr. Arne Jonas"
+228,Sex,male
+228,Age,18.0
+228,SibSp,0
+228,Parch,0
+228,Ticket,236171
+228,Fare,13.0
+228,Embarked,S
+229,PassengerId,230
+229,Survived,0
+229,Pclass,3
+229,Name,"Lefebre, Miss. Mathilde"
+229,Sex,female
+229,SibSp,3
+229,Parch,1
+229,Ticket,4133
+229,Fare,25.4667
+229,Embarked,S
+230,PassengerId,231
+230,Survived,1
+230,Pclass,1
+230,Name,"Harris, Mrs. Henry Birkhardt (Irene Wallach)"
+230,Sex,female
+230,Age,35.0
+230,SibSp,1
+230,Parch,0
+230,Ticket,36973
+230,Fare,83.475
+230,Cabin,C83
+230,Embarked,S
+231,PassengerId,232
+231,Survived,0
+231,Pclass,3
+231,Name,"Larsson, Mr. Bengt Edvin"
+231,Sex,male
+231,Age,29.0
+231,SibSp,0
+231,Parch,0
+231,Ticket,347067
+231,Fare,7.775
+231,Embarked,S
+232,PassengerId,233
+232,Survived,0
+232,Pclass,2
+232,Name,"Sjostedt, Mr. Ernst Adolf"
+232,Sex,male
+232,Age,59.0
+232,SibSp,0
+232,Parch,0
+232,Ticket,237442
+232,Fare,13.5
+232,Embarked,S
+233,PassengerId,234
+233,Survived,1
+233,Pclass,3
+233,Name,"Asplund, Miss. Lillian Gertrud"
+233,Sex,female
+233,Age,5.0
+233,SibSp,4
+233,Parch,2
+233,Ticket,347077
+233,Fare,31.3875
+233,Embarked,S
+234,PassengerId,235
+234,Survived,0
+234,Pclass,2
+234,Name,"Leyson, Mr. Robert William Norman"
+234,Sex,male
+234,Age,24.0
+234,SibSp,0
+234,Parch,0
+234,Ticket,C.A. 29566
+234,Fare,10.5
+234,Embarked,S
+235,PassengerId,236
+235,Survived,0
+235,Pclass,3
+235,Name,"Harknett, Miss. Alice Phoebe"
+235,Sex,female
+235,SibSp,0
+235,Parch,0
+235,Ticket,W./C. 6609
+235,Fare,7.55
+235,Embarked,S
+236,PassengerId,237
+236,Survived,0
+236,Pclass,2
+236,Name,"Hold, Mr. Stephen"
+236,Sex,male
+236,Age,44.0
+236,SibSp,1
+236,Parch,0
+236,Ticket,26707
+236,Fare,26.0
+236,Embarked,S
+237,PassengerId,238
+237,Survived,1
+237,Pclass,2
+237,Name,"Collyer, Miss. Marjorie ""Lottie"""
+237,Sex,female
+237,Age,8.0
+237,SibSp,0
+237,Parch,2
+237,Ticket,C.A. 31921
+237,Fare,26.25
+237,Embarked,S
+238,PassengerId,239
+238,Survived,0
+238,Pclass,2
+238,Name,"Pengelly, Mr. Frederick William"
+238,Sex,male
+238,Age,19.0
+238,SibSp,0
+238,Parch,0
+238,Ticket,28665
+238,Fare,10.5
+238,Embarked,S
+239,PassengerId,240
+239,Survived,0
+239,Pclass,2
+239,Name,"Hunt, Mr. George Henry"
+239,Sex,male
+239,Age,33.0
+239,SibSp,0
+239,Parch,0
+239,Ticket,SCO/W 1585
+239,Fare,12.275
+239,Embarked,S
+240,PassengerId,241
+240,Survived,0
+240,Pclass,3
+240,Name,"Zabour, Miss. Thamine"
+240,Sex,female
+240,SibSp,1
+240,Parch,0
+240,Ticket,2665
+240,Fare,14.4542
+240,Embarked,C
+241,PassengerId,242
+241,Survived,1
+241,Pclass,3
+241,Name,"Murphy, Miss. Katherine ""Kate"""
+241,Sex,female
+241,SibSp,1
+241,Parch,0
+241,Ticket,367230
+241,Fare,15.5
+241,Embarked,Q
+242,PassengerId,243
+242,Survived,0
+242,Pclass,2
+242,Name,"Coleridge, Mr. Reginald Charles"
+242,Sex,male
+242,Age,29.0
+242,SibSp,0
+242,Parch,0
+242,Ticket,W./C. 14263
+242,Fare,10.5
+242,Embarked,S
+243,PassengerId,244
+243,Survived,0
+243,Pclass,3
+243,Name,"Maenpaa, Mr. Matti Alexanteri"
+243,Sex,male
+243,Age,22.0
+243,SibSp,0
+243,Parch,0
+243,Ticket,STON/O 2. 3101275
+243,Fare,7.125
+243,Embarked,S
+244,PassengerId,245
+244,Survived,0
+244,Pclass,3
+244,Name,"Attalah, Mr. Sleiman"
+244,Sex,male
+244,Age,30.0
+244,SibSp,0
+244,Parch,0
+244,Ticket,2694
+244,Fare,7.225
+244,Embarked,C
+245,PassengerId,246
+245,Survived,0
+245,Pclass,1
+245,Name,"Minahan, Dr. William Edward"
+245,Sex,male
+245,Age,44.0
+245,SibSp,2
+245,Parch,0
+245,Ticket,19928
+245,Fare,90.0
+245,Cabin,C78
+245,Embarked,Q
+246,PassengerId,247
+246,Survived,0
+246,Pclass,3
+246,Name,"Lindahl, Miss. Agda Thorilda Viktoria"
+246,Sex,female
+246,Age,25.0
+246,SibSp,0
+246,Parch,0
+246,Ticket,347071
+246,Fare,7.775
+246,Embarked,S
+247,PassengerId,248
+247,Survived,1
+247,Pclass,2
+247,Name,"Hamalainen, Mrs. William (Anna)"
+247,Sex,female
+247,Age,24.0
+247,SibSp,0
+247,Parch,2
+247,Ticket,250649
+247,Fare,14.5
+247,Embarked,S
+248,PassengerId,249
+248,Survived,1
+248,Pclass,1
+248,Name,"Beckwith, Mr. Richard Leonard"
+248,Sex,male
+248,Age,37.0
+248,SibSp,1
+248,Parch,1
+248,Ticket,11751
+248,Fare,52.5542
+248,Cabin,D35
+248,Embarked,S
+249,PassengerId,250
+249,Survived,0
+249,Pclass,2
+249,Name,"Carter, Rev. Ernest Courtenay"
+249,Sex,male
+249,Age,54.0
+249,SibSp,1
+249,Parch,0
+249,Ticket,244252
+249,Fare,26.0
+249,Embarked,S
+250,PassengerId,251
+250,Survived,0
+250,Pclass,3
+250,Name,"Reed, Mr. James George"
+250,Sex,male
+250,SibSp,0
+250,Parch,0
+250,Ticket,362316
+250,Fare,7.25
+250,Embarked,S
+251,PassengerId,252
+251,Survived,0
+251,Pclass,3
+251,Name,"Strom, Mrs. Wilhelm (Elna Matilda Persson)"
+251,Sex,female
+251,Age,29.0
+251,SibSp,1
+251,Parch,1
+251,Ticket,347054
+251,Fare,10.4625
+251,Cabin,G6
+251,Embarked,S
+252,PassengerId,253
+252,Survived,0
+252,Pclass,1
+252,Name,"Stead, Mr. William Thomas"
+252,Sex,male
+252,Age,62.0
+252,SibSp,0
+252,Parch,0
+252,Ticket,113514
+252,Fare,26.55
+252,Cabin,C87
+252,Embarked,S
+253,PassengerId,254
+253,Survived,0
+253,Pclass,3
+253,Name,"Lobb, Mr. William Arthur"
+253,Sex,male
+253,Age,30.0
+253,SibSp,1
+253,Parch,0
+253,Ticket,A/5. 3336
+253,Fare,16.1
+253,Embarked,S
+254,PassengerId,255
+254,Survived,0
+254,Pclass,3
+254,Name,"Rosblom, Mrs. Viktor (Helena Wilhelmina)"
+254,Sex,female
+254,Age,41.0
+254,SibSp,0
+254,Parch,2
+254,Ticket,370129
+254,Fare,20.2125
+254,Embarked,S
+255,PassengerId,256
+255,Survived,1
+255,Pclass,3
+255,Name,"Touma, Mrs. Darwis (Hanne Youssef Razi)"
+255,Sex,female
+255,Age,29.0
+255,SibSp,0
+255,Parch,2
+255,Ticket,2650
+255,Fare,15.2458
+255,Embarked,C
+256,PassengerId,257
+256,Survived,1
+256,Pclass,1
+256,Name,"Thorne, Mrs. Gertrude Maybelle"
+256,Sex,female
+256,SibSp,0
+256,Parch,0
+256,Ticket,PC 17585
+256,Fare,79.2
+256,Embarked,C
+257,PassengerId,258
+257,Survived,1
+257,Pclass,1
+257,Name,"Cherry, Miss. Gladys"
+257,Sex,female
+257,Age,30.0
+257,SibSp,0
+257,Parch,0
+257,Ticket,110152
+257,Fare,86.5
+257,Cabin,B77
+257,Embarked,S
+258,PassengerId,259
+258,Survived,1
+258,Pclass,1
+258,Name,"Ward, Miss. Anna"
+258,Sex,female
+258,Age,35.0
+258,SibSp,0
+258,Parch,0
+258,Ticket,PC 17755
+258,Fare,512.3292
+258,Embarked,C
+259,PassengerId,260
+259,Survived,1
+259,Pclass,2
+259,Name,"Parrish, Mrs. (Lutie Davis)"
+259,Sex,female
+259,Age,50.0
+259,SibSp,0
+259,Parch,1
+259,Ticket,230433
+259,Fare,26.0
+259,Embarked,S
+260,PassengerId,261
+260,Survived,0
+260,Pclass,3
+260,Name,"Smith, Mr. Thomas"
+260,Sex,male
+260,SibSp,0
+260,Parch,0
+260,Ticket,384461
+260,Fare,7.75
+260,Embarked,Q
+261,PassengerId,262
+261,Survived,1
+261,Pclass,3
+261,Name,"Asplund, Master. Edvin Rojj Felix"
+261,Sex,male
+261,Age,3.0
+261,SibSp,4
+261,Parch,2
+261,Ticket,347077
+261,Fare,31.3875
+261,Embarked,S
+262,PassengerId,263
+262,Survived,0
+262,Pclass,1
+262,Name,"Taussig, Mr. Emil"
+262,Sex,male
+262,Age,52.0
+262,SibSp,1
+262,Parch,1
+262,Ticket,110413
+262,Fare,79.65
+262,Cabin,E67
+262,Embarked,S
+263,PassengerId,264
+263,Survived,0
+263,Pclass,1
+263,Name,"Harrison, Mr. William"
+263,Sex,male
+263,Age,40.0
+263,SibSp,0
+263,Parch,0
+263,Ticket,112059
+263,Fare,0.0
+263,Cabin,B94
+263,Embarked,S
+264,PassengerId,265
+264,Survived,0
+264,Pclass,3
+264,Name,"Henry, Miss. Delia"
+264,Sex,female
+264,SibSp,0
+264,Parch,0
+264,Ticket,382649
+264,Fare,7.75
+264,Embarked,Q
+265,PassengerId,266
+265,Survived,0
+265,Pclass,2
+265,Name,"Reeves, Mr. David"
+265,Sex,male
+265,Age,36.0
+265,SibSp,0
+265,Parch,0
+265,Ticket,C.A. 17248
+265,Fare,10.5
+265,Embarked,S
+266,PassengerId,267
+266,Survived,0
+266,Pclass,3
+266,Name,"Panula, Mr. Ernesti Arvid"
+266,Sex,male
+266,Age,16.0
+266,SibSp,4
+266,Parch,1
+266,Ticket,3101295
+266,Fare,39.6875
+266,Embarked,S
+267,PassengerId,268
+267,Survived,1
+267,Pclass,3
+267,Name,"Persson, Mr. Ernst Ulrik"
+267,Sex,male
+267,Age,25.0
+267,SibSp,1
+267,Parch,0
+267,Ticket,347083
+267,Fare,7.775
+267,Embarked,S
+268,PassengerId,269
+268,Survived,1
+268,Pclass,1
+268,Name,"Graham, Mrs. William Thompson (Edith Junkins)"
+268,Sex,female
+268,Age,58.0
+268,SibSp,0
+268,Parch,1
+268,Ticket,PC 17582
+268,Fare,153.4625
+268,Cabin,C125
+268,Embarked,S
+269,PassengerId,270
+269,Survived,1
+269,Pclass,1
+269,Name,"Bissette, Miss. Amelia"
+269,Sex,female
+269,Age,35.0
+269,SibSp,0
+269,Parch,0
+269,Ticket,PC 17760
+269,Fare,135.6333
+269,Cabin,C99
+269,Embarked,S
+270,PassengerId,271
+270,Survived,0
+270,Pclass,1
+270,Name,"Cairns, Mr. Alexander"
+270,Sex,male
+270,SibSp,0
+270,Parch,0
+270,Ticket,113798
+270,Fare,31.0
+270,Embarked,S
+271,PassengerId,272
+271,Survived,1
+271,Pclass,3
+271,Name,"Tornquist, Mr. William Henry"
+271,Sex,male
+271,Age,25.0
+271,SibSp,0
+271,Parch,0
+271,Ticket,LINE
+271,Fare,0.0
+271,Embarked,S
+272,PassengerId,273
+272,Survived,1
+272,Pclass,2
+272,Name,"Mellinger, Mrs. (Elizabeth Anne Maidment)"
+272,Sex,female
+272,Age,41.0
+272,SibSp,0
+272,Parch,1
+272,Ticket,250644
+272,Fare,19.5
+272,Embarked,S
+273,PassengerId,274
+273,Survived,0
+273,Pclass,1
+273,Name,"Natsch, Mr. Charles H"
+273,Sex,male
+273,Age,37.0
+273,SibSp,0
+273,Parch,1
+273,Ticket,PC 17596
+273,Fare,29.7
+273,Cabin,C118
+273,Embarked,C
+274,PassengerId,275
+274,Survived,1
+274,Pclass,3
+274,Name,"Healy, Miss. Hanora ""Nora"""
+274,Sex,female
+274,SibSp,0
+274,Parch,0
+274,Ticket,370375
+274,Fare,7.75
+274,Embarked,Q
+275,PassengerId,276
+275,Survived,1
+275,Pclass,1
+275,Name,"Andrews, Miss. Kornelia Theodosia"
+275,Sex,female
+275,Age,63.0
+275,SibSp,1
+275,Parch,0
+275,Ticket,13502
+275,Fare,77.9583
+275,Cabin,D7
+275,Embarked,S
+276,PassengerId,277
+276,Survived,0
+276,Pclass,3
+276,Name,"Lindblom, Miss. Augusta Charlotta"
+276,Sex,female
+276,Age,45.0
+276,SibSp,0
+276,Parch,0
+276,Ticket,347073
+276,Fare,7.75
+276,Embarked,S
+277,PassengerId,278
+277,Survived,0
+277,Pclass,2
+277,Name,"Parkes, Mr. Francis ""Frank"""
+277,Sex,male
+277,SibSp,0
+277,Parch,0
+277,Ticket,239853
+277,Fare,0.0
+277,Embarked,S
+278,PassengerId,279
+278,Survived,0
+278,Pclass,3
+278,Name,"Rice, Master. Eric"
+278,Sex,male
+278,Age,7.0
+278,SibSp,4
+278,Parch,1
+278,Ticket,382652
+278,Fare,29.125
+278,Embarked,Q
+279,PassengerId,280
+279,Survived,1
+279,Pclass,3
+279,Name,"Abbott, Mrs. Stanton (Rosa Hunt)"
+279,Sex,female
+279,Age,35.0
+279,SibSp,1
+279,Parch,1
+279,Ticket,C.A. 2673
+279,Fare,20.25
+279,Embarked,S
+280,PassengerId,281
+280,Survived,0
+280,Pclass,3
+280,Name,"Duane, Mr. Frank"
+280,Sex,male
+280,Age,65.0
+280,SibSp,0
+280,Parch,0
+280,Ticket,336439
+280,Fare,7.75
+280,Embarked,Q
+281,PassengerId,282
+281,Survived,0
+281,Pclass,3
+281,Name,"Olsson, Mr. Nils Johan Goransson"
+281,Sex,male
+281,Age,28.0
+281,SibSp,0
+281,Parch,0
+281,Ticket,347464
+281,Fare,7.8542
+281,Embarked,S
+282,PassengerId,283
+282,Survived,0
+282,Pclass,3
+282,Name,"de Pelsmaeker, Mr. Alfons"
+282,Sex,male
+282,Age,16.0
+282,SibSp,0
+282,Parch,0
+282,Ticket,345778
+282,Fare,9.5
+282,Embarked,S
+283,PassengerId,284
+283,Survived,1
+283,Pclass,3
+283,Name,"Dorking, Mr. Edward Arthur"
+283,Sex,male
+283,Age,19.0
+283,SibSp,0
+283,Parch,0
+283,Ticket,A/5. 10482
+283,Fare,8.05
+283,Embarked,S
+284,PassengerId,285
+284,Survived,0
+284,Pclass,1
+284,Name,"Smith, Mr. Richard William"
+284,Sex,male
+284,SibSp,0
+284,Parch,0
+284,Ticket,113056
+284,Fare,26.0
+284,Cabin,A19
+284,Embarked,S
+285,PassengerId,286
+285,Survived,0
+285,Pclass,3
+285,Name,"Stankovic, Mr. Ivan"
+285,Sex,male
+285,Age,33.0
+285,SibSp,0
+285,Parch,0
+285,Ticket,349239
+285,Fare,8.6625
+285,Embarked,C
+286,PassengerId,287
+286,Survived,1
+286,Pclass,3
+286,Name,"de Mulder, Mr. Theodore"
+286,Sex,male
+286,Age,30.0
+286,SibSp,0
+286,Parch,0
+286,Ticket,345774
+286,Fare,9.5
+286,Embarked,S
+287,PassengerId,288
+287,Survived,0
+287,Pclass,3
+287,Name,"Naidenoff, Mr. Penko"
+287,Sex,male
+287,Age,22.0
+287,SibSp,0
+287,Parch,0
+287,Ticket,349206
+287,Fare,7.8958
+287,Embarked,S
+288,PassengerId,289
+288,Survived,1
+288,Pclass,2
+288,Name,"Hosono, Mr. Masabumi"
+288,Sex,male
+288,Age,42.0
+288,SibSp,0
+288,Parch,0
+288,Ticket,237798
+288,Fare,13.0
+288,Embarked,S
+289,PassengerId,290
+289,Survived,1
+289,Pclass,3
+289,Name,"Connolly, Miss. Kate"
+289,Sex,female
+289,Age,22.0
+289,SibSp,0
+289,Parch,0
+289,Ticket,370373
+289,Fare,7.75
+289,Embarked,Q
+290,PassengerId,291
+290,Survived,1
+290,Pclass,1
+290,Name,"Barber, Miss. Ellen ""Nellie"""
+290,Sex,female
+290,Age,26.0
+290,SibSp,0
+290,Parch,0
+290,Ticket,19877
+290,Fare,78.85
+290,Embarked,S
+291,PassengerId,292
+291,Survived,1
+291,Pclass,1
+291,Name,"Bishop, Mrs. Dickinson H (Helen Walton)"
+291,Sex,female
+291,Age,19.0
+291,SibSp,1
+291,Parch,0
+291,Ticket,11967
+291,Fare,91.0792
+291,Cabin,B49
+291,Embarked,C
+292,PassengerId,293
+292,Survived,0
+292,Pclass,2
+292,Name,"Levy, Mr. Rene Jacques"
+292,Sex,male
+292,Age,36.0
+292,SibSp,0
+292,Parch,0
+292,Ticket,SC/Paris 2163
+292,Fare,12.875
+292,Cabin,D
+292,Embarked,C
+293,PassengerId,294
+293,Survived,0
+293,Pclass,3
+293,Name,"Haas, Miss. Aloisia"
+293,Sex,female
+293,Age,24.0
+293,SibSp,0
+293,Parch,0
+293,Ticket,349236
+293,Fare,8.85
+293,Embarked,S
+294,PassengerId,295
+294,Survived,0
+294,Pclass,3
+294,Name,"Mineff, Mr. Ivan"
+294,Sex,male
+294,Age,24.0
+294,SibSp,0
+294,Parch,0
+294,Ticket,349233
+294,Fare,7.8958
+294,Embarked,S
+295,PassengerId,296
+295,Survived,0
+295,Pclass,1
+295,Name,"Lewy, Mr. Ervin G"
+295,Sex,male
+295,SibSp,0
+295,Parch,0
+295,Ticket,PC 17612
+295,Fare,27.7208
+295,Embarked,C
+296,PassengerId,297
+296,Survived,0
+296,Pclass,3
+296,Name,"Hanna, Mr. Mansour"
+296,Sex,male
+296,Age,23.5
+296,SibSp,0
+296,Parch,0
+296,Ticket,2693
+296,Fare,7.2292
+296,Embarked,C
+297,PassengerId,298
+297,Survived,0
+297,Pclass,1
+297,Name,"Allison, Miss. Helen Loraine"
+297,Sex,female
+297,Age,2.0
+297,SibSp,1
+297,Parch,2
+297,Ticket,113781
+297,Fare,151.55
+297,Cabin,C22 C26
+297,Embarked,S
+298,PassengerId,299
+298,Survived,1
+298,Pclass,1
+298,Name,"Saalfeld, Mr. Adolphe"
+298,Sex,male
+298,SibSp,0
+298,Parch,0
+298,Ticket,19988
+298,Fare,30.5
+298,Cabin,C106
+298,Embarked,S
+299,PassengerId,300
+299,Survived,1
+299,Pclass,1
+299,Name,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)"
+299,Sex,female
+299,Age,50.0
+299,SibSp,0
+299,Parch,1
+299,Ticket,PC 17558
+299,Fare,247.5208
+299,Cabin,B58 B60
+299,Embarked,C
+300,PassengerId,301
+300,Survived,1
+300,Pclass,3
+300,Name,"Kelly, Miss. Anna Katherine ""Annie Kate"""
+300,Sex,female
+300,SibSp,0
+300,Parch,0
+300,Ticket,9234
+300,Fare,7.75
+300,Embarked,Q
+301,PassengerId,302
+301,Survived,1
+301,Pclass,3
+301,Name,"McCoy, Mr. Bernard"
+301,Sex,male
+301,SibSp,2
+301,Parch,0
+301,Ticket,367226
+301,Fare,23.25
+301,Embarked,Q
+302,PassengerId,303
+302,Survived,0
+302,Pclass,3
+302,Name,"Johnson, Mr. William Cahoone Jr"
+302,Sex,male
+302,Age,19.0
+302,SibSp,0
+302,Parch,0
+302,Ticket,LINE
+302,Fare,0.0
+302,Embarked,S
+303,PassengerId,304
+303,Survived,1
+303,Pclass,2
+303,Name,"Keane, Miss. Nora A"
+303,Sex,female
+303,SibSp,0
+303,Parch,0
+303,Ticket,226593
+303,Fare,12.35
+303,Cabin,E101
+303,Embarked,Q
+304,PassengerId,305
+304,Survived,0
+304,Pclass,3
+304,Name,"Williams, Mr. Howard Hugh ""Harry"""
+304,Sex,male
+304,SibSp,0
+304,Parch,0
+304,Ticket,A/5 2466
+304,Fare,8.05
+304,Embarked,S
+305,PassengerId,306
+305,Survived,1
+305,Pclass,1
+305,Name,"Allison, Master. Hudson Trevor"
+305,Sex,male
+305,Age,0.92
+305,SibSp,1
+305,Parch,2
+305,Ticket,113781
+305,Fare,151.55
+305,Cabin,C22 C26
+305,Embarked,S
+306,PassengerId,307
+306,Survived,1
+306,Pclass,1
+306,Name,"Fleming, Miss. Margaret"
+306,Sex,female
+306,SibSp,0
+306,Parch,0
+306,Ticket,17421
+306,Fare,110.8833
+306,Embarked,C
+307,PassengerId,308
+307,Survived,1
+307,Pclass,1
+307,Name,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)"
+307,Sex,female
+307,Age,17.0
+307,SibSp,1
+307,Parch,0
+307,Ticket,PC 17758
+307,Fare,108.9
+307,Cabin,C65
+307,Embarked,C
+308,PassengerId,309
+308,Survived,0
+308,Pclass,2
+308,Name,"Abelson, Mr. Samuel"
+308,Sex,male
+308,Age,30.0
+308,SibSp,1
+308,Parch,0
+308,Ticket,P/PP 3381
+308,Fare,24.0
+308,Embarked,C
+309,PassengerId,310
+309,Survived,1
+309,Pclass,1
+309,Name,"Francatelli, Miss. Laura Mabel"
+309,Sex,female
+309,Age,30.0
+309,SibSp,0
+309,Parch,0
+309,Ticket,PC 17485
+309,Fare,56.9292
+309,Cabin,E36
+309,Embarked,C
+310,PassengerId,311
+310,Survived,1
+310,Pclass,1
+310,Name,"Hays, Miss. Margaret Bechstein"
+310,Sex,female
+310,Age,24.0
+310,SibSp,0
+310,Parch,0
+310,Ticket,11767
+310,Fare,83.1583
+310,Cabin,C54
+310,Embarked,C
+311,PassengerId,312
+311,Survived,1
+311,Pclass,1
+311,Name,"Ryerson, Miss. Emily Borie"
+311,Sex,female
+311,Age,18.0
+311,SibSp,2
+311,Parch,2
+311,Ticket,PC 17608
+311,Fare,262.375
+311,Cabin,B57 B59 B63 B66
+311,Embarked,C
+312,PassengerId,313
+312,Survived,0
+312,Pclass,2
+312,Name,"Lahtinen, Mrs. William (Anna Sylfven)"
+312,Sex,female
+312,Age,26.0
+312,SibSp,1
+312,Parch,1
+312,Ticket,250651
+312,Fare,26.0
+312,Embarked,S
+313,PassengerId,314
+313,Survived,0
+313,Pclass,3
+313,Name,"Hendekovic, Mr. Ignjac"
+313,Sex,male
+313,Age,28.0
+313,SibSp,0
+313,Parch,0
+313,Ticket,349243
+313,Fare,7.8958
+313,Embarked,S
+314,PassengerId,315
+314,Survived,0
+314,Pclass,2
+314,Name,"Hart, Mr. Benjamin"
+314,Sex,male
+314,Age,43.0
+314,SibSp,1
+314,Parch,1
+314,Ticket,F.C.C. 13529
+314,Fare,26.25
+314,Embarked,S
+315,PassengerId,316
+315,Survived,1
+315,Pclass,3
+315,Name,"Nilsson, Miss. Helmina Josefina"
+315,Sex,female
+315,Age,26.0
+315,SibSp,0
+315,Parch,0
+315,Ticket,347470
+315,Fare,7.8542
+315,Embarked,S
+316,PassengerId,317
+316,Survived,1
+316,Pclass,2
+316,Name,"Kantor, Mrs. Sinai (Miriam Sternin)"
+316,Sex,female
+316,Age,24.0
+316,SibSp,1
+316,Parch,0
+316,Ticket,244367
+316,Fare,26.0
+316,Embarked,S
+317,PassengerId,318
+317,Survived,0
+317,Pclass,2
+317,Name,"Moraweck, Dr. Ernest"
+317,Sex,male
+317,Age,54.0
+317,SibSp,0
+317,Parch,0
+317,Ticket,29011
+317,Fare,14.0
+317,Embarked,S
+318,PassengerId,319
+318,Survived,1
+318,Pclass,1
+318,Name,"Wick, Miss. Mary Natalie"
+318,Sex,female
+318,Age,31.0
+318,SibSp,0
+318,Parch,2
+318,Ticket,36928
+318,Fare,164.8667
+318,Cabin,C7
+318,Embarked,S
+319,PassengerId,320
+319,Survived,1
+319,Pclass,1
+319,Name,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)"
+319,Sex,female
+319,Age,40.0
+319,SibSp,1
+319,Parch,1
+319,Ticket,16966
+319,Fare,134.5
+319,Cabin,E34
+319,Embarked,C
+320,PassengerId,321
+320,Survived,0
+320,Pclass,3
+320,Name,"Dennis, Mr. Samuel"
+320,Sex,male
+320,Age,22.0
+320,SibSp,0
+320,Parch,0
+320,Ticket,A/5 21172
+320,Fare,7.25
+320,Embarked,S
+321,PassengerId,322
+321,Survived,0
+321,Pclass,3
+321,Name,"Danoff, Mr. Yoto"
+321,Sex,male
+321,Age,27.0
+321,SibSp,0
+321,Parch,0
+321,Ticket,349219
+321,Fare,7.8958
+321,Embarked,S
+322,PassengerId,323
+322,Survived,1
+322,Pclass,2
+322,Name,"Slayter, Miss. Hilda Mary"
+322,Sex,female
+322,Age,30.0
+322,SibSp,0
+322,Parch,0
+322,Ticket,234818
+322,Fare,12.35
+322,Embarked,Q
+323,PassengerId,324
+323,Survived,1
+323,Pclass,2
+323,Name,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)"
+323,Sex,female
+323,Age,22.0
+323,SibSp,1
+323,Parch,1
+323,Ticket,248738
+323,Fare,29.0
+323,Embarked,S
+324,PassengerId,325
+324,Survived,0
+324,Pclass,3
+324,Name,"Sage, Mr. George John Jr"
+324,Sex,male
+324,SibSp,8
+324,Parch,2
+324,Ticket,CA. 2343
+324,Fare,69.55
+324,Embarked,S
+325,PassengerId,326
+325,Survived,1
+325,Pclass,1
+325,Name,"Young, Miss. Marie Grice"
+325,Sex,female
+325,Age,36.0
+325,SibSp,0
+325,Parch,0
+325,Ticket,PC 17760
+325,Fare,135.6333
+325,Cabin,C32
+325,Embarked,C
+326,PassengerId,327
+326,Survived,0
+326,Pclass,3
+326,Name,"Nysveen, Mr. Johan Hansen"
+326,Sex,male
+326,Age,61.0
+326,SibSp,0
+326,Parch,0
+326,Ticket,345364
+326,Fare,6.2375
+326,Embarked,S
+327,PassengerId,328
+327,Survived,1
+327,Pclass,2
+327,Name,"Ball, Mrs. (Ada E Hall)"
+327,Sex,female
+327,Age,36.0
+327,SibSp,0
+327,Parch,0
+327,Ticket,28551
+327,Fare,13.0
+327,Cabin,D
+327,Embarked,S
+328,PassengerId,329
+328,Survived,1
+328,Pclass,3
+328,Name,"Goldsmith, Mrs. Frank John (Emily Alice Brown)"
+328,Sex,female
+328,Age,31.0
+328,SibSp,1
+328,Parch,1
+328,Ticket,363291
+328,Fare,20.525
+328,Embarked,S
+329,PassengerId,330
+329,Survived,1
+329,Pclass,1
+329,Name,"Hippach, Miss. Jean Gertrude"
+329,Sex,female
+329,Age,16.0
+329,SibSp,0
+329,Parch,1
+329,Ticket,111361
+329,Fare,57.9792
+329,Cabin,B18
+329,Embarked,C
+330,PassengerId,331
+330,Survived,1
+330,Pclass,3
+330,Name,"McCoy, Miss. Agnes"
+330,Sex,female
+330,SibSp,2
+330,Parch,0
+330,Ticket,367226
+330,Fare,23.25
+330,Embarked,Q
+331,PassengerId,332
+331,Survived,0
+331,Pclass,1
+331,Name,"Partner, Mr. Austen"
+331,Sex,male
+331,Age,45.5
+331,SibSp,0
+331,Parch,0
+331,Ticket,113043
+331,Fare,28.5
+331,Cabin,C124
+331,Embarked,S
+332,PassengerId,333
+332,Survived,0
+332,Pclass,1
+332,Name,"Graham, Mr. George Edward"
+332,Sex,male
+332,Age,38.0
+332,SibSp,0
+332,Parch,1
+332,Ticket,PC 17582
+332,Fare,153.4625
+332,Cabin,C91
+332,Embarked,S
+333,PassengerId,334
+333,Survived,0
+333,Pclass,3
+333,Name,"Vander Planke, Mr. Leo Edmondus"
+333,Sex,male
+333,Age,16.0
+333,SibSp,2
+333,Parch,0
+333,Ticket,345764
+333,Fare,18.0
+333,Embarked,S
+334,PassengerId,335
+334,Survived,1
+334,Pclass,1
+334,Name,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)"
+334,Sex,female
+334,SibSp,1
+334,Parch,0
+334,Ticket,PC 17611
+334,Fare,133.65
+334,Embarked,S
+335,PassengerId,336
+335,Survived,0
+335,Pclass,3
+335,Name,"Denkoff, Mr. Mitto"
+335,Sex,male
+335,SibSp,0
+335,Parch,0
+335,Ticket,349225
+335,Fare,7.8958
+335,Embarked,S
+336,PassengerId,337
+336,Survived,0
+336,Pclass,1
+336,Name,"Pears, Mr. Thomas Clinton"
+336,Sex,male
+336,Age,29.0
+336,SibSp,1
+336,Parch,0
+336,Ticket,113776
+336,Fare,66.6
+336,Cabin,C2
+336,Embarked,S
+337,PassengerId,338
+337,Survived,1
+337,Pclass,1
+337,Name,"Burns, Miss. Elizabeth Margaret"
+337,Sex,female
+337,Age,41.0
+337,SibSp,0
+337,Parch,0
+337,Ticket,16966
+337,Fare,134.5
+337,Cabin,E40
+337,Embarked,C
+338,PassengerId,339
+338,Survived,1
+338,Pclass,3
+338,Name,"Dahl, Mr. Karl Edwart"
+338,Sex,male
+338,Age,45.0
+338,SibSp,0
+338,Parch,0
+338,Ticket,7598
+338,Fare,8.05
+338,Embarked,S
+339,PassengerId,340
+339,Survived,0
+339,Pclass,1
+339,Name,"Blackwell, Mr. Stephen Weart"
+339,Sex,male
+339,Age,45.0
+339,SibSp,0
+339,Parch,0
+339,Ticket,113784
+339,Fare,35.5
+339,Cabin,T
+339,Embarked,S
+340,PassengerId,341
+340,Survived,1
+340,Pclass,2
+340,Name,"Navratil, Master. Edmond Roger"
+340,Sex,male
+340,Age,2.0
+340,SibSp,1
+340,Parch,1
+340,Ticket,230080
+340,Fare,26.0
+340,Cabin,F2
+340,Embarked,S
+341,PassengerId,342
+341,Survived,1
+341,Pclass,1
+341,Name,"Fortune, Miss. Alice Elizabeth"
+341,Sex,female
+341,Age,24.0
+341,SibSp,3
+341,Parch,2
+341,Ticket,19950
+341,Fare,263.0
+341,Cabin,C23 C25 C27
+341,Embarked,S
+342,PassengerId,343
+342,Survived,0
+342,Pclass,2
+342,Name,"Collander, Mr. Erik Gustaf"
+342,Sex,male
+342,Age,28.0
+342,SibSp,0
+342,Parch,0
+342,Ticket,248740
+342,Fare,13.0
+342,Embarked,S
+343,PassengerId,344
+343,Survived,0
+343,Pclass,2
+343,Name,"Sedgwick, Mr. Charles Frederick Waddington"
+343,Sex,male
+343,Age,25.0
+343,SibSp,0
+343,Parch,0
+343,Ticket,244361
+343,Fare,13.0
+343,Embarked,S
+344,PassengerId,345
+344,Survived,0
+344,Pclass,2
+344,Name,"Fox, Mr. Stanley Hubert"
+344,Sex,male
+344,Age,36.0
+344,SibSp,0
+344,Parch,0
+344,Ticket,229236
+344,Fare,13.0
+344,Embarked,S
+345,PassengerId,346
+345,Survived,1
+345,Pclass,2
+345,Name,"Brown, Miss. Amelia ""Mildred"""
+345,Sex,female
+345,Age,24.0
+345,SibSp,0
+345,Parch,0
+345,Ticket,248733
+345,Fare,13.0
+345,Cabin,F33
+345,Embarked,S
+346,PassengerId,347
+346,Survived,1
+346,Pclass,2
+346,Name,"Smith, Miss. Marion Elsie"
+346,Sex,female
+346,Age,40.0
+346,SibSp,0
+346,Parch,0
+346,Ticket,31418
+346,Fare,13.0
+346,Embarked,S
+347,PassengerId,348
+347,Survived,1
+347,Pclass,3
+347,Name,"Davison, Mrs. Thomas Henry (Mary E Finck)"
+347,Sex,female
+347,SibSp,1
+347,Parch,0
+347,Ticket,386525
+347,Fare,16.1
+347,Embarked,S
+348,PassengerId,349
+348,Survived,1
+348,Pclass,3
+348,Name,"Coutts, Master. William Loch ""William"""
+348,Sex,male
+348,Age,3.0
+348,SibSp,1
+348,Parch,1
+348,Ticket,C.A. 37671
+348,Fare,15.9
+348,Embarked,S
+349,PassengerId,350
+349,Survived,0
+349,Pclass,3
+349,Name,"Dimic, Mr. Jovan"
+349,Sex,male
+349,Age,42.0
+349,SibSp,0
+349,Parch,0
+349,Ticket,315088
+349,Fare,8.6625
+349,Embarked,S
+350,PassengerId,351
+350,Survived,0
+350,Pclass,3
+350,Name,"Odahl, Mr. Nils Martin"
+350,Sex,male
+350,Age,23.0
+350,SibSp,0
+350,Parch,0
+350,Ticket,7267
+350,Fare,9.225
+350,Embarked,S
+351,PassengerId,352
+351,Survived,0
+351,Pclass,1
+351,Name,"Williams-Lambert, Mr. Fletcher Fellows"
+351,Sex,male
+351,SibSp,0
+351,Parch,0
+351,Ticket,113510
+351,Fare,35.0
+351,Cabin,C128
+351,Embarked,S
+352,PassengerId,353
+352,Survived,0
+352,Pclass,3
+352,Name,"Elias, Mr. Tannous"
+352,Sex,male
+352,Age,15.0
+352,SibSp,1
+352,Parch,1
+352,Ticket,2695
+352,Fare,7.2292
+352,Embarked,C
+353,PassengerId,354
+353,Survived,0
+353,Pclass,3
+353,Name,"Arnold-Franchi, Mr. Josef"
+353,Sex,male
+353,Age,25.0
+353,SibSp,1
+353,Parch,0
+353,Ticket,349237
+353,Fare,17.8
+353,Embarked,S
+354,PassengerId,355
+354,Survived,0
+354,Pclass,3
+354,Name,"Yousif, Mr. Wazli"
+354,Sex,male
+354,SibSp,0
+354,Parch,0
+354,Ticket,2647
+354,Fare,7.225
+354,Embarked,C
+355,PassengerId,356
+355,Survived,0
+355,Pclass,3
+355,Name,"Vanden Steen, Mr. Leo Peter"
+355,Sex,male
+355,Age,28.0
+355,SibSp,0
+355,Parch,0
+355,Ticket,345783
+355,Fare,9.5
+355,Embarked,S
+356,PassengerId,357
+356,Survived,1
+356,Pclass,1
+356,Name,"Bowerman, Miss. Elsie Edith"
+356,Sex,female
+356,Age,22.0
+356,SibSp,0
+356,Parch,1
+356,Ticket,113505
+356,Fare,55.0
+356,Cabin,E33
+356,Embarked,S
+357,PassengerId,358
+357,Survived,0
+357,Pclass,2
+357,Name,"Funk, Miss. Annie Clemmer"
+357,Sex,female
+357,Age,38.0
+357,SibSp,0
+357,Parch,0
+357,Ticket,237671
+357,Fare,13.0
+357,Embarked,S
+358,PassengerId,359
+358,Survived,1
+358,Pclass,3
+358,Name,"McGovern, Miss. Mary"
+358,Sex,female
+358,SibSp,0
+358,Parch,0
+358,Ticket,330931
+358,Fare,7.8792
+358,Embarked,Q
+359,PassengerId,360
+359,Survived,1
+359,Pclass,3
+359,Name,"Mockler, Miss. Helen Mary ""Ellie"""
+359,Sex,female
+359,SibSp,0
+359,Parch,0
+359,Ticket,330980
+359,Fare,7.8792
+359,Embarked,Q
+360,PassengerId,361
+360,Survived,0
+360,Pclass,3
+360,Name,"Skoog, Mr. Wilhelm"
+360,Sex,male
+360,Age,40.0
+360,SibSp,1
+360,Parch,4
+360,Ticket,347088
+360,Fare,27.9
+360,Embarked,S
+361,PassengerId,362
+361,Survived,0
+361,Pclass,2
+361,Name,"del Carlo, Mr. Sebastiano"
+361,Sex,male
+361,Age,29.0
+361,SibSp,1
+361,Parch,0
+361,Ticket,SC/PARIS 2167
+361,Fare,27.7208
+361,Embarked,C
+362,PassengerId,363
+362,Survived,0
+362,Pclass,3
+362,Name,"Barbara, Mrs. (Catherine David)"
+362,Sex,female
+362,Age,45.0
+362,SibSp,0
+362,Parch,1
+362,Ticket,2691
+362,Fare,14.4542
+362,Embarked,C
+363,PassengerId,364
+363,Survived,0
+363,Pclass,3
+363,Name,"Asim, Mr. Adola"
+363,Sex,male
+363,Age,35.0
+363,SibSp,0
+363,Parch,0
+363,Ticket,SOTON/O.Q. 3101310
+363,Fare,7.05
+363,Embarked,S
+364,PassengerId,365
+364,Survived,0
+364,Pclass,3
+364,Name,"O'Brien, Mr. Thomas"
+364,Sex,male
+364,SibSp,1
+364,Parch,0
+364,Ticket,370365
+364,Fare,15.5
+364,Embarked,Q
+365,PassengerId,366
+365,Survived,0
+365,Pclass,3
+365,Name,"Adahl, Mr. Mauritz Nils Martin"
+365,Sex,male
+365,Age,30.0
+365,SibSp,0
+365,Parch,0
+365,Ticket,C 7076
+365,Fare,7.25
+365,Embarked,S
+366,PassengerId,367
+366,Survived,1
+366,Pclass,1
+366,Name,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)"
+366,Sex,female
+366,Age,60.0
+366,SibSp,1
+366,Parch,0
+366,Ticket,110813
+366,Fare,75.25
+366,Cabin,D37
+366,Embarked,C
+367,PassengerId,368
+367,Survived,1
+367,Pclass,3
+367,Name,"Moussa, Mrs. (Mantoura Boulos)"
+367,Sex,female
+367,SibSp,0
+367,Parch,0
+367,Ticket,2626
+367,Fare,7.2292
+367,Embarked,C
+368,PassengerId,369
+368,Survived,1
+368,Pclass,3
+368,Name,"Jermyn, Miss. Annie"
+368,Sex,female
+368,SibSp,0
+368,Parch,0
+368,Ticket,14313
+368,Fare,7.75
+368,Embarked,Q
+369,PassengerId,370
+369,Survived,1
+369,Pclass,1
+369,Name,"Aubart, Mme. Leontine Pauline"
+369,Sex,female
+369,Age,24.0
+369,SibSp,0
+369,Parch,0
+369,Ticket,PC 17477
+369,Fare,69.3
+369,Cabin,B35
+369,Embarked,C
+370,PassengerId,371
+370,Survived,1
+370,Pclass,1
+370,Name,"Harder, Mr. George Achilles"
+370,Sex,male
+370,Age,25.0
+370,SibSp,1
+370,Parch,0
+370,Ticket,11765
+370,Fare,55.4417
+370,Cabin,E50
+370,Embarked,C
+371,PassengerId,372
+371,Survived,0
+371,Pclass,3
+371,Name,"Wiklund, Mr. Jakob Alfred"
+371,Sex,male
+371,Age,18.0
+371,SibSp,1
+371,Parch,0
+371,Ticket,3101267
+371,Fare,6.4958
+371,Embarked,S
+372,PassengerId,373
+372,Survived,0
+372,Pclass,3
+372,Name,"Beavan, Mr. William Thomas"
+372,Sex,male
+372,Age,19.0
+372,SibSp,0
+372,Parch,0
+372,Ticket,323951
+372,Fare,8.05
+372,Embarked,S
+373,PassengerId,374
+373,Survived,0
+373,Pclass,1
+373,Name,"Ringhini, Mr. Sante"
+373,Sex,male
+373,Age,22.0
+373,SibSp,0
+373,Parch,0
+373,Ticket,PC 17760
+373,Fare,135.6333
+373,Embarked,C
+374,PassengerId,375
+374,Survived,0
+374,Pclass,3
+374,Name,"Palsson, Miss. Stina Viola"
+374,Sex,female
+374,Age,3.0
+374,SibSp,3
+374,Parch,1
+374,Ticket,349909
+374,Fare,21.075
+374,Embarked,S
+375,PassengerId,376
+375,Survived,1
+375,Pclass,1
+375,Name,"Meyer, Mrs. Edgar Joseph (Leila Saks)"
+375,Sex,female
+375,SibSp,1
+375,Parch,0
+375,Ticket,PC 17604
+375,Fare,82.1708
+375,Embarked,C
+376,PassengerId,377
+376,Survived,1
+376,Pclass,3
+376,Name,"Landergren, Miss. Aurora Adelia"
+376,Sex,female
+376,Age,22.0
+376,SibSp,0
+376,Parch,0
+376,Ticket,C 7077
+376,Fare,7.25
+376,Embarked,S
+377,PassengerId,378
+377,Survived,0
+377,Pclass,1
+377,Name,"Widener, Mr. Harry Elkins"
+377,Sex,male
+377,Age,27.0
+377,SibSp,0
+377,Parch,2
+377,Ticket,113503
+377,Fare,211.5
+377,Cabin,C82
+377,Embarked,C
+378,PassengerId,379
+378,Survived,0
+378,Pclass,3
+378,Name,"Betros, Mr. Tannous"
+378,Sex,male
+378,Age,20.0
+378,SibSp,0
+378,Parch,0
+378,Ticket,2648
+378,Fare,4.0125
+378,Embarked,C
+379,PassengerId,380
+379,Survived,0
+379,Pclass,3
+379,Name,"Gustafsson, Mr. Karl Gideon"
+379,Sex,male
+379,Age,19.0
+379,SibSp,0
+379,Parch,0
+379,Ticket,347069
+379,Fare,7.775
+379,Embarked,S
+380,PassengerId,381
+380,Survived,1
+380,Pclass,1
+380,Name,"Bidois, Miss. Rosalie"
+380,Sex,female
+380,Age,42.0
+380,SibSp,0
+380,Parch,0
+380,Ticket,PC 17757
+380,Fare,227.525
+380,Embarked,C
+381,PassengerId,382
+381,Survived,1
+381,Pclass,3
+381,Name,"Nakid, Miss. Maria (""Mary"")"
+381,Sex,female
+381,Age,1.0
+381,SibSp,0
+381,Parch,2
+381,Ticket,2653
+381,Fare,15.7417
+381,Embarked,C
+382,PassengerId,383
+382,Survived,0
+382,Pclass,3
+382,Name,"Tikkanen, Mr. Juho"
+382,Sex,male
+382,Age,32.0
+382,SibSp,0
+382,Parch,0
+382,Ticket,STON/O 2. 3101293
+382,Fare,7.925
+382,Embarked,S
+383,PassengerId,384
+383,Survived,1
+383,Pclass,1
+383,Name,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)"
+383,Sex,female
+383,Age,35.0
+383,SibSp,1
+383,Parch,0
+383,Ticket,113789
+383,Fare,52.0
+383,Embarked,S
+384,PassengerId,385
+384,Survived,0
+384,Pclass,3
+384,Name,"Plotcharsky, Mr. Vasil"
+384,Sex,male
+384,SibSp,0
+384,Parch,0
+384,Ticket,349227
+384,Fare,7.8958
+384,Embarked,S
+385,PassengerId,386
+385,Survived,0
+385,Pclass,2
+385,Name,"Davies, Mr. Charles Henry"
+385,Sex,male
+385,Age,18.0
+385,SibSp,0
+385,Parch,0
+385,Ticket,S.O.C. 14879
+385,Fare,73.5
+385,Embarked,S
+386,PassengerId,387
+386,Survived,0
+386,Pclass,3
+386,Name,"Goodwin, Master. Sidney Leonard"
+386,Sex,male
+386,Age,1.0
+386,SibSp,5
+386,Parch,2
+386,Ticket,CA 2144
+386,Fare,46.9
+386,Embarked,S
+387,PassengerId,388
+387,Survived,1
+387,Pclass,2
+387,Name,"Buss, Miss. Kate"
+387,Sex,female
+387,Age,36.0
+387,SibSp,0
+387,Parch,0
+387,Ticket,27849
+387,Fare,13.0
+387,Embarked,S
+388,PassengerId,389
+388,Survived,0
+388,Pclass,3
+388,Name,"Sadlier, Mr. Matthew"
+388,Sex,male
+388,SibSp,0
+388,Parch,0
+388,Ticket,367655
+388,Fare,7.7292
+388,Embarked,Q
+389,PassengerId,390
+389,Survived,1
+389,Pclass,2
+389,Name,"Lehmann, Miss. Bertha"
+389,Sex,female
+389,Age,17.0
+389,SibSp,0
+389,Parch,0
+389,Ticket,SC 1748
+389,Fare,12.0
+389,Embarked,C
+390,PassengerId,391
+390,Survived,1
+390,Pclass,1
+390,Name,"Carter, Mr. William Ernest"
+390,Sex,male
+390,Age,36.0
+390,SibSp,1
+390,Parch,2
+390,Ticket,113760
+390,Fare,120.0
+390,Cabin,B96 B98
+390,Embarked,S
+391,PassengerId,392
+391,Survived,1
+391,Pclass,3
+391,Name,"Jansson, Mr. Carl Olof"
+391,Sex,male
+391,Age,21.0
+391,SibSp,0
+391,Parch,0
+391,Ticket,350034
+391,Fare,7.7958
+391,Embarked,S
+392,PassengerId,393
+392,Survived,0
+392,Pclass,3
+392,Name,"Gustafsson, Mr. Johan Birger"
+392,Sex,male
+392,Age,28.0
+392,SibSp,2
+392,Parch,0
+392,Ticket,3101277
+392,Fare,7.925
+392,Embarked,S
+393,PassengerId,394
+393,Survived,1
+393,Pclass,1
+393,Name,"Newell, Miss. Marjorie"
+393,Sex,female
+393,Age,23.0
+393,SibSp,1
+393,Parch,0
+393,Ticket,35273
+393,Fare,113.275
+393,Cabin,D36
+393,Embarked,C
+394,PassengerId,395
+394,Survived,1
+394,Pclass,3
+394,Name,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)"
+394,Sex,female
+394,Age,24.0
+394,SibSp,0
+394,Parch,2
+394,Ticket,PP 9549
+394,Fare,16.7
+394,Cabin,G6
+394,Embarked,S
+395,PassengerId,396
+395,Survived,0
+395,Pclass,3
+395,Name,"Johansson, Mr. Erik"
+395,Sex,male
+395,Age,22.0
+395,SibSp,0
+395,Parch,0
+395,Ticket,350052
+395,Fare,7.7958
+395,Embarked,S
+396,PassengerId,397
+396,Survived,0
+396,Pclass,3
+396,Name,"Olsson, Miss. Elina"
+396,Sex,female
+396,Age,31.0
+396,SibSp,0
+396,Parch,0
+396,Ticket,350407
+396,Fare,7.8542
+396,Embarked,S
+397,PassengerId,398
+397,Survived,0
+397,Pclass,2
+397,Name,"McKane, Mr. Peter David"
+397,Sex,male
+397,Age,46.0
+397,SibSp,0
+397,Parch,0
+397,Ticket,28403
+397,Fare,26.0
+397,Embarked,S
+398,PassengerId,399
+398,Survived,0
+398,Pclass,2
+398,Name,"Pain, Dr. Alfred"
+398,Sex,male
+398,Age,23.0
+398,SibSp,0
+398,Parch,0
+398,Ticket,244278
+398,Fare,10.5
+398,Embarked,S
+399,PassengerId,400
+399,Survived,1
+399,Pclass,2
+399,Name,"Trout, Mrs. William H (Jessie L)"
+399,Sex,female
+399,Age,28.0
+399,SibSp,0
+399,Parch,0
+399,Ticket,240929
+399,Fare,12.65
+399,Embarked,S
+400,PassengerId,401
+400,Survived,1
+400,Pclass,3
+400,Name,"Niskanen, Mr. Juha"
+400,Sex,male
+400,Age,39.0
+400,SibSp,0
+400,Parch,0
+400,Ticket,STON/O 2. 3101289
+400,Fare,7.925
+400,Embarked,S
+401,PassengerId,402
+401,Survived,0
+401,Pclass,3
+401,Name,"Adams, Mr. John"
+401,Sex,male
+401,Age,26.0
+401,SibSp,0
+401,Parch,0
+401,Ticket,341826
+401,Fare,8.05
+401,Embarked,S
+402,PassengerId,403
+402,Survived,0
+402,Pclass,3
+402,Name,"Jussila, Miss. Mari Aina"
+402,Sex,female
+402,Age,21.0
+402,SibSp,1
+402,Parch,0
+402,Ticket,4137
+402,Fare,9.825
+402,Embarked,S
+403,PassengerId,404
+403,Survived,0
+403,Pclass,3
+403,Name,"Hakkarainen, Mr. Pekka Pietari"
+403,Sex,male
+403,Age,28.0
+403,SibSp,1
+403,Parch,0
+403,Ticket,STON/O2. 3101279
+403,Fare,15.85
+403,Embarked,S
+404,PassengerId,405
+404,Survived,0
+404,Pclass,3
+404,Name,"Oreskovic, Miss. Marija"
+404,Sex,female
+404,Age,20.0
+404,SibSp,0
+404,Parch,0
+404,Ticket,315096
+404,Fare,8.6625
+404,Embarked,S
+405,PassengerId,406
+405,Survived,0
+405,Pclass,2
+405,Name,"Gale, Mr. Shadrach"
+405,Sex,male
+405,Age,34.0
+405,SibSp,1
+405,Parch,0
+405,Ticket,28664
+405,Fare,21.0
+405,Embarked,S
+406,PassengerId,407
+406,Survived,0
+406,Pclass,3
+406,Name,"Widegren, Mr. Carl/Charles Peter"
+406,Sex,male
+406,Age,51.0
+406,SibSp,0
+406,Parch,0
+406,Ticket,347064
+406,Fare,7.75
+406,Embarked,S
+407,PassengerId,408
+407,Survived,1
+407,Pclass,2
+407,Name,"Richards, Master. William Rowe"
+407,Sex,male
+407,Age,3.0
+407,SibSp,1
+407,Parch,1
+407,Ticket,29106
+407,Fare,18.75
+407,Embarked,S
+408,PassengerId,409
+408,Survived,0
+408,Pclass,3
+408,Name,"Birkeland, Mr. Hans Martin Monsen"
+408,Sex,male
+408,Age,21.0
+408,SibSp,0
+408,Parch,0
+408,Ticket,312992
+408,Fare,7.775
+408,Embarked,S
+409,PassengerId,410
+409,Survived,0
+409,Pclass,3
+409,Name,"Lefebre, Miss. Ida"
+409,Sex,female
+409,SibSp,3
+409,Parch,1
+409,Ticket,4133
+409,Fare,25.4667
+409,Embarked,S
+410,PassengerId,411
+410,Survived,0
+410,Pclass,3
+410,Name,"Sdycoff, Mr. Todor"
+410,Sex,male
+410,SibSp,0
+410,Parch,0
+410,Ticket,349222
+410,Fare,7.8958
+410,Embarked,S
+411,PassengerId,412
+411,Survived,0
+411,Pclass,3
+411,Name,"Hart, Mr. Henry"
+411,Sex,male
+411,SibSp,0
+411,Parch,0
+411,Ticket,394140
+411,Fare,6.8583
+411,Embarked,Q
+412,PassengerId,413
+412,Survived,1
+412,Pclass,1
+412,Name,"Minahan, Miss. Daisy E"
+412,Sex,female
+412,Age,33.0
+412,SibSp,1
+412,Parch,0
+412,Ticket,19928
+412,Fare,90.0
+412,Cabin,C78
+412,Embarked,Q
+413,PassengerId,414
+413,Survived,0
+413,Pclass,2
+413,Name,"Cunningham, Mr. Alfred Fleming"
+413,Sex,male
+413,SibSp,0
+413,Parch,0
+413,Ticket,239853
+413,Fare,0.0
+413,Embarked,S
+414,PassengerId,415
+414,Survived,1
+414,Pclass,3
+414,Name,"Sundman, Mr. Johan Julian"
+414,Sex,male
+414,Age,44.0
+414,SibSp,0
+414,Parch,0
+414,Ticket,STON/O 2. 3101269
+414,Fare,7.925
+414,Embarked,S
+415,PassengerId,416
+415,Survived,0
+415,Pclass,3
+415,Name,"Meek, Mrs. Thomas (Annie Louise Rowley)"
+415,Sex,female
+415,SibSp,0
+415,Parch,0
+415,Ticket,343095
+415,Fare,8.05
+415,Embarked,S
+416,PassengerId,417
+416,Survived,1
+416,Pclass,2
+416,Name,"Drew, Mrs. James Vivian (Lulu Thorne Christian)"
+416,Sex,female
+416,Age,34.0
+416,SibSp,1
+416,Parch,1
+416,Ticket,28220
+416,Fare,32.5
+416,Embarked,S
+417,PassengerId,418
+417,Survived,1
+417,Pclass,2
+417,Name,"Silven, Miss. Lyyli Karoliina"
+417,Sex,female
+417,Age,18.0
+417,SibSp,0
+417,Parch,2
+417,Ticket,250652
+417,Fare,13.0
+417,Embarked,S
+418,PassengerId,419
+418,Survived,0
+418,Pclass,2
+418,Name,"Matthews, Mr. William John"
+418,Sex,male
+418,Age,30.0
+418,SibSp,0
+418,Parch,0
+418,Ticket,28228
+418,Fare,13.0
+418,Embarked,S
+419,PassengerId,420
+419,Survived,0
+419,Pclass,3
+419,Name,"Van Impe, Miss. Catharina"
+419,Sex,female
+419,Age,10.0
+419,SibSp,0
+419,Parch,2
+419,Ticket,345773
+419,Fare,24.15
+419,Embarked,S
+420,PassengerId,421
+420,Survived,0
+420,Pclass,3
+420,Name,"Gheorgheff, Mr. Stanio"
+420,Sex,male
+420,SibSp,0
+420,Parch,0
+420,Ticket,349254
+420,Fare,7.8958
+420,Embarked,C
+421,PassengerId,422
+421,Survived,0
+421,Pclass,3
+421,Name,"Charters, Mr. David"
+421,Sex,male
+421,Age,21.0
+421,SibSp,0
+421,Parch,0
+421,Ticket,A/5. 13032
+421,Fare,7.7333
+421,Embarked,Q
+422,PassengerId,423
+422,Survived,0
+422,Pclass,3
+422,Name,"Zimmerman, Mr. Leo"
+422,Sex,male
+422,Age,29.0
+422,SibSp,0
+422,Parch,0
+422,Ticket,315082
+422,Fare,7.875
+422,Embarked,S
+423,PassengerId,424
+423,Survived,0
+423,Pclass,3
+423,Name,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)"
+423,Sex,female
+423,Age,28.0
+423,SibSp,1
+423,Parch,1
+423,Ticket,347080
+423,Fare,14.4
+423,Embarked,S
+424,PassengerId,425
+424,Survived,0
+424,Pclass,3
+424,Name,"Rosblom, Mr. Viktor Richard"
+424,Sex,male
+424,Age,18.0
+424,SibSp,1
+424,Parch,1
+424,Ticket,370129
+424,Fare,20.2125
+424,Embarked,S
+425,PassengerId,426
+425,Survived,0
+425,Pclass,3
+425,Name,"Wiseman, Mr. Phillippe"
+425,Sex,male
+425,SibSp,0
+425,Parch,0
+425,Ticket,A/4. 34244
+425,Fare,7.25
+425,Embarked,S
+426,PassengerId,427
+426,Survived,1
+426,Pclass,2
+426,Name,"Clarke, Mrs. Charles V (Ada Maria Winfield)"
+426,Sex,female
+426,Age,28.0
+426,SibSp,1
+426,Parch,0
+426,Ticket,2003
+426,Fare,26.0
+426,Embarked,S
+427,PassengerId,428
+427,Survived,1
+427,Pclass,2
+427,Name,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")"
+427,Sex,female
+427,Age,19.0
+427,SibSp,0
+427,Parch,0
+427,Ticket,250655
+427,Fare,26.0
+427,Embarked,S
+428,PassengerId,429
+428,Survived,0
+428,Pclass,3
+428,Name,"Flynn, Mr. James"
+428,Sex,male
+428,SibSp,0
+428,Parch,0
+428,Ticket,364851
+428,Fare,7.75
+428,Embarked,Q
+429,PassengerId,430
+429,Survived,1
+429,Pclass,3
+429,Name,"Pickard, Mr. Berk (Berk Trembisky)"
+429,Sex,male
+429,Age,32.0
+429,SibSp,0
+429,Parch,0
+429,Ticket,SOTON/O.Q. 392078
+429,Fare,8.05
+429,Cabin,E10
+429,Embarked,S
+430,PassengerId,431
+430,Survived,1
+430,Pclass,1
+430,Name,"Bjornstrom-Steffansson, Mr. Mauritz Hakan"
+430,Sex,male
+430,Age,28.0
+430,SibSp,0
+430,Parch,0
+430,Ticket,110564
+430,Fare,26.55
+430,Cabin,C52
+430,Embarked,S
+431,PassengerId,432
+431,Survived,1
+431,Pclass,3
+431,Name,"Thorneycroft, Mrs. Percival (Florence Kate White)"
+431,Sex,female
+431,SibSp,1
+431,Parch,0
+431,Ticket,376564
+431,Fare,16.1
+431,Embarked,S
+432,PassengerId,433
+432,Survived,1
+432,Pclass,2
+432,Name,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)"
+432,Sex,female
+432,Age,42.0
+432,SibSp,1
+432,Parch,0
+432,Ticket,SC/AH 3085
+432,Fare,26.0
+432,Embarked,S
+433,PassengerId,434
+433,Survived,0
+433,Pclass,3
+433,Name,"Kallio, Mr. Nikolai Erland"
+433,Sex,male
+433,Age,17.0
+433,SibSp,0
+433,Parch,0
+433,Ticket,STON/O 2. 3101274
+433,Fare,7.125
+433,Embarked,S
+434,PassengerId,435
+434,Survived,0
+434,Pclass,1
+434,Name,"Silvey, Mr. William Baird"
+434,Sex,male
+434,Age,50.0
+434,SibSp,1
+434,Parch,0
+434,Ticket,13507
+434,Fare,55.9
+434,Cabin,E44
+434,Embarked,S
+435,PassengerId,436
+435,Survived,1
+435,Pclass,1
+435,Name,"Carter, Miss. Lucile Polk"
+435,Sex,female
+435,Age,14.0
+435,SibSp,1
+435,Parch,2
+435,Ticket,113760
+435,Fare,120.0
+435,Cabin,B96 B98
+435,Embarked,S
+436,PassengerId,437
+436,Survived,0
+436,Pclass,3
+436,Name,"Ford, Miss. Doolina Margaret ""Daisy"""
+436,Sex,female
+436,Age,21.0
+436,SibSp,2
+436,Parch,2
+436,Ticket,W./C. 6608
+436,Fare,34.375
+436,Embarked,S
+437,PassengerId,438
+437,Survived,1
+437,Pclass,2
+437,Name,"Richards, Mrs. Sidney (Emily Hocking)"
+437,Sex,female
+437,Age,24.0
+437,SibSp,2
+437,Parch,3
+437,Ticket,29106
+437,Fare,18.75
+437,Embarked,S
+438,PassengerId,439
+438,Survived,0
+438,Pclass,1
+438,Name,"Fortune, Mr. Mark"
+438,Sex,male
+438,Age,64.0
+438,SibSp,1
+438,Parch,4
+438,Ticket,19950
+438,Fare,263.0
+438,Cabin,C23 C25 C27
+438,Embarked,S
+0,PassengerId,440
+0,Survived,0
+0,Pclass,2
+0,Name,"Kvillner, Mr. Johan Henrik Johannesson"
+0,Sex,male
+0,Age,31.0
+0,SibSp,0
+0,Parch,0
+0,Ticket,C.A. 18723
+0,Fare,10.5
+0,Embarked,S
+1,PassengerId,441
+1,Survived,1
+1,Pclass,2
+1,Name,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)"
+1,Sex,female
+1,Age,45.0
+1,SibSp,1
+1,Parch,1
+1,Ticket,F.C.C. 13529
+1,Fare,26.25
+1,Embarked,S
+2,PassengerId,442
+2,Survived,0
+2,Pclass,3
+2,Name,"Hampe, Mr. Leon"
+2,Sex,male
+2,Age,20.0
+2,SibSp,0
+2,Parch,0
+2,Ticket,345769
+2,Fare,9.5
+2,Embarked,S
+3,PassengerId,443
+3,Survived,0
+3,Pclass,3
+3,Name,"Petterson, Mr. Johan Emil"
+3,Sex,male
+3,Age,25.0
+3,SibSp,1
+3,Parch,0
+3,Ticket,347076
+3,Fare,7.775
+3,Embarked,S
+4,PassengerId,444
+4,Survived,1
+4,Pclass,2
+4,Name,"Reynaldo, Ms. Encarnacion"
+4,Sex,female
+4,Age,28.0
+4,SibSp,0
+4,Parch,0
+4,Ticket,230434
+4,Fare,13.0
+4,Embarked,S
+5,PassengerId,445
+5,Survived,1
+5,Pclass,3
+5,Name,"Johannesen-Bratthammer, Mr. Bernt"
+5,Sex,male
+5,SibSp,0
+5,Parch,0
+5,Ticket,65306
+5,Fare,8.1125
+5,Embarked,S
+6,PassengerId,446
+6,Survived,1
+6,Pclass,1
+6,Name,"Dodge, Master. Washington"
+6,Sex,male
+6,Age,4.0
+6,SibSp,0
+6,Parch,2
+6,Ticket,33638
+6,Fare,81.8583
+6,Cabin,A34
+6,Embarked,S
+7,PassengerId,447
+7,Survived,1
+7,Pclass,2
+7,Name,"Mellinger, Miss. Madeleine Violet"
+7,Sex,female
+7,Age,13.0
+7,SibSp,0
+7,Parch,1
+7,Ticket,250644
+7,Fare,19.5
+7,Embarked,S
+8,PassengerId,448
+8,Survived,1
+8,Pclass,1
+8,Name,"Seward, Mr. Frederic Kimber"
+8,Sex,male
+8,Age,34.0
+8,SibSp,0
+8,Parch,0
+8,Ticket,113794
+8,Fare,26.55
+8,Embarked,S
+9,PassengerId,449
+9,Survived,1
+9,Pclass,3
+9,Name,"Baclini, Miss. Marie Catherine"
+9,Sex,female
+9,Age,5.0
+9,SibSp,2
+9,Parch,1
+9,Ticket,2666
+9,Fare,19.2583
+9,Embarked,C
+10,PassengerId,450
+10,Survived,1
+10,Pclass,1
+10,Name,"Peuchen, Major. Arthur Godfrey"
+10,Sex,male
+10,Age,52.0
+10,SibSp,0
+10,Parch,0
+10,Ticket,113786
+10,Fare,30.5
+10,Cabin,C104
+10,Embarked,S
+11,PassengerId,451
+11,Survived,0
+11,Pclass,2
+11,Name,"West, Mr. Edwy Arthur"
+11,Sex,male
+11,Age,36.0
+11,SibSp,1
+11,Parch,2
+11,Ticket,C.A. 34651
+11,Fare,27.75
+11,Embarked,S
+12,PassengerId,452
+12,Survived,0
+12,Pclass,3
+12,Name,"Hagland, Mr. Ingvald Olai Olsen"
+12,Sex,male
+12,SibSp,1
+12,Parch,0
+12,Ticket,65303
+12,Fare,19.9667
+12,Embarked,S
+13,PassengerId,453
+13,Survived,0
+13,Pclass,1
+13,Name,"Foreman, Mr. Benjamin Laventall"
+13,Sex,male
+13,Age,30.0
+13,SibSp,0
+13,Parch,0
+13,Ticket,113051
+13,Fare,27.75
+13,Cabin,C111
+13,Embarked,C
+14,PassengerId,454
+14,Survived,1
+14,Pclass,1
+14,Name,"Goldenberg, Mr. Samuel L"
+14,Sex,male
+14,Age,49.0
+14,SibSp,1
+14,Parch,0
+14,Ticket,17453
+14,Fare,89.1042
+14,Cabin,C92
+14,Embarked,C
+15,PassengerId,455
+15,Survived,0
+15,Pclass,3
+15,Name,"Peduzzi, Mr. Joseph"
+15,Sex,male
+15,SibSp,0
+15,Parch,0
+15,Ticket,A/5 2817
+15,Fare,8.05
+15,Embarked,S
+16,PassengerId,456
+16,Survived,1
+16,Pclass,3
+16,Name,"Jalsevac, Mr. Ivan"
+16,Sex,male
+16,Age,29.0
+16,SibSp,0
+16,Parch,0
+16,Ticket,349240
+16,Fare,7.8958
+16,Embarked,C
+17,PassengerId,457
+17,Survived,0
+17,Pclass,1
+17,Name,"Millet, Mr. Francis Davis"
+17,Sex,male
+17,Age,65.0
+17,SibSp,0
+17,Parch,0
+17,Ticket,13509
+17,Fare,26.55
+17,Cabin,E38
+17,Embarked,S
+18,PassengerId,458
+18,Survived,1
+18,Pclass,1
+18,Name,"Kenyon, Mrs. Frederick R (Marion)"
+18,Sex,female
+18,SibSp,1
+18,Parch,0
+18,Ticket,17464
+18,Fare,51.8625
+18,Cabin,D21
+18,Embarked,S
+19,PassengerId,459
+19,Survived,1
+19,Pclass,2
+19,Name,"Toomey, Miss. Ellen"
+19,Sex,female
+19,Age,50.0
+19,SibSp,0
+19,Parch,0
+19,Ticket,F.C.C. 13531
+19,Fare,10.5
+19,Embarked,S
+20,PassengerId,460
+20,Survived,0
+20,Pclass,3
+20,Name,"O'Connor, Mr. Maurice"
+20,Sex,male
+20,SibSp,0
+20,Parch,0
+20,Ticket,371060
+20,Fare,7.75
+20,Embarked,Q
+21,PassengerId,461
+21,Survived,1
+21,Pclass,1
+21,Name,"Anderson, Mr. Harry"
+21,Sex,male
+21,Age,48.0
+21,SibSp,0
+21,Parch,0
+21,Ticket,19952
+21,Fare,26.55
+21,Cabin,E12
+21,Embarked,S
+22,PassengerId,462
+22,Survived,0
+22,Pclass,3
+22,Name,"Morley, Mr. William"
+22,Sex,male
+22,Age,34.0
+22,SibSp,0
+22,Parch,0
+22,Ticket,364506
+22,Fare,8.05
+22,Embarked,S
+23,PassengerId,463
+23,Survived,0
+23,Pclass,1
+23,Name,"Gee, Mr. Arthur H"
+23,Sex,male
+23,Age,47.0
+23,SibSp,0
+23,Parch,0
+23,Ticket,111320
+23,Fare,38.5
+23,Cabin,E63
+23,Embarked,S
+24,PassengerId,464
+24,Survived,0
+24,Pclass,2
+24,Name,"Milling, Mr. Jacob Christian"
+24,Sex,male
+24,Age,48.0
+24,SibSp,0
+24,Parch,0
+24,Ticket,234360
+24,Fare,13.0
+24,Embarked,S
+25,PassengerId,465
+25,Survived,0
+25,Pclass,3
+25,Name,"Maisner, Mr. Simon"
+25,Sex,male
+25,SibSp,0
+25,Parch,0
+25,Ticket,A/S 2816
+25,Fare,8.05
+25,Embarked,S
+26,PassengerId,466
+26,Survived,0
+26,Pclass,3
+26,Name,"Goncalves, Mr. Manuel Estanslas"
+26,Sex,male
+26,Age,38.0
+26,SibSp,0
+26,Parch,0
+26,Ticket,SOTON/O.Q. 3101306
+26,Fare,7.05
+26,Embarked,S
+27,PassengerId,467
+27,Survived,0
+27,Pclass,2
+27,Name,"Campbell, Mr. William"
+27,Sex,male
+27,SibSp,0
+27,Parch,0
+27,Ticket,239853
+27,Fare,0.0
+27,Embarked,S
+28,PassengerId,468
+28,Survived,0
+28,Pclass,1
+28,Name,"Smart, Mr. John Montgomery"
+28,Sex,male
+28,Age,56.0
+28,SibSp,0
+28,Parch,0
+28,Ticket,113792
+28,Fare,26.55
+28,Embarked,S
+29,PassengerId,469
+29,Survived,0
+29,Pclass,3
+29,Name,"Scanlan, Mr. James"
+29,Sex,male
+29,SibSp,0
+29,Parch,0
+29,Ticket,36209
+29,Fare,7.725
+29,Embarked,Q
+30,PassengerId,470
+30,Survived,1
+30,Pclass,3
+30,Name,"Baclini, Miss. Helene Barbara"
+30,Sex,female
+30,Age,0.75
+30,SibSp,2
+30,Parch,1
+30,Ticket,2666
+30,Fare,19.2583
+30,Embarked,C
+31,PassengerId,471
+31,Survived,0
+31,Pclass,3
+31,Name,"Keefe, Mr. Arthur"
+31,Sex,male
+31,SibSp,0
+31,Parch,0
+31,Ticket,323592
+31,Fare,7.25
+31,Embarked,S
+32,PassengerId,472
+32,Survived,0
+32,Pclass,3
+32,Name,"Cacic, Mr. Luka"
+32,Sex,male
+32,Age,38.0
+32,SibSp,0
+32,Parch,0
+32,Ticket,315089
+32,Fare,8.6625
+32,Embarked,S
+33,PassengerId,473
+33,Survived,1
+33,Pclass,2
+33,Name,"West, Mrs. Edwy Arthur (Ada Mary Worth)"
+33,Sex,female
+33,Age,33.0
+33,SibSp,1
+33,Parch,2
+33,Ticket,C.A. 34651
+33,Fare,27.75
+33,Embarked,S
+34,PassengerId,474
+34,Survived,1
+34,Pclass,2
+34,Name,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)"
+34,Sex,female
+34,Age,23.0
+34,SibSp,0
+34,Parch,0
+34,Ticket,SC/AH Basle 541
+34,Fare,13.7917
+34,Cabin,D
+34,Embarked,C
+35,PassengerId,475
+35,Survived,0
+35,Pclass,3
+35,Name,"Strandberg, Miss. Ida Sofia"
+35,Sex,female
+35,Age,22.0
+35,SibSp,0
+35,Parch,0
+35,Ticket,7553
+35,Fare,9.8375
+35,Embarked,S
+36,PassengerId,476
+36,Survived,0
+36,Pclass,1
+36,Name,"Clifford, Mr. George Quincy"
+36,Sex,male
+36,SibSp,0
+36,Parch,0
+36,Ticket,110465
+36,Fare,52.0
+36,Cabin,A14
+36,Embarked,S
+37,PassengerId,477
+37,Survived,0
+37,Pclass,2
+37,Name,"Renouf, Mr. Peter Henry"
+37,Sex,male
+37,Age,34.0
+37,SibSp,1
+37,Parch,0
+37,Ticket,31027
+37,Fare,21.0
+37,Embarked,S
+38,PassengerId,478
+38,Survived,0
+38,Pclass,3
+38,Name,"Braund, Mr. Lewis Richard"
+38,Sex,male
+38,Age,29.0
+38,SibSp,1
+38,Parch,0
+38,Ticket,3460
+38,Fare,7.0458
+38,Embarked,S
+39,PassengerId,479
+39,Survived,0
+39,Pclass,3
+39,Name,"Karlsson, Mr. Nils August"
+39,Sex,male
+39,Age,22.0
+39,SibSp,0
+39,Parch,0
+39,Ticket,350060
+39,Fare,7.5208
+39,Embarked,S
+40,PassengerId,480
+40,Survived,1
+40,Pclass,3
+40,Name,"Hirvonen, Miss. Hildur E"
+40,Sex,female
+40,Age,2.0
+40,SibSp,0
+40,Parch,1
+40,Ticket,3101298
+40,Fare,12.2875
+40,Embarked,S
+41,PassengerId,481
+41,Survived,0
+41,Pclass,3
+41,Name,"Goodwin, Master. Harold Victor"
+41,Sex,male
+41,Age,9.0
+41,SibSp,5
+41,Parch,2
+41,Ticket,CA 2144
+41,Fare,46.9
+41,Embarked,S
+42,PassengerId,482
+42,Survived,0
+42,Pclass,2
+42,Name,"Frost, Mr. Anthony Wood ""Archie"""
+42,Sex,male
+42,SibSp,0
+42,Parch,0
+42,Ticket,239854
+42,Fare,0.0
+42,Embarked,S
+43,PassengerId,483
+43,Survived,0
+43,Pclass,3
+43,Name,"Rouse, Mr. Richard Henry"
+43,Sex,male
+43,Age,50.0
+43,SibSp,0
+43,Parch,0
+43,Ticket,A/5 3594
+43,Fare,8.05
+43,Embarked,S
+44,PassengerId,484
+44,Survived,1
+44,Pclass,3
+44,Name,"Turkula, Mrs. (Hedwig)"
+44,Sex,female
+44,Age,63.0
+44,SibSp,0
+44,Parch,0
+44,Ticket,4134
+44,Fare,9.5875
+44,Embarked,S
+45,PassengerId,485
+45,Survived,1
+45,Pclass,1
+45,Name,"Bishop, Mr. Dickinson H"
+45,Sex,male
+45,Age,25.0
+45,SibSp,1
+45,Parch,0
+45,Ticket,11967
+45,Fare,91.0792
+45,Cabin,B49
+45,Embarked,C
+46,PassengerId,486
+46,Survived,0
+46,Pclass,3
+46,Name,"Lefebre, Miss. Jeannie"
+46,Sex,female
+46,SibSp,3
+46,Parch,1
+46,Ticket,4133
+46,Fare,25.4667
+46,Embarked,S
+47,PassengerId,487
+47,Survived,1
+47,Pclass,1
+47,Name,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)"
+47,Sex,female
+47,Age,35.0
+47,SibSp,1
+47,Parch,0
+47,Ticket,19943
+47,Fare,90.0
+47,Cabin,C93
+47,Embarked,S
+48,PassengerId,488
+48,Survived,0
+48,Pclass,1
+48,Name,"Kent, Mr. Edward Austin"
+48,Sex,male
+48,Age,58.0
+48,SibSp,0
+48,Parch,0
+48,Ticket,11771
+48,Fare,29.7
+48,Cabin,B37
+48,Embarked,C
+49,PassengerId,489
+49,Survived,0
+49,Pclass,3
+49,Name,"Somerton, Mr. Francis William"
+49,Sex,male
+49,Age,30.0
+49,SibSp,0
+49,Parch,0
+49,Ticket,A.5. 18509
+49,Fare,8.05
+49,Embarked,S
+50,PassengerId,490
+50,Survived,1
+50,Pclass,3
+50,Name,"Coutts, Master. Eden Leslie ""Neville"""
+50,Sex,male
+50,Age,9.0
+50,SibSp,1
+50,Parch,1
+50,Ticket,C.A. 37671
+50,Fare,15.9
+50,Embarked,S
+51,PassengerId,491
+51,Survived,0
+51,Pclass,3
+51,Name,"Hagland, Mr. Konrad Mathias Reiersen"
+51,Sex,male
+51,SibSp,1
+51,Parch,0
+51,Ticket,65304
+51,Fare,19.9667
+51,Embarked,S
+52,PassengerId,492
+52,Survived,0
+52,Pclass,3
+52,Name,"Windelov, Mr. Einar"
+52,Sex,male
+52,Age,21.0
+52,SibSp,0
+52,Parch,0
+52,Ticket,SOTON/OQ 3101317
+52,Fare,7.25
+52,Embarked,S
+53,PassengerId,493
+53,Survived,0
+53,Pclass,1
+53,Name,"Molson, Mr. Harry Markland"
+53,Sex,male
+53,Age,55.0
+53,SibSp,0
+53,Parch,0
+53,Ticket,113787
+53,Fare,30.5
+53,Cabin,C30
+53,Embarked,S
+54,PassengerId,494
+54,Survived,0
+54,Pclass,1
+54,Name,"Artagaveytia, Mr. Ramon"
+54,Sex,male
+54,Age,71.0
+54,SibSp,0
+54,Parch,0
+54,Ticket,PC 17609
+54,Fare,49.5042
+54,Embarked,C
+55,PassengerId,495
+55,Survived,0
+55,Pclass,3
+55,Name,"Stanley, Mr. Edward Roland"
+55,Sex,male
+55,Age,21.0
+55,SibSp,0
+55,Parch,0
+55,Ticket,A/4 45380
+55,Fare,8.05
+55,Embarked,S
+56,PassengerId,496
+56,Survived,0
+56,Pclass,3
+56,Name,"Yousseff, Mr. Gerious"
+56,Sex,male
+56,SibSp,0
+56,Parch,0
+56,Ticket,2627
+56,Fare,14.4583
+56,Embarked,C
+57,PassengerId,497
+57,Survived,1
+57,Pclass,1
+57,Name,"Eustis, Miss. Elizabeth Mussey"
+57,Sex,female
+57,Age,54.0
+57,SibSp,1
+57,Parch,0
+57,Ticket,36947
+57,Fare,78.2667
+57,Cabin,D20
+57,Embarked,C
+58,PassengerId,498
+58,Survived,0
+58,Pclass,3
+58,Name,"Shellard, Mr. Frederick William"
+58,Sex,male
+58,SibSp,0
+58,Parch,0
+58,Ticket,C.A. 6212
+58,Fare,15.1
+58,Embarked,S
+59,PassengerId,499
+59,Survived,0
+59,Pclass,1
+59,Name,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)"
+59,Sex,female
+59,Age,25.0
+59,SibSp,1
+59,Parch,2
+59,Ticket,113781
+59,Fare,151.55
+59,Cabin,C22 C26
+59,Embarked,S
+60,PassengerId,500
+60,Survived,0
+60,Pclass,3
+60,Name,"Svensson, Mr. Olof"
+60,Sex,male
+60,Age,24.0
+60,SibSp,0
+60,Parch,0
+60,Ticket,350035
+60,Fare,7.7958
+60,Embarked,S
+61,PassengerId,501
+61,Survived,0
+61,Pclass,3
+61,Name,"Calic, Mr. Petar"
+61,Sex,male
+61,Age,17.0
+61,SibSp,0
+61,Parch,0
+61,Ticket,315086
+61,Fare,8.6625
+61,Embarked,S
+62,PassengerId,502
+62,Survived,0
+62,Pclass,3
+62,Name,"Canavan, Miss. Mary"
+62,Sex,female
+62,Age,21.0
+62,SibSp,0
+62,Parch,0
+62,Ticket,364846
+62,Fare,7.75
+62,Embarked,Q
+63,PassengerId,503
+63,Survived,0
+63,Pclass,3
+63,Name,"O'Sullivan, Miss. Bridget Mary"
+63,Sex,female
+63,SibSp,0
+63,Parch,0
+63,Ticket,330909
+63,Fare,7.6292
+63,Embarked,Q
+64,PassengerId,504
+64,Survived,0
+64,Pclass,3
+64,Name,"Laitinen, Miss. Kristina Sofia"
+64,Sex,female
+64,Age,37.0
+64,SibSp,0
+64,Parch,0
+64,Ticket,4135
+64,Fare,9.5875
+64,Embarked,S
+65,PassengerId,505
+65,Survived,1
+65,Pclass,1
+65,Name,"Maioni, Miss. Roberta"
+65,Sex,female
+65,Age,16.0
+65,SibSp,0
+65,Parch,0
+65,Ticket,110152
+65,Fare,86.5
+65,Cabin,B79
+65,Embarked,S
+66,PassengerId,506
+66,Survived,0
+66,Pclass,1
+66,Name,"Penasco y Castellana, Mr. Victor de Satode"
+66,Sex,male
+66,Age,18.0
+66,SibSp,1
+66,Parch,0
+66,Ticket,PC 17758
+66,Fare,108.9
+66,Cabin,C65
+66,Embarked,C
+67,PassengerId,507
+67,Survived,1
+67,Pclass,2
+67,Name,"Quick, Mrs. Frederick Charles (Jane Richards)"
+67,Sex,female
+67,Age,33.0
+67,SibSp,0
+67,Parch,2
+67,Ticket,26360
+67,Fare,26.0
+67,Embarked,S
+68,PassengerId,508
+68,Survived,1
+68,Pclass,1
+68,Name,"Bradley, Mr. George (""George Arthur Brayton"")"
+68,Sex,male
+68,SibSp,0
+68,Parch,0
+68,Ticket,111427
+68,Fare,26.55
+68,Embarked,S
+69,PassengerId,509
+69,Survived,0
+69,Pclass,3
+69,Name,"Olsen, Mr. Henry Margido"
+69,Sex,male
+69,Age,28.0
+69,SibSp,0
+69,Parch,0
+69,Ticket,C 4001
+69,Fare,22.525
+69,Embarked,S
+70,PassengerId,510
+70,Survived,1
+70,Pclass,3
+70,Name,"Lang, Mr. Fang"
+70,Sex,male
+70,Age,26.0
+70,SibSp,0
+70,Parch,0
+70,Ticket,1601
+70,Fare,56.4958
+70,Embarked,S
+71,PassengerId,511
+71,Survived,1
+71,Pclass,3
+71,Name,"Daly, Mr. Eugene Patrick"
+71,Sex,male
+71,Age,29.0
+71,SibSp,0
+71,Parch,0
+71,Ticket,382651
+71,Fare,7.75
+71,Embarked,Q
+72,PassengerId,512
+72,Survived,0
+72,Pclass,3
+72,Name,"Webber, Mr. James"
+72,Sex,male
+72,SibSp,0
+72,Parch,0
+72,Ticket,SOTON/OQ 3101316
+72,Fare,8.05
+72,Embarked,S
+73,PassengerId,513
+73,Survived,1
+73,Pclass,1
+73,Name,"McGough, Mr. James Robert"
+73,Sex,male
+73,Age,36.0
+73,SibSp,0
+73,Parch,0
+73,Ticket,PC 17473
+73,Fare,26.2875
+73,Cabin,E25
+73,Embarked,S
+74,PassengerId,514
+74,Survived,1
+74,Pclass,1
+74,Name,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)"
+74,Sex,female
+74,Age,54.0
+74,SibSp,1
+74,Parch,0
+74,Ticket,PC 17603
+74,Fare,59.4
+74,Embarked,C
+75,PassengerId,515
+75,Survived,0
+75,Pclass,3
+75,Name,"Coleff, Mr. Satio"
+75,Sex,male
+75,Age,24.0
+75,SibSp,0
+75,Parch,0
+75,Ticket,349209
+75,Fare,7.4958
+75,Embarked,S
+76,PassengerId,516
+76,Survived,0
+76,Pclass,1
+76,Name,"Walker, Mr. William Anderson"
+76,Sex,male
+76,Age,47.0
+76,SibSp,0
+76,Parch,0
+76,Ticket,36967
+76,Fare,34.0208
+76,Cabin,D46
+76,Embarked,S
+77,PassengerId,517
+77,Survived,1
+77,Pclass,2
+77,Name,"Lemore, Mrs. (Amelia Milley)"
+77,Sex,female
+77,Age,34.0
+77,SibSp,0
+77,Parch,0
+77,Ticket,C.A. 34260
+77,Fare,10.5
+77,Cabin,F33
+77,Embarked,S
+78,PassengerId,518
+78,Survived,0
+78,Pclass,3
+78,Name,"Ryan, Mr. Patrick"
+78,Sex,male
+78,SibSp,0
+78,Parch,0
+78,Ticket,371110
+78,Fare,24.15
+78,Embarked,Q
+79,PassengerId,519
+79,Survived,1
+79,Pclass,2
+79,Name,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)"
+79,Sex,female
+79,Age,36.0
+79,SibSp,1
+79,Parch,0
+79,Ticket,226875
+79,Fare,26.0
+79,Embarked,S
+80,PassengerId,520
+80,Survived,0
+80,Pclass,3
+80,Name,"Pavlovic, Mr. Stefo"
+80,Sex,male
+80,Age,32.0
+80,SibSp,0
+80,Parch,0
+80,Ticket,349242
+80,Fare,7.8958
+80,Embarked,S
+81,PassengerId,521
+81,Survived,1
+81,Pclass,1
+81,Name,"Perreault, Miss. Anne"
+81,Sex,female
+81,Age,30.0
+81,SibSp,0
+81,Parch,0
+81,Ticket,12749
+81,Fare,93.5
+81,Cabin,B73
+81,Embarked,S
+82,PassengerId,522
+82,Survived,0
+82,Pclass,3
+82,Name,"Vovk, Mr. Janko"
+82,Sex,male
+82,Age,22.0
+82,SibSp,0
+82,Parch,0
+82,Ticket,349252
+82,Fare,7.8958
+82,Embarked,S
+83,PassengerId,523
+83,Survived,0
+83,Pclass,3
+83,Name,"Lahoud, Mr. Sarkis"
+83,Sex,male
+83,SibSp,0
+83,Parch,0
+83,Ticket,2624
+83,Fare,7.225
+83,Embarked,C
+84,PassengerId,524
+84,Survived,1
+84,Pclass,1
+84,Name,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)"
+84,Sex,female
+84,Age,44.0
+84,SibSp,0
+84,Parch,1
+84,Ticket,111361
+84,Fare,57.9792
+84,Cabin,B18
+84,Embarked,C
+85,PassengerId,525
+85,Survived,0
+85,Pclass,3
+85,Name,"Kassem, Mr. Fared"
+85,Sex,male
+85,SibSp,0
+85,Parch,0
+85,Ticket,2700
+85,Fare,7.2292
+85,Embarked,C
+86,PassengerId,526
+86,Survived,0
+86,Pclass,3
+86,Name,"Farrell, Mr. James"
+86,Sex,male
+86,Age,40.5
+86,SibSp,0
+86,Parch,0
+86,Ticket,367232
+86,Fare,7.75
+86,Embarked,Q
+87,PassengerId,527
+87,Survived,1
+87,Pclass,2
+87,Name,"Ridsdale, Miss. Lucy"
+87,Sex,female
+87,Age,50.0
+87,SibSp,0
+87,Parch,0
+87,Ticket,W./C. 14258
+87,Fare,10.5
+87,Embarked,S
+88,PassengerId,528
+88,Survived,0
+88,Pclass,1
+88,Name,"Farthing, Mr. John"
+88,Sex,male
+88,SibSp,0
+88,Parch,0
+88,Ticket,PC 17483
+88,Fare,221.7792
+88,Cabin,C95
+88,Embarked,S
+89,PassengerId,529
+89,Survived,0
+89,Pclass,3
+89,Name,"Salonen, Mr. Johan Werner"
+89,Sex,male
+89,Age,39.0
+89,SibSp,0
+89,Parch,0
+89,Ticket,3101296
+89,Fare,7.925
+89,Embarked,S
+90,PassengerId,530
+90,Survived,0
+90,Pclass,2
+90,Name,"Hocking, Mr. Richard George"
+90,Sex,male
+90,Age,23.0
+90,SibSp,2
+90,Parch,1
+90,Ticket,29104
+90,Fare,11.5
+90,Embarked,S
+91,PassengerId,531
+91,Survived,1
+91,Pclass,2
+91,Name,"Quick, Miss. Phyllis May"
+91,Sex,female
+91,Age,2.0
+91,SibSp,1
+91,Parch,1
+91,Ticket,26360
+91,Fare,26.0
+91,Embarked,S
+92,PassengerId,532
+92,Survived,0
+92,Pclass,3
+92,Name,"Toufik, Mr. Nakli"
+92,Sex,male
+92,SibSp,0
+92,Parch,0
+92,Ticket,2641
+92,Fare,7.2292
+92,Embarked,C
+93,PassengerId,533
+93,Survived,0
+93,Pclass,3
+93,Name,"Elias, Mr. Joseph Jr"
+93,Sex,male
+93,Age,17.0
+93,SibSp,1
+93,Parch,1
+93,Ticket,2690
+93,Fare,7.2292
+93,Embarked,C
+94,PassengerId,534
+94,Survived,1
+94,Pclass,3
+94,Name,"Peter, Mrs. Catherine (Catherine Rizk)"
+94,Sex,female
+94,SibSp,0
+94,Parch,2
+94,Ticket,2668
+94,Fare,22.3583
+94,Embarked,C
+95,PassengerId,535
+95,Survived,0
+95,Pclass,3
+95,Name,"Cacic, Miss. Marija"
+95,Sex,female
+95,Age,30.0
+95,SibSp,0
+95,Parch,0
+95,Ticket,315084
+95,Fare,8.6625
+95,Embarked,S
+96,PassengerId,536
+96,Survived,1
+96,Pclass,2
+96,Name,"Hart, Miss. Eva Miriam"
+96,Sex,female
+96,Age,7.0
+96,SibSp,0
+96,Parch,2
+96,Ticket,F.C.C. 13529
+96,Fare,26.25
+96,Embarked,S
+97,PassengerId,537
+97,Survived,0
+97,Pclass,1
+97,Name,"Butt, Major. Archibald Willingham"
+97,Sex,male
+97,Age,45.0
+97,SibSp,0
+97,Parch,0
+97,Ticket,113050
+97,Fare,26.55
+97,Cabin,B38
+97,Embarked,S
+98,PassengerId,538
+98,Survived,1
+98,Pclass,1
+98,Name,"LeRoy, Miss. Bertha"
+98,Sex,female
+98,Age,30.0
+98,SibSp,0
+98,Parch,0
+98,Ticket,PC 17761
+98,Fare,106.425
+98,Embarked,C
+99,PassengerId,539
+99,Survived,0
+99,Pclass,3
+99,Name,"Risien, Mr. Samuel Beard"
+99,Sex,male
+99,SibSp,0
+99,Parch,0
+99,Ticket,364498
+99,Fare,14.5
+99,Embarked,S
+100,PassengerId,540
+100,Survived,1
+100,Pclass,1
+100,Name,"Frolicher, Miss. Hedwig Margaritha"
+100,Sex,female
+100,Age,22.0
+100,SibSp,0
+100,Parch,2
+100,Ticket,13568
+100,Fare,49.5
+100,Cabin,B39
+100,Embarked,C
+101,PassengerId,541
+101,Survived,1
+101,Pclass,1
+101,Name,"Crosby, Miss. Harriet R"
+101,Sex,female
+101,Age,36.0
+101,SibSp,0
+101,Parch,2
+101,Ticket,WE/P 5735
+101,Fare,71.0
+101,Cabin,B22
+101,Embarked,S
+102,PassengerId,542
+102,Survived,0
+102,Pclass,3
+102,Name,"Andersson, Miss. Ingeborg Constanzia"
+102,Sex,female
+102,Age,9.0
+102,SibSp,4
+102,Parch,2
+102,Ticket,347082
+102,Fare,31.275
+102,Embarked,S
+103,PassengerId,543
+103,Survived,0
+103,Pclass,3
+103,Name,"Andersson, Miss. Sigrid Elisabeth"
+103,Sex,female
+103,Age,11.0
+103,SibSp,4
+103,Parch,2
+103,Ticket,347082
+103,Fare,31.275
+103,Embarked,S
+104,PassengerId,544
+104,Survived,1
+104,Pclass,2
+104,Name,"Beane, Mr. Edward"
+104,Sex,male
+104,Age,32.0
+104,SibSp,1
+104,Parch,0
+104,Ticket,2908
+104,Fare,26.0
+104,Embarked,S
+105,PassengerId,545
+105,Survived,0
+105,Pclass,1
+105,Name,"Douglas, Mr. Walter Donald"
+105,Sex,male
+105,Age,50.0
+105,SibSp,1
+105,Parch,0
+105,Ticket,PC 17761
+105,Fare,106.425
+105,Cabin,C86
+105,Embarked,C
+106,PassengerId,546
+106,Survived,0
+106,Pclass,1
+106,Name,"Nicholson, Mr. Arthur Ernest"
+106,Sex,male
+106,Age,64.0
+106,SibSp,0
+106,Parch,0
+106,Ticket,693
+106,Fare,26.0
+106,Embarked,S
+107,PassengerId,547
+107,Survived,1
+107,Pclass,2
+107,Name,"Beane, Mrs. Edward (Ethel Clarke)"
+107,Sex,female
+107,Age,19.0
+107,SibSp,1
+107,Parch,0
+107,Ticket,2908
+107,Fare,26.0
+107,Embarked,S
+108,PassengerId,548
+108,Survived,1
+108,Pclass,2
+108,Name,"Padro y Manent, Mr. Julian"
+108,Sex,male
+108,SibSp,0
+108,Parch,0
+108,Ticket,SC/PARIS 2146
+108,Fare,13.8625
+108,Embarked,C
+109,PassengerId,549
+109,Survived,0
+109,Pclass,3
+109,Name,"Goldsmith, Mr. Frank John"
+109,Sex,male
+109,Age,33.0
+109,SibSp,1
+109,Parch,1
+109,Ticket,363291
+109,Fare,20.525
+109,Embarked,S
+110,PassengerId,550
+110,Survived,1
+110,Pclass,2
+110,Name,"Davies, Master. John Morgan Jr"
+110,Sex,male
+110,Age,8.0
+110,SibSp,1
+110,Parch,1
+110,Ticket,C.A. 33112
+110,Fare,36.75
+110,Embarked,S
+111,PassengerId,551
+111,Survived,1
+111,Pclass,1
+111,Name,"Thayer, Mr. John Borland Jr"
+111,Sex,male
+111,Age,17.0
+111,SibSp,0
+111,Parch,2
+111,Ticket,17421
+111,Fare,110.8833
+111,Cabin,C70
+111,Embarked,C
+112,PassengerId,552
+112,Survived,0
+112,Pclass,2
+112,Name,"Sharp, Mr. Percival James R"
+112,Sex,male
+112,Age,27.0
+112,SibSp,0
+112,Parch,0
+112,Ticket,244358
+112,Fare,26.0
+112,Embarked,S
+113,PassengerId,553
+113,Survived,0
+113,Pclass,3
+113,Name,"O'Brien, Mr. Timothy"
+113,Sex,male
+113,SibSp,0
+113,Parch,0
+113,Ticket,330979
+113,Fare,7.8292
+113,Embarked,Q
+114,PassengerId,554
+114,Survived,1
+114,Pclass,3
+114,Name,"Leeni, Mr. Fahim (""Philip Zenni"")"
+114,Sex,male
+114,Age,22.0
+114,SibSp,0
+114,Parch,0
+114,Ticket,2620
+114,Fare,7.225
+114,Embarked,C
+115,PassengerId,555
+115,Survived,1
+115,Pclass,3
+115,Name,"Ohman, Miss. Velin"
+115,Sex,female
+115,Age,22.0
+115,SibSp,0
+115,Parch,0
+115,Ticket,347085
+115,Fare,7.775
+115,Embarked,S
+116,PassengerId,556
+116,Survived,0
+116,Pclass,1
+116,Name,"Wright, Mr. George"
+116,Sex,male
+116,Age,62.0
+116,SibSp,0
+116,Parch,0
+116,Ticket,113807
+116,Fare,26.55
+116,Embarked,S
+117,PassengerId,557
+117,Survived,1
+117,Pclass,1
+117,Name,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")"
+117,Sex,female
+117,Age,48.0
+117,SibSp,1
+117,Parch,0
+117,Ticket,11755
+117,Fare,39.6
+117,Cabin,A16
+117,Embarked,C
+118,PassengerId,558
+118,Survived,0
+118,Pclass,1
+118,Name,"Robbins, Mr. Victor"
+118,Sex,male
+118,SibSp,0
+118,Parch,0
+118,Ticket,PC 17757
+118,Fare,227.525
+118,Embarked,C
+119,PassengerId,559
+119,Survived,1
+119,Pclass,1
+119,Name,"Taussig, Mrs. Emil (Tillie Mandelbaum)"
+119,Sex,female
+119,Age,39.0
+119,SibSp,1
+119,Parch,1
+119,Ticket,110413
+119,Fare,79.65
+119,Cabin,E67
+119,Embarked,S
+120,PassengerId,560
+120,Survived,1
+120,Pclass,3
+120,Name,"de Messemaeker, Mrs. Guillaume Joseph (Emma)"
+120,Sex,female
+120,Age,36.0
+120,SibSp,1
+120,Parch,0
+120,Ticket,345572
+120,Fare,17.4
+120,Embarked,S
+121,PassengerId,561
+121,Survived,0
+121,Pclass,3
+121,Name,"Morrow, Mr. Thomas Rowan"
+121,Sex,male
+121,SibSp,0
+121,Parch,0
+121,Ticket,372622
+121,Fare,7.75
+121,Embarked,Q
+122,PassengerId,562
+122,Survived,0
+122,Pclass,3
+122,Name,"Sivic, Mr. Husein"
+122,Sex,male
+122,Age,40.0
+122,SibSp,0
+122,Parch,0
+122,Ticket,349251
+122,Fare,7.8958
+122,Embarked,S
+123,PassengerId,563
+123,Survived,0
+123,Pclass,2
+123,Name,"Norman, Mr. Robert Douglas"
+123,Sex,male
+123,Age,28.0
+123,SibSp,0
+123,Parch,0
+123,Ticket,218629
+123,Fare,13.5
+123,Embarked,S
+124,PassengerId,564
+124,Survived,0
+124,Pclass,3
+124,Name,"Simmons, Mr. John"
+124,Sex,male
+124,SibSp,0
+124,Parch,0
+124,Ticket,SOTON/OQ 392082
+124,Fare,8.05
+124,Embarked,S
+125,PassengerId,565
+125,Survived,0
+125,Pclass,3
+125,Name,"Meanwell, Miss. (Marion Ogden)"
+125,Sex,female
+125,SibSp,0
+125,Parch,0
+125,Ticket,SOTON/O.Q. 392087
+125,Fare,8.05
+125,Embarked,S
+126,PassengerId,566
+126,Survived,0
+126,Pclass,3
+126,Name,"Davies, Mr. Alfred J"
+126,Sex,male
+126,Age,24.0
+126,SibSp,2
+126,Parch,0
+126,Ticket,A/4 48871
+126,Fare,24.15
+126,Embarked,S
+127,PassengerId,567
+127,Survived,0
+127,Pclass,3
+127,Name,"Stoytcheff, Mr. Ilia"
+127,Sex,male
+127,Age,19.0
+127,SibSp,0
+127,Parch,0
+127,Ticket,349205
+127,Fare,7.8958
+127,Embarked,S
+128,PassengerId,568
+128,Survived,0
+128,Pclass,3
+128,Name,"Palsson, Mrs. Nils (Alma Cornelia Berglund)"
+128,Sex,female
+128,Age,29.0
+128,SibSp,0
+128,Parch,4
+128,Ticket,349909
+128,Fare,21.075
+128,Embarked,S
+129,PassengerId,569
+129,Survived,0
+129,Pclass,3
+129,Name,"Doharr, Mr. Tannous"
+129,Sex,male
+129,SibSp,0
+129,Parch,0
+129,Ticket,2686
+129,Fare,7.2292
+129,Embarked,C
+130,PassengerId,570
+130,Survived,1
+130,Pclass,3
+130,Name,"Jonsson, Mr. Carl"
+130,Sex,male
+130,Age,32.0
+130,SibSp,0
+130,Parch,0
+130,Ticket,350417
+130,Fare,7.8542
+130,Embarked,S
+131,PassengerId,571
+131,Survived,1
+131,Pclass,2
+131,Name,"Harris, Mr. George"
+131,Sex,male
+131,Age,62.0
+131,SibSp,0
+131,Parch,0
+131,Ticket,S.W./PP 752
+131,Fare,10.5
+131,Embarked,S
+132,PassengerId,572
+132,Survived,1
+132,Pclass,1
+132,Name,"Appleton, Mrs. Edward Dale (Charlotte Lamson)"
+132,Sex,female
+132,Age,53.0
+132,SibSp,2
+132,Parch,0
+132,Ticket,11769
+132,Fare,51.4792
+132,Cabin,C101
+132,Embarked,S
+133,PassengerId,573
+133,Survived,1
+133,Pclass,1
+133,Name,"Flynn, Mr. John Irwin (""Irving"")"
+133,Sex,male
+133,Age,36.0
+133,SibSp,0
+133,Parch,0
+133,Ticket,PC 17474
+133,Fare,26.3875
+133,Cabin,E25
+133,Embarked,S
+134,PassengerId,574
+134,Survived,1
+134,Pclass,3
+134,Name,"Kelly, Miss. Mary"
+134,Sex,female
+134,SibSp,0
+134,Parch,0
+134,Ticket,14312
+134,Fare,7.75
+134,Embarked,Q
+135,PassengerId,575
+135,Survived,0
+135,Pclass,3
+135,Name,"Rush, Mr. Alfred George John"
+135,Sex,male
+135,Age,16.0
+135,SibSp,0
+135,Parch,0
+135,Ticket,A/4. 20589
+135,Fare,8.05
+135,Embarked,S
+136,PassengerId,576
+136,Survived,0
+136,Pclass,3
+136,Name,"Patchett, Mr. George"
+136,Sex,male
+136,Age,19.0
+136,SibSp,0
+136,Parch,0
+136,Ticket,358585
+136,Fare,14.5
+136,Embarked,S
+137,PassengerId,577
+137,Survived,1
+137,Pclass,2
+137,Name,"Garside, Miss. Ethel"
+137,Sex,female
+137,Age,34.0
+137,SibSp,0
+137,Parch,0
+137,Ticket,243880
+137,Fare,13.0
+137,Embarked,S
+138,PassengerId,578
+138,Survived,1
+138,Pclass,1
+138,Name,"Silvey, Mrs. William Baird (Alice Munger)"
+138,Sex,female
+138,Age,39.0
+138,SibSp,1
+138,Parch,0
+138,Ticket,13507
+138,Fare,55.9
+138,Cabin,E44
+138,Embarked,S
+139,PassengerId,579
+139,Survived,0
+139,Pclass,3
+139,Name,"Caram, Mrs. Joseph (Maria Elias)"
+139,Sex,female
+139,SibSp,1
+139,Parch,0
+139,Ticket,2689
+139,Fare,14.4583
+139,Embarked,C
+140,PassengerId,580
+140,Survived,1
+140,Pclass,3
+140,Name,"Jussila, Mr. Eiriik"
+140,Sex,male
+140,Age,32.0
+140,SibSp,0
+140,Parch,0
+140,Ticket,STON/O 2. 3101286
+140,Fare,7.925
+140,Embarked,S
+141,PassengerId,581
+141,Survived,1
+141,Pclass,2
+141,Name,"Christy, Miss. Julie Rachel"
+141,Sex,female
+141,Age,25.0
+141,SibSp,1
+141,Parch,1
+141,Ticket,237789
+141,Fare,30.0
+141,Embarked,S
+142,PassengerId,582
+142,Survived,1
+142,Pclass,1
+142,Name,"Thayer, Mrs. John Borland (Marian Longstreth Morris)"
+142,Sex,female
+142,Age,39.0
+142,SibSp,1
+142,Parch,1
+142,Ticket,17421
+142,Fare,110.8833
+142,Cabin,C68
+142,Embarked,C
+143,PassengerId,583
+143,Survived,0
+143,Pclass,2
+143,Name,"Downton, Mr. William James"
+143,Sex,male
+143,Age,54.0
+143,SibSp,0
+143,Parch,0
+143,Ticket,28403
+143,Fare,26.0
+143,Embarked,S
+144,PassengerId,584
+144,Survived,0
+144,Pclass,1
+144,Name,"Ross, Mr. John Hugo"
+144,Sex,male
+144,Age,36.0
+144,SibSp,0
+144,Parch,0
+144,Ticket,13049
+144,Fare,40.125
+144,Cabin,A10
+144,Embarked,C
+145,PassengerId,585
+145,Survived,0
+145,Pclass,3
+145,Name,"Paulner, Mr. Uscher"
+145,Sex,male
+145,SibSp,0
+145,Parch,0
+145,Ticket,3411
+145,Fare,8.7125
+145,Embarked,C
+146,PassengerId,586
+146,Survived,1
+146,Pclass,1
+146,Name,"Taussig, Miss. Ruth"
+146,Sex,female
+146,Age,18.0
+146,SibSp,0
+146,Parch,2
+146,Ticket,110413
+146,Fare,79.65
+146,Cabin,E68
+146,Embarked,S
+147,PassengerId,587
+147,Survived,0
+147,Pclass,2
+147,Name,"Jarvis, Mr. John Denzil"
+147,Sex,male
+147,Age,47.0
+147,SibSp,0
+147,Parch,0
+147,Ticket,237565
+147,Fare,15.0
+147,Embarked,S
+148,PassengerId,588
+148,Survived,1
+148,Pclass,1
+148,Name,"Frolicher-Stehli, Mr. Maxmillian"
+148,Sex,male
+148,Age,60.0
+148,SibSp,1
+148,Parch,1
+148,Ticket,13567
+148,Fare,79.2
+148,Cabin,B41
+148,Embarked,C
+149,PassengerId,589
+149,Survived,0
+149,Pclass,3
+149,Name,"Gilinski, Mr. Eliezer"
+149,Sex,male
+149,Age,22.0
+149,SibSp,0
+149,Parch,0
+149,Ticket,14973
+149,Fare,8.05
+149,Embarked,S
+150,PassengerId,590
+150,Survived,0
+150,Pclass,3
+150,Name,"Murdlin, Mr. Joseph"
+150,Sex,male
+150,SibSp,0
+150,Parch,0
+150,Ticket,A./5. 3235
+150,Fare,8.05
+150,Embarked,S
+151,PassengerId,591
+151,Survived,0
+151,Pclass,3
+151,Name,"Rintamaki, Mr. Matti"
+151,Sex,male
+151,Age,35.0
+151,SibSp,0
+151,Parch,0
+151,Ticket,STON/O 2. 3101273
+151,Fare,7.125
+151,Embarked,S
+152,PassengerId,592
+152,Survived,1
+152,Pclass,1
+152,Name,"Stephenson, Mrs. Walter Bertram (Martha Eustis)"
+152,Sex,female
+152,Age,52.0
+152,SibSp,1
+152,Parch,0
+152,Ticket,36947
+152,Fare,78.2667
+152,Cabin,D20
+152,Embarked,C
+153,PassengerId,593
+153,Survived,0
+153,Pclass,3
+153,Name,"Elsbury, Mr. William James"
+153,Sex,male
+153,Age,47.0
+153,SibSp,0
+153,Parch,0
+153,Ticket,A/5 3902
+153,Fare,7.25
+153,Embarked,S
+154,PassengerId,594
+154,Survived,0
+154,Pclass,3
+154,Name,"Bourke, Miss. Mary"
+154,Sex,female
+154,SibSp,0
+154,Parch,2
+154,Ticket,364848
+154,Fare,7.75
+154,Embarked,Q
+155,PassengerId,595
+155,Survived,0
+155,Pclass,2
+155,Name,"Chapman, Mr. John Henry"
+155,Sex,male
+155,Age,37.0
+155,SibSp,1
+155,Parch,0
+155,Ticket,SC/AH 29037
+155,Fare,26.0
+155,Embarked,S
+156,PassengerId,596
+156,Survived,0
+156,Pclass,3
+156,Name,"Van Impe, Mr. Jean Baptiste"
+156,Sex,male
+156,Age,36.0
+156,SibSp,1
+156,Parch,1
+156,Ticket,345773
+156,Fare,24.15
+156,Embarked,S
+157,PassengerId,597
+157,Survived,1
+157,Pclass,2
+157,Name,"Leitch, Miss. Jessie Wills"
+157,Sex,female
+157,SibSp,0
+157,Parch,0
+157,Ticket,248727
+157,Fare,33.0
+157,Embarked,S
+158,PassengerId,598
+158,Survived,0
+158,Pclass,3
+158,Name,"Johnson, Mr. Alfred"
+158,Sex,male
+158,Age,49.0
+158,SibSp,0
+158,Parch,0
+158,Ticket,LINE
+158,Fare,0.0
+158,Embarked,S
+159,PassengerId,599
+159,Survived,0
+159,Pclass,3
+159,Name,"Boulos, Mr. Hanna"
+159,Sex,male
+159,SibSp,0
+159,Parch,0
+159,Ticket,2664
+159,Fare,7.225
+159,Embarked,C
+160,PassengerId,600
+160,Survived,1
+160,Pclass,1
+160,Name,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")"
+160,Sex,male
+160,Age,49.0
+160,SibSp,1
+160,Parch,0
+160,Ticket,PC 17485
+160,Fare,56.9292
+160,Cabin,A20
+160,Embarked,C
+161,PassengerId,601
+161,Survived,1
+161,Pclass,2
+161,Name,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)"
+161,Sex,female
+161,Age,24.0
+161,SibSp,2
+161,Parch,1
+161,Ticket,243847
+161,Fare,27.0
+161,Embarked,S
+162,PassengerId,602
+162,Survived,0
+162,Pclass,3
+162,Name,"Slabenoff, Mr. Petco"
+162,Sex,male
+162,SibSp,0
+162,Parch,0
+162,Ticket,349214
+162,Fare,7.8958
+162,Embarked,S
+163,PassengerId,603
+163,Survived,0
+163,Pclass,1
+163,Name,"Harrington, Mr. Charles H"
+163,Sex,male
+163,SibSp,0
+163,Parch,0
+163,Ticket,113796
+163,Fare,42.4
+163,Embarked,S
+164,PassengerId,604
+164,Survived,0
+164,Pclass,3
+164,Name,"Torber, Mr. Ernst William"
+164,Sex,male
+164,Age,44.0
+164,SibSp,0
+164,Parch,0
+164,Ticket,364511
+164,Fare,8.05
+164,Embarked,S
+165,PassengerId,605
+165,Survived,1
+165,Pclass,1
+165,Name,"Homer, Mr. Harry (""Mr E Haven"")"
+165,Sex,male
+165,Age,35.0
+165,SibSp,0
+165,Parch,0
+165,Ticket,111426
+165,Fare,26.55
+165,Embarked,C
+166,PassengerId,606
+166,Survived,0
+166,Pclass,3
+166,Name,"Lindell, Mr. Edvard Bengtsson"
+166,Sex,male
+166,Age,36.0
+166,SibSp,1
+166,Parch,0
+166,Ticket,349910
+166,Fare,15.55
+166,Embarked,S
+167,PassengerId,607
+167,Survived,0
+167,Pclass,3
+167,Name,"Karaic, Mr. Milan"
+167,Sex,male
+167,Age,30.0
+167,SibSp,0
+167,Parch,0
+167,Ticket,349246
+167,Fare,7.8958
+167,Embarked,S
+168,PassengerId,608
+168,Survived,1
+168,Pclass,1
+168,Name,"Daniel, Mr. Robert Williams"
+168,Sex,male
+168,Age,27.0
+168,SibSp,0
+168,Parch,0
+168,Ticket,113804
+168,Fare,30.5
+168,Embarked,S
+169,PassengerId,609
+169,Survived,1
+169,Pclass,2
+169,Name,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)"
+169,Sex,female
+169,Age,22.0
+169,SibSp,1
+169,Parch,2
+169,Ticket,SC/Paris 2123
+169,Fare,41.5792
+169,Embarked,C
+170,PassengerId,610
+170,Survived,1
+170,Pclass,1
+170,Name,"Shutes, Miss. Elizabeth W"
+170,Sex,female
+170,Age,40.0
+170,SibSp,0
+170,Parch,0
+170,Ticket,PC 17582
+170,Fare,153.4625
+170,Cabin,C125
+170,Embarked,S
+171,PassengerId,611
+171,Survived,0
+171,Pclass,3
+171,Name,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)"
+171,Sex,female
+171,Age,39.0
+171,SibSp,1
+171,Parch,5
+171,Ticket,347082
+171,Fare,31.275
+171,Embarked,S
+172,PassengerId,612
+172,Survived,0
+172,Pclass,3
+172,Name,"Jardin, Mr. Jose Neto"
+172,Sex,male
+172,SibSp,0
+172,Parch,0
+172,Ticket,SOTON/O.Q. 3101305
+172,Fare,7.05
+172,Embarked,S
+173,PassengerId,613
+173,Survived,1
+173,Pclass,3
+173,Name,"Murphy, Miss. Margaret Jane"
+173,Sex,female
+173,SibSp,1
+173,Parch,0
+173,Ticket,367230
+173,Fare,15.5
+173,Embarked,Q
+174,PassengerId,614
+174,Survived,0
+174,Pclass,3
+174,Name,"Horgan, Mr. John"
+174,Sex,male
+174,SibSp,0
+174,Parch,0
+174,Ticket,370377
+174,Fare,7.75
+174,Embarked,Q
+175,PassengerId,615
+175,Survived,0
+175,Pclass,3
+175,Name,"Brocklebank, Mr. William Alfred"
+175,Sex,male
+175,Age,35.0
+175,SibSp,0
+175,Parch,0
+175,Ticket,364512
+175,Fare,8.05
+175,Embarked,S
+176,PassengerId,616
+176,Survived,1
+176,Pclass,2
+176,Name,"Herman, Miss. Alice"
+176,Sex,female
+176,Age,24.0
+176,SibSp,1
+176,Parch,2
+176,Ticket,220845
+176,Fare,65.0
+176,Embarked,S
+177,PassengerId,617
+177,Survived,0
+177,Pclass,3
+177,Name,"Danbom, Mr. Ernst Gilbert"
+177,Sex,male
+177,Age,34.0
+177,SibSp,1
+177,Parch,1
+177,Ticket,347080
+177,Fare,14.4
+177,Embarked,S
+178,PassengerId,618
+178,Survived,0
+178,Pclass,3
+178,Name,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)"
+178,Sex,female
+178,Age,26.0
+178,SibSp,1
+178,Parch,0
+178,Ticket,A/5. 3336
+178,Fare,16.1
+178,Embarked,S
+179,PassengerId,619
+179,Survived,1
+179,Pclass,2
+179,Name,"Becker, Miss. Marion Louise"
+179,Sex,female
+179,Age,4.0
+179,SibSp,2
+179,Parch,1
+179,Ticket,230136
+179,Fare,39.0
+179,Cabin,F4
+179,Embarked,S
+180,PassengerId,620
+180,Survived,0
+180,Pclass,2
+180,Name,"Gavey, Mr. Lawrence"
+180,Sex,male
+180,Age,26.0
+180,SibSp,0
+180,Parch,0
+180,Ticket,31028
+180,Fare,10.5
+180,Embarked,S
+181,PassengerId,621
+181,Survived,0
+181,Pclass,3
+181,Name,"Yasbeck, Mr. Antoni"
+181,Sex,male
+181,Age,27.0
+181,SibSp,1
+181,Parch,0
+181,Ticket,2659
+181,Fare,14.4542
+181,Embarked,C
+182,PassengerId,622
+182,Survived,1
+182,Pclass,1
+182,Name,"Kimball, Mr. Edwin Nelson Jr"
+182,Sex,male
+182,Age,42.0
+182,SibSp,1
+182,Parch,0
+182,Ticket,11753
+182,Fare,52.5542
+182,Cabin,D19
+182,Embarked,S
+183,PassengerId,623
+183,Survived,1
+183,Pclass,3
+183,Name,"Nakid, Mr. Sahid"
+183,Sex,male
+183,Age,20.0
+183,SibSp,1
+183,Parch,1
+183,Ticket,2653
+183,Fare,15.7417
+183,Embarked,C
+184,PassengerId,624
+184,Survived,0
+184,Pclass,3
+184,Name,"Hansen, Mr. Henry Damsgaard"
+184,Sex,male
+184,Age,21.0
+184,SibSp,0
+184,Parch,0
+184,Ticket,350029
+184,Fare,7.8542
+184,Embarked,S
+185,PassengerId,625
+185,Survived,0
+185,Pclass,3
+185,Name,"Bowen, Mr. David John ""Dai"""
+185,Sex,male
+185,Age,21.0
+185,SibSp,0
+185,Parch,0
+185,Ticket,54636
+185,Fare,16.1
+185,Embarked,S
+186,PassengerId,626
+186,Survived,0
+186,Pclass,1
+186,Name,"Sutton, Mr. Frederick"
+186,Sex,male
+186,Age,61.0
+186,SibSp,0
+186,Parch,0
+186,Ticket,36963
+186,Fare,32.3208
+186,Cabin,D50
+186,Embarked,S
+187,PassengerId,627
+187,Survived,0
+187,Pclass,2
+187,Name,"Kirkland, Rev. Charles Leonard"
+187,Sex,male
+187,Age,57.0
+187,SibSp,0
+187,Parch,0
+187,Ticket,219533
+187,Fare,12.35
+187,Embarked,Q
+188,PassengerId,628
+188,Survived,1
+188,Pclass,1
+188,Name,"Longley, Miss. Gretchen Fiske"
+188,Sex,female
+188,Age,21.0
+188,SibSp,0
+188,Parch,0
+188,Ticket,13502
+188,Fare,77.9583
+188,Cabin,D9
+188,Embarked,S
+189,PassengerId,629
+189,Survived,0
+189,Pclass,3
+189,Name,"Bostandyeff, Mr. Guentcho"
+189,Sex,male
+189,Age,26.0
+189,SibSp,0
+189,Parch,0
+189,Ticket,349224
+189,Fare,7.8958
+189,Embarked,S
+190,PassengerId,630
+190,Survived,0
+190,Pclass,3
+190,Name,"O'Connell, Mr. Patrick D"
+190,Sex,male
+190,SibSp,0
+190,Parch,0
+190,Ticket,334912
+190,Fare,7.7333
+190,Embarked,Q
+191,PassengerId,631
+191,Survived,1
+191,Pclass,1
+191,Name,"Barkworth, Mr. Algernon Henry Wilson"
+191,Sex,male
+191,Age,80.0
+191,SibSp,0
+191,Parch,0
+191,Ticket,27042
+191,Fare,30.0
+191,Cabin,A23
+191,Embarked,S
+192,PassengerId,632
+192,Survived,0
+192,Pclass,3
+192,Name,"Lundahl, Mr. Johan Svensson"
+192,Sex,male
+192,Age,51.0
+192,SibSp,0
+192,Parch,0
+192,Ticket,347743
+192,Fare,7.0542
+192,Embarked,S
+193,PassengerId,633
+193,Survived,1
+193,Pclass,1
+193,Name,"Stahelin-Maeglin, Dr. Max"
+193,Sex,male
+193,Age,32.0
+193,SibSp,0
+193,Parch,0
+193,Ticket,13214
+193,Fare,30.5
+193,Cabin,B50
+193,Embarked,C
+194,PassengerId,634
+194,Survived,0
+194,Pclass,1
+194,Name,"Parr, Mr. William Henry Marsh"
+194,Sex,male
+194,SibSp,0
+194,Parch,0
+194,Ticket,112052
+194,Fare,0.0
+194,Embarked,S
+195,PassengerId,635
+195,Survived,0
+195,Pclass,3
+195,Name,"Skoog, Miss. Mabel"
+195,Sex,female
+195,Age,9.0
+195,SibSp,3
+195,Parch,2
+195,Ticket,347088
+195,Fare,27.9
+195,Embarked,S
+196,PassengerId,636
+196,Survived,1
+196,Pclass,2
+196,Name,"Davis, Miss. Mary"
+196,Sex,female
+196,Age,28.0
+196,SibSp,0
+196,Parch,0
+196,Ticket,237668
+196,Fare,13.0
+196,Embarked,S
+197,PassengerId,637
+197,Survived,0
+197,Pclass,3
+197,Name,"Leinonen, Mr. Antti Gustaf"
+197,Sex,male
+197,Age,32.0
+197,SibSp,0
+197,Parch,0
+197,Ticket,STON/O 2. 3101292
+197,Fare,7.925
+197,Embarked,S
+198,PassengerId,638
+198,Survived,0
+198,Pclass,2
+198,Name,"Collyer, Mr. Harvey"
+198,Sex,male
+198,Age,31.0
+198,SibSp,1
+198,Parch,1
+198,Ticket,C.A. 31921
+198,Fare,26.25
+198,Embarked,S
+199,PassengerId,639
+199,Survived,0
+199,Pclass,3
+199,Name,"Panula, Mrs. Juha (Maria Emilia Ojala)"
+199,Sex,female
+199,Age,41.0
+199,SibSp,0
+199,Parch,5
+199,Ticket,3101295
+199,Fare,39.6875
+199,Embarked,S
+200,PassengerId,640
+200,Survived,0
+200,Pclass,3
+200,Name,"Thorneycroft, Mr. Percival"
+200,Sex,male
+200,SibSp,1
+200,Parch,0
+200,Ticket,376564
+200,Fare,16.1
+200,Embarked,S
+201,PassengerId,641
+201,Survived,0
+201,Pclass,3
+201,Name,"Jensen, Mr. Hans Peder"
+201,Sex,male
+201,Age,20.0
+201,SibSp,0
+201,Parch,0
+201,Ticket,350050
+201,Fare,7.8542
+201,Embarked,S
+202,PassengerId,642
+202,Survived,1
+202,Pclass,1
+202,Name,"Sagesser, Mlle. Emma"
+202,Sex,female
+202,Age,24.0
+202,SibSp,0
+202,Parch,0
+202,Ticket,PC 17477
+202,Fare,69.3
+202,Cabin,B35
+202,Embarked,C
+203,PassengerId,643
+203,Survived,0
+203,Pclass,3
+203,Name,"Skoog, Miss. Margit Elizabeth"
+203,Sex,female
+203,Age,2.0
+203,SibSp,3
+203,Parch,2
+203,Ticket,347088
+203,Fare,27.9
+203,Embarked,S
+204,PassengerId,644
+204,Survived,1
+204,Pclass,3
+204,Name,"Foo, Mr. Choong"
+204,Sex,male
+204,SibSp,0
+204,Parch,0
+204,Ticket,1601
+204,Fare,56.4958
+204,Embarked,S
+205,PassengerId,645
+205,Survived,1
+205,Pclass,3
+205,Name,"Baclini, Miss. Eugenie"
+205,Sex,female
+205,Age,0.75
+205,SibSp,2
+205,Parch,1
+205,Ticket,2666
+205,Fare,19.2583
+205,Embarked,C
+206,PassengerId,646
+206,Survived,1
+206,Pclass,1
+206,Name,"Harper, Mr. Henry Sleeper"
+206,Sex,male
+206,Age,48.0
+206,SibSp,1
+206,Parch,0
+206,Ticket,PC 17572
+206,Fare,76.7292
+206,Cabin,D33
+206,Embarked,C
+207,PassengerId,647
+207,Survived,0
+207,Pclass,3
+207,Name,"Cor, Mr. Liudevit"
+207,Sex,male
+207,Age,19.0
+207,SibSp,0
+207,Parch,0
+207,Ticket,349231
+207,Fare,7.8958
+207,Embarked,S
+208,PassengerId,648
+208,Survived,1
+208,Pclass,1
+208,Name,"Simonius-Blumer, Col. Oberst Alfons"
+208,Sex,male
+208,Age,56.0
+208,SibSp,0
+208,Parch,0
+208,Ticket,13213
+208,Fare,35.5
+208,Cabin,A26
+208,Embarked,C
+209,PassengerId,649
+209,Survived,0
+209,Pclass,3
+209,Name,"Willey, Mr. Edward"
+209,Sex,male
+209,SibSp,0
+209,Parch,0
+209,Ticket,S.O./P.P. 751
+209,Fare,7.55
+209,Embarked,S
+210,PassengerId,650
+210,Survived,1
+210,Pclass,3
+210,Name,"Stanley, Miss. Amy Zillah Elsie"
+210,Sex,female
+210,Age,23.0
+210,SibSp,0
+210,Parch,0
+210,Ticket,CA. 2314
+210,Fare,7.55
+210,Embarked,S
+211,PassengerId,651
+211,Survived,0
+211,Pclass,3
+211,Name,"Mitkoff, Mr. Mito"
+211,Sex,male
+211,SibSp,0
+211,Parch,0
+211,Ticket,349221
+211,Fare,7.8958
+211,Embarked,S
+212,PassengerId,652
+212,Survived,1
+212,Pclass,2
+212,Name,"Doling, Miss. Elsie"
+212,Sex,female
+212,Age,18.0
+212,SibSp,0
+212,Parch,1
+212,Ticket,231919
+212,Fare,23.0
+212,Embarked,S
+213,PassengerId,653
+213,Survived,0
+213,Pclass,3
+213,Name,"Kalvik, Mr. Johannes Halvorsen"
+213,Sex,male
+213,Age,21.0
+213,SibSp,0
+213,Parch,0
+213,Ticket,8475
+213,Fare,8.4333
+213,Embarked,S
+214,PassengerId,654
+214,Survived,1
+214,Pclass,3
+214,Name,"O'Leary, Miss. Hanora ""Norah"""
+214,Sex,female
+214,SibSp,0
+214,Parch,0
+214,Ticket,330919
+214,Fare,7.8292
+214,Embarked,Q
+215,PassengerId,655
+215,Survived,0
+215,Pclass,3
+215,Name,"Hegarty, Miss. Hanora ""Nora"""
+215,Sex,female
+215,Age,18.0
+215,SibSp,0
+215,Parch,0
+215,Ticket,365226
+215,Fare,6.75
+215,Embarked,Q
+216,PassengerId,656
+216,Survived,0
+216,Pclass,2
+216,Name,"Hickman, Mr. Leonard Mark"
+216,Sex,male
+216,Age,24.0
+216,SibSp,2
+216,Parch,0
+216,Ticket,S.O.C. 14879
+216,Fare,73.5
+216,Embarked,S
+217,PassengerId,657
+217,Survived,0
+217,Pclass,3
+217,Name,"Radeff, Mr. Alexander"
+217,Sex,male
+217,SibSp,0
+217,Parch,0
+217,Ticket,349223
+217,Fare,7.8958
+217,Embarked,S
+218,PassengerId,658
+218,Survived,0
+218,Pclass,3
+218,Name,"Bourke, Mrs. John (Catherine)"
+218,Sex,female
+218,Age,32.0
+218,SibSp,1
+218,Parch,1
+218,Ticket,364849
+218,Fare,15.5
+218,Embarked,Q
+219,PassengerId,659
+219,Survived,0
+219,Pclass,2
+219,Name,"Eitemiller, Mr. George Floyd"
+219,Sex,male
+219,Age,23.0
+219,SibSp,0
+219,Parch,0
+219,Ticket,29751
+219,Fare,13.0
+219,Embarked,S
+220,PassengerId,660
+220,Survived,0
+220,Pclass,1
+220,Name,"Newell, Mr. Arthur Webster"
+220,Sex,male
+220,Age,58.0
+220,SibSp,0
+220,Parch,2
+220,Ticket,35273
+220,Fare,113.275
+220,Cabin,D48
+220,Embarked,C
+221,PassengerId,661
+221,Survived,1
+221,Pclass,1
+221,Name,"Frauenthal, Dr. Henry William"
+221,Sex,male
+221,Age,50.0
+221,SibSp,2
+221,Parch,0
+221,Ticket,PC 17611
+221,Fare,133.65
+221,Embarked,S
+222,PassengerId,662
+222,Survived,0
+222,Pclass,3
+222,Name,"Badt, Mr. Mohamed"
+222,Sex,male
+222,Age,40.0
+222,SibSp,0
+222,Parch,0
+222,Ticket,2623
+222,Fare,7.225
+222,Embarked,C
+223,PassengerId,663
+223,Survived,0
+223,Pclass,1
+223,Name,"Colley, Mr. Edward Pomeroy"
+223,Sex,male
+223,Age,47.0
+223,SibSp,0
+223,Parch,0
+223,Ticket,5727
+223,Fare,25.5875
+223,Cabin,E58
+223,Embarked,S
+224,PassengerId,664
+224,Survived,0
+224,Pclass,3
+224,Name,"Coleff, Mr. Peju"
+224,Sex,male
+224,Age,36.0
+224,SibSp,0
+224,Parch,0
+224,Ticket,349210
+224,Fare,7.4958
+224,Embarked,S
+225,PassengerId,665
+225,Survived,1
+225,Pclass,3
+225,Name,"Lindqvist, Mr. Eino William"
+225,Sex,male
+225,Age,20.0
+225,SibSp,1
+225,Parch,0
+225,Ticket,STON/O 2. 3101285
+225,Fare,7.925
+225,Embarked,S
+226,PassengerId,666
+226,Survived,0
+226,Pclass,2
+226,Name,"Hickman, Mr. Lewis"
+226,Sex,male
+226,Age,32.0
+226,SibSp,2
+226,Parch,0
+226,Ticket,S.O.C. 14879
+226,Fare,73.5
+226,Embarked,S
+227,PassengerId,667
+227,Survived,0
+227,Pclass,2
+227,Name,"Butler, Mr. Reginald Fenton"
+227,Sex,male
+227,Age,25.0
+227,SibSp,0
+227,Parch,0
+227,Ticket,234686
+227,Fare,13.0
+227,Embarked,S
+228,PassengerId,668
+228,Survived,0
+228,Pclass,3
+228,Name,"Rommetvedt, Mr. Knud Paust"
+228,Sex,male
+228,SibSp,0
+228,Parch,0
+228,Ticket,312993
+228,Fare,7.775
+228,Embarked,S
+229,PassengerId,669
+229,Survived,0
+229,Pclass,3
+229,Name,"Cook, Mr. Jacob"
+229,Sex,male
+229,Age,43.0
+229,SibSp,0
+229,Parch,0
+229,Ticket,A/5 3536
+229,Fare,8.05
+229,Embarked,S
+230,PassengerId,670
+230,Survived,1
+230,Pclass,1
+230,Name,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)"
+230,Sex,female
+230,SibSp,1
+230,Parch,0
+230,Ticket,19996
+230,Fare,52.0
+230,Cabin,C126
+230,Embarked,S
+231,PassengerId,671
+231,Survived,1
+231,Pclass,2
+231,Name,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)"
+231,Sex,female
+231,Age,40.0
+231,SibSp,1
+231,Parch,1
+231,Ticket,29750
+231,Fare,39.0
+231,Embarked,S
+232,PassengerId,672
+232,Survived,0
+232,Pclass,1
+232,Name,"Davidson, Mr. Thornton"
+232,Sex,male
+232,Age,31.0
+232,SibSp,1
+232,Parch,0
+232,Ticket,F.C. 12750
+232,Fare,52.0
+232,Cabin,B71
+232,Embarked,S
+233,PassengerId,673
+233,Survived,0
+233,Pclass,2
+233,Name,"Mitchell, Mr. Henry Michael"
+233,Sex,male
+233,Age,70.0
+233,SibSp,0
+233,Parch,0
+233,Ticket,C.A. 24580
+233,Fare,10.5
+233,Embarked,S
+234,PassengerId,674
+234,Survived,1
+234,Pclass,2
+234,Name,"Wilhelms, Mr. Charles"
+234,Sex,male
+234,Age,31.0
+234,SibSp,0
+234,Parch,0
+234,Ticket,244270
+234,Fare,13.0
+234,Embarked,S
+235,PassengerId,675
+235,Survived,0
+235,Pclass,2
+235,Name,"Watson, Mr. Ennis Hastings"
+235,Sex,male
+235,SibSp,0
+235,Parch,0
+235,Ticket,239856
+235,Fare,0.0
+235,Embarked,S
+236,PassengerId,676
+236,Survived,0
+236,Pclass,3
+236,Name,"Edvardsson, Mr. Gustaf Hjalmar"
+236,Sex,male
+236,Age,18.0
+236,SibSp,0
+236,Parch,0
+236,Ticket,349912
+236,Fare,7.775
+236,Embarked,S
+237,PassengerId,677
+237,Survived,0
+237,Pclass,3
+237,Name,"Sawyer, Mr. Frederick Charles"
+237,Sex,male
+237,Age,24.5
+237,SibSp,0
+237,Parch,0
+237,Ticket,342826
+237,Fare,8.05
+237,Embarked,S
+238,PassengerId,678
+238,Survived,1
+238,Pclass,3
+238,Name,"Turja, Miss. Anna Sofia"
+238,Sex,female
+238,Age,18.0
+238,SibSp,0
+238,Parch,0
+238,Ticket,4138
+238,Fare,9.8417
+238,Embarked,S
+239,PassengerId,679
+239,Survived,0
+239,Pclass,3
+239,Name,"Goodwin, Mrs. Frederick (Augusta Tyler)"
+239,Sex,female
+239,Age,43.0
+239,SibSp,1
+239,Parch,6
+239,Ticket,CA 2144
+239,Fare,46.9
+239,Embarked,S
+240,PassengerId,680
+240,Survived,1
+240,Pclass,1
+240,Name,"Cardeza, Mr. Thomas Drake Martinez"
+240,Sex,male
+240,Age,36.0
+240,SibSp,0
+240,Parch,1
+240,Ticket,PC 17755
+240,Fare,512.3292
+240,Cabin,B51 B53 B55
+240,Embarked,C
+241,PassengerId,681
+241,Survived,0
+241,Pclass,3
+241,Name,"Peters, Miss. Katie"
+241,Sex,female
+241,SibSp,0
+241,Parch,0
+241,Ticket,330935
+241,Fare,8.1375
+241,Embarked,Q
+242,PassengerId,682
+242,Survived,1
+242,Pclass,1
+242,Name,"Hassab, Mr. Hammad"
+242,Sex,male
+242,Age,27.0
+242,SibSp,0
+242,Parch,0
+242,Ticket,PC 17572
+242,Fare,76.7292
+242,Cabin,D49
+242,Embarked,C
+243,PassengerId,683
+243,Survived,0
+243,Pclass,3
+243,Name,"Olsvigen, Mr. Thor Anderson"
+243,Sex,male
+243,Age,20.0
+243,SibSp,0
+243,Parch,0
+243,Ticket,6563
+243,Fare,9.225
+243,Embarked,S
+244,PassengerId,684
+244,Survived,0
+244,Pclass,3
+244,Name,"Goodwin, Mr. Charles Edward"
+244,Sex,male
+244,Age,14.0
+244,SibSp,5
+244,Parch,2
+244,Ticket,CA 2144
+244,Fare,46.9
+244,Embarked,S
+245,PassengerId,685
+245,Survived,0
+245,Pclass,2
+245,Name,"Brown, Mr. Thomas William Solomon"
+245,Sex,male
+245,Age,60.0
+245,SibSp,1
+245,Parch,1
+245,Ticket,29750
+245,Fare,39.0
+245,Embarked,S
+246,PassengerId,686
+246,Survived,0
+246,Pclass,2
+246,Name,"Laroche, Mr. Joseph Philippe Lemercier"
+246,Sex,male
+246,Age,25.0
+246,SibSp,1
+246,Parch,2
+246,Ticket,SC/Paris 2123
+246,Fare,41.5792
+246,Embarked,C
+247,PassengerId,687
+247,Survived,0
+247,Pclass,3
+247,Name,"Panula, Mr. Jaako Arnold"
+247,Sex,male
+247,Age,14.0
+247,SibSp,4
+247,Parch,1
+247,Ticket,3101295
+247,Fare,39.6875
+247,Embarked,S
+248,PassengerId,688
+248,Survived,0
+248,Pclass,3
+248,Name,"Dakic, Mr. Branko"
+248,Sex,male
+248,Age,19.0
+248,SibSp,0
+248,Parch,0
+248,Ticket,349228
+248,Fare,10.1708
+248,Embarked,S
+249,PassengerId,689
+249,Survived,0
+249,Pclass,3
+249,Name,"Fischer, Mr. Eberhard Thelander"
+249,Sex,male
+249,Age,18.0
+249,SibSp,0
+249,Parch,0
+249,Ticket,350036
+249,Fare,7.7958
+249,Embarked,S
+250,PassengerId,690
+250,Survived,1
+250,Pclass,1
+250,Name,"Madill, Miss. Georgette Alexandra"
+250,Sex,female
+250,Age,15.0
+250,SibSp,0
+250,Parch,1
+250,Ticket,24160
+250,Fare,211.3375
+250,Cabin,B5
+250,Embarked,S
+251,PassengerId,691
+251,Survived,1
+251,Pclass,1
+251,Name,"Dick, Mr. Albert Adrian"
+251,Sex,male
+251,Age,31.0
+251,SibSp,1
+251,Parch,0
+251,Ticket,17474
+251,Fare,57.0
+251,Cabin,B20
+251,Embarked,S
+252,PassengerId,692
+252,Survived,1
+252,Pclass,3
+252,Name,"Karun, Miss. Manca"
+252,Sex,female
+252,Age,4.0
+252,SibSp,0
+252,Parch,1
+252,Ticket,349256
+252,Fare,13.4167
+252,Embarked,C
+253,PassengerId,693
+253,Survived,1
+253,Pclass,3
+253,Name,"Lam, Mr. Ali"
+253,Sex,male
+253,SibSp,0
+253,Parch,0
+253,Ticket,1601
+253,Fare,56.4958
+253,Embarked,S
+254,PassengerId,694
+254,Survived,0
+254,Pclass,3
+254,Name,"Saad, Mr. Khalil"
+254,Sex,male
+254,Age,25.0
+254,SibSp,0
+254,Parch,0
+254,Ticket,2672
+254,Fare,7.225
+254,Embarked,C
+255,PassengerId,695
+255,Survived,0
+255,Pclass,1
+255,Name,"Weir, Col. John"
+255,Sex,male
+255,Age,60.0
+255,SibSp,0
+255,Parch,0
+255,Ticket,113800
+255,Fare,26.55
+255,Embarked,S
+256,PassengerId,696
+256,Survived,0
+256,Pclass,2
+256,Name,"Chapman, Mr. Charles Henry"
+256,Sex,male
+256,Age,52.0
+256,SibSp,0
+256,Parch,0
+256,Ticket,248731
+256,Fare,13.5
+256,Embarked,S
+257,PassengerId,697
+257,Survived,0
+257,Pclass,3
+257,Name,"Kelly, Mr. James"
+257,Sex,male
+257,Age,44.0
+257,SibSp,0
+257,Parch,0
+257,Ticket,363592
+257,Fare,8.05
+257,Embarked,S
+258,PassengerId,698
+258,Survived,1
+258,Pclass,3
+258,Name,"Mullens, Miss. Katherine ""Katie"""
+258,Sex,female
+258,SibSp,0
+258,Parch,0
+258,Ticket,35852
+258,Fare,7.7333
+258,Embarked,Q
+259,PassengerId,699
+259,Survived,0
+259,Pclass,1
+259,Name,"Thayer, Mr. John Borland"
+259,Sex,male
+259,Age,49.0
+259,SibSp,1
+259,Parch,1
+259,Ticket,17421
+259,Fare,110.8833
+259,Cabin,C68
+259,Embarked,C
+260,PassengerId,700
+260,Survived,0
+260,Pclass,3
+260,Name,"Humblen, Mr. Adolf Mathias Nicolai Olsen"
+260,Sex,male
+260,Age,42.0
+260,SibSp,0
+260,Parch,0
+260,Ticket,348121
+260,Fare,7.65
+260,Cabin,F G63
+260,Embarked,S
+261,PassengerId,701
+261,Survived,1
+261,Pclass,1
+261,Name,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)"
+261,Sex,female
+261,Age,18.0
+261,SibSp,1
+261,Parch,0
+261,Ticket,PC 17757
+261,Fare,227.525
+261,Cabin,C62 C64
+261,Embarked,C
+262,PassengerId,702
+262,Survived,1
+262,Pclass,1
+262,Name,"Silverthorne, Mr. Spencer Victor"
+262,Sex,male
+262,Age,35.0
+262,SibSp,0
+262,Parch,0
+262,Ticket,PC 17475
+262,Fare,26.2875
+262,Cabin,E24
+262,Embarked,S
+263,PassengerId,703
+263,Survived,0
+263,Pclass,3
+263,Name,"Barbara, Miss. Saiide"
+263,Sex,female
+263,Age,18.0
+263,SibSp,0
+263,Parch,1
+263,Ticket,2691
+263,Fare,14.4542
+263,Embarked,C
+264,PassengerId,704
+264,Survived,0
+264,Pclass,3
+264,Name,"Gallagher, Mr. Martin"
+264,Sex,male
+264,Age,25.0
+264,SibSp,0
+264,Parch,0
+264,Ticket,36864
+264,Fare,7.7417
+264,Embarked,Q
+265,PassengerId,705
+265,Survived,0
+265,Pclass,3
+265,Name,"Hansen, Mr. Henrik Juul"
+265,Sex,male
+265,Age,26.0
+265,SibSp,1
+265,Parch,0
+265,Ticket,350025
+265,Fare,7.8542
+265,Embarked,S
+266,PassengerId,706
+266,Survived,0
+266,Pclass,2
+266,Name,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")"
+266,Sex,male
+266,Age,39.0
+266,SibSp,0
+266,Parch,0
+266,Ticket,250655
+266,Fare,26.0
+266,Embarked,S
+267,PassengerId,707
+267,Survived,1
+267,Pclass,2
+267,Name,"Kelly, Mrs. Florence ""Fannie"""
+267,Sex,female
+267,Age,45.0
+267,SibSp,0
+267,Parch,0
+267,Ticket,223596
+267,Fare,13.5
+267,Embarked,S
+268,PassengerId,708
+268,Survived,1
+268,Pclass,1
+268,Name,"Calderhead, Mr. Edward Pennington"
+268,Sex,male
+268,Age,42.0
+268,SibSp,0
+268,Parch,0
+268,Ticket,PC 17476
+268,Fare,26.2875
+268,Cabin,E24
+268,Embarked,S
+269,PassengerId,709
+269,Survived,1
+269,Pclass,1
+269,Name,"Cleaver, Miss. Alice"
+269,Sex,female
+269,Age,22.0
+269,SibSp,0
+269,Parch,0
+269,Ticket,113781
+269,Fare,151.55
+269,Embarked,S
+270,PassengerId,710
+270,Survived,1
+270,Pclass,3
+270,Name,"Moubarek, Master. Halim Gonios (""William George"")"
+270,Sex,male
+270,SibSp,1
+270,Parch,1
+270,Ticket,2661
+270,Fare,15.2458
+270,Embarked,C
+271,PassengerId,711
+271,Survived,1
+271,Pclass,1
+271,Name,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")"
+271,Sex,female
+271,Age,24.0
+271,SibSp,0
+271,Parch,0
+271,Ticket,PC 17482
+271,Fare,49.5042
+271,Cabin,C90
+271,Embarked,C
+272,PassengerId,712
+272,Survived,0
+272,Pclass,1
+272,Name,"Klaber, Mr. Herman"
+272,Sex,male
+272,SibSp,0
+272,Parch,0
+272,Ticket,113028
+272,Fare,26.55
+272,Cabin,C124
+272,Embarked,S
+273,PassengerId,713
+273,Survived,1
+273,Pclass,1
+273,Name,"Taylor, Mr. Elmer Zebley"
+273,Sex,male
+273,Age,48.0
+273,SibSp,1
+273,Parch,0
+273,Ticket,19996
+273,Fare,52.0
+273,Cabin,C126
+273,Embarked,S
+274,PassengerId,714
+274,Survived,0
+274,Pclass,3
+274,Name,"Larsson, Mr. August Viktor"
+274,Sex,male
+274,Age,29.0
+274,SibSp,0
+274,Parch,0
+274,Ticket,7545
+274,Fare,9.4833
+274,Embarked,S
+275,PassengerId,715
+275,Survived,0
+275,Pclass,2
+275,Name,"Greenberg, Mr. Samuel"
+275,Sex,male
+275,Age,52.0
+275,SibSp,0
+275,Parch,0
+275,Ticket,250647
+275,Fare,13.0
+275,Embarked,S
+276,PassengerId,716
+276,Survived,0
+276,Pclass,3
+276,Name,"Soholt, Mr. Peter Andreas Lauritz Andersen"
+276,Sex,male
+276,Age,19.0
+276,SibSp,0
+276,Parch,0
+276,Ticket,348124
+276,Fare,7.65
+276,Cabin,F G73
+276,Embarked,S
+277,PassengerId,717
+277,Survived,1
+277,Pclass,1
+277,Name,"Endres, Miss. Caroline Louise"
+277,Sex,female
+277,Age,38.0
+277,SibSp,0
+277,Parch,0
+277,Ticket,PC 17757
+277,Fare,227.525
+277,Cabin,C45
+277,Embarked,C
+278,PassengerId,718
+278,Survived,1
+278,Pclass,2
+278,Name,"Troutt, Miss. Edwina Celia ""Winnie"""
+278,Sex,female
+278,Age,27.0
+278,SibSp,0
+278,Parch,0
+278,Ticket,34218
+278,Fare,10.5
+278,Cabin,E101
+278,Embarked,S
+279,PassengerId,719
+279,Survived,0
+279,Pclass,3
+279,Name,"McEvoy, Mr. Michael"
+279,Sex,male
+279,SibSp,0
+279,Parch,0
+279,Ticket,36568
+279,Fare,15.5
+279,Embarked,Q
+280,PassengerId,720
+280,Survived,0
+280,Pclass,3
+280,Name,"Johnson, Mr. Malkolm Joackim"
+280,Sex,male
+280,Age,33.0
+280,SibSp,0
+280,Parch,0
+280,Ticket,347062
+280,Fare,7.775
+280,Embarked,S
+281,PassengerId,721
+281,Survived,1
+281,Pclass,2
+281,Name,"Harper, Miss. Annie Jessie ""Nina"""
+281,Sex,female
+281,Age,6.0
+281,SibSp,0
+281,Parch,1
+281,Ticket,248727
+281,Fare,33.0
+281,Embarked,S
+282,PassengerId,722
+282,Survived,0
+282,Pclass,3
+282,Name,"Jensen, Mr. Svend Lauritz"
+282,Sex,male
+282,Age,17.0
+282,SibSp,1
+282,Parch,0
+282,Ticket,350048
+282,Fare,7.0542
+282,Embarked,S
+283,PassengerId,723
+283,Survived,0
+283,Pclass,2
+283,Name,"Gillespie, Mr. William Henry"
+283,Sex,male
+283,Age,34.0
+283,SibSp,0
+283,Parch,0
+283,Ticket,12233
+283,Fare,13.0
+283,Embarked,S
+284,PassengerId,724
+284,Survived,0
+284,Pclass,2
+284,Name,"Hodges, Mr. Henry Price"
+284,Sex,male
+284,Age,50.0
+284,SibSp,0
+284,Parch,0
+284,Ticket,250643
+284,Fare,13.0
+284,Embarked,S
+285,PassengerId,725
+285,Survived,1
+285,Pclass,1
+285,Name,"Chambers, Mr. Norman Campbell"
+285,Sex,male
+285,Age,27.0
+285,SibSp,1
+285,Parch,0
+285,Ticket,113806
+285,Fare,53.1
+285,Cabin,E8
+285,Embarked,S
+286,PassengerId,726
+286,Survived,0
+286,Pclass,3
+286,Name,"Oreskovic, Mr. Luka"
+286,Sex,male
+286,Age,20.0
+286,SibSp,0
+286,Parch,0
+286,Ticket,315094
+286,Fare,8.6625
+286,Embarked,S
+287,PassengerId,727
+287,Survived,1
+287,Pclass,2
+287,Name,"Renouf, Mrs. Peter Henry (Lillian Jefferys)"
+287,Sex,female
+287,Age,30.0
+287,SibSp,3
+287,Parch,0
+287,Ticket,31027
+287,Fare,21.0
+287,Embarked,S
+288,PassengerId,728
+288,Survived,1
+288,Pclass,3
+288,Name,"Mannion, Miss. Margareth"
+288,Sex,female
+288,SibSp,0
+288,Parch,0
+288,Ticket,36866
+288,Fare,7.7375
+288,Embarked,Q
+289,PassengerId,729
+289,Survived,0
+289,Pclass,2
+289,Name,"Bryhl, Mr. Kurt Arnold Gottfrid"
+289,Sex,male
+289,Age,25.0
+289,SibSp,1
+289,Parch,0
+289,Ticket,236853
+289,Fare,26.0
+289,Embarked,S
+290,PassengerId,730
+290,Survived,0
+290,Pclass,3
+290,Name,"Ilmakangas, Miss. Pieta Sofia"
+290,Sex,female
+290,Age,25.0
+290,SibSp,1
+290,Parch,0
+290,Ticket,STON/O2. 3101271
+290,Fare,7.925
+290,Embarked,S
+291,PassengerId,731
+291,Survived,1
+291,Pclass,1
+291,Name,"Allen, Miss. Elisabeth Walton"
+291,Sex,female
+291,Age,29.0
+291,SibSp,0
+291,Parch,0
+291,Ticket,24160
+291,Fare,211.3375
+291,Cabin,B5
+291,Embarked,S
+292,PassengerId,732
+292,Survived,0
+292,Pclass,3
+292,Name,"Hassan, Mr. Houssein G N"
+292,Sex,male
+292,Age,11.0
+292,SibSp,0
+292,Parch,0
+292,Ticket,2699
+292,Fare,18.7875
+292,Embarked,C
+293,PassengerId,733
+293,Survived,0
+293,Pclass,2
+293,Name,"Knight, Mr. Robert J"
+293,Sex,male
+293,SibSp,0
+293,Parch,0
+293,Ticket,239855
+293,Fare,0.0
+293,Embarked,S
+294,PassengerId,734
+294,Survived,0
+294,Pclass,2
+294,Name,"Berriman, Mr. William John"
+294,Sex,male
+294,Age,23.0
+294,SibSp,0
+294,Parch,0
+294,Ticket,28425
+294,Fare,13.0
+294,Embarked,S
+295,PassengerId,735
+295,Survived,0
+295,Pclass,2
+295,Name,"Troupiansky, Mr. Moses Aaron"
+295,Sex,male
+295,Age,23.0
+295,SibSp,0
+295,Parch,0
+295,Ticket,233639
+295,Fare,13.0
+295,Embarked,S
+296,PassengerId,736
+296,Survived,0
+296,Pclass,3
+296,Name,"Williams, Mr. Leslie"
+296,Sex,male
+296,Age,28.5
+296,SibSp,0
+296,Parch,0
+296,Ticket,54636
+296,Fare,16.1
+296,Embarked,S
+297,PassengerId,737
+297,Survived,0
+297,Pclass,3
+297,Name,"Ford, Mrs. Edward (Margaret Ann Watson)"
+297,Sex,female
+297,Age,48.0
+297,SibSp,1
+297,Parch,3
+297,Ticket,W./C. 6608
+297,Fare,34.375
+297,Embarked,S
+298,PassengerId,738
+298,Survived,1
+298,Pclass,1
+298,Name,"Lesurer, Mr. Gustave J"
+298,Sex,male
+298,Age,35.0
+298,SibSp,0
+298,Parch,0
+298,Ticket,PC 17755
+298,Fare,512.3292
+298,Cabin,B101
+298,Embarked,C
+299,PassengerId,739
+299,Survived,0
+299,Pclass,3
+299,Name,"Ivanoff, Mr. Kanio"
+299,Sex,male
+299,SibSp,0
+299,Parch,0
+299,Ticket,349201
+299,Fare,7.8958
+299,Embarked,S
+300,PassengerId,740
+300,Survived,0
+300,Pclass,3
+300,Name,"Nankoff, Mr. Minko"
+300,Sex,male
+300,SibSp,0
+300,Parch,0
+300,Ticket,349218
+300,Fare,7.8958
+300,Embarked,S
+301,PassengerId,741
+301,Survived,1
+301,Pclass,1
+301,Name,"Hawksford, Mr. Walter James"
+301,Sex,male
+301,SibSp,0
+301,Parch,0
+301,Ticket,16988
+301,Fare,30.0
+301,Cabin,D45
+301,Embarked,S
+302,PassengerId,742
+302,Survived,0
+302,Pclass,1
+302,Name,"Cavendish, Mr. Tyrell William"
+302,Sex,male
+302,Age,36.0
+302,SibSp,1
+302,Parch,0
+302,Ticket,19877
+302,Fare,78.85
+302,Cabin,C46
+302,Embarked,S
+303,PassengerId,743
+303,Survived,1
+303,Pclass,1
+303,Name,"Ryerson, Miss. Susan Parker ""Suzette"""
+303,Sex,female
+303,Age,21.0
+303,SibSp,2
+303,Parch,2
+303,Ticket,PC 17608
+303,Fare,262.375
+303,Cabin,B57 B59 B63 B66
+303,Embarked,C
+304,PassengerId,744
+304,Survived,0
+304,Pclass,3
+304,Name,"McNamee, Mr. Neal"
+304,Sex,male
+304,Age,24.0
+304,SibSp,1
+304,Parch,0
+304,Ticket,376566
+304,Fare,16.1
+304,Embarked,S
+305,PassengerId,745
+305,Survived,1
+305,Pclass,3
+305,Name,"Stranden, Mr. Juho"
+305,Sex,male
+305,Age,31.0
+305,SibSp,0
+305,Parch,0
+305,Ticket,STON/O 2. 3101288
+305,Fare,7.925
+305,Embarked,S
+306,PassengerId,746
+306,Survived,0
+306,Pclass,1
+306,Name,"Crosby, Capt. Edward Gifford"
+306,Sex,male
+306,Age,70.0
+306,SibSp,1
+306,Parch,1
+306,Ticket,WE/P 5735
+306,Fare,71.0
+306,Cabin,B22
+306,Embarked,S
+307,PassengerId,747
+307,Survived,0
+307,Pclass,3
+307,Name,"Abbott, Mr. Rossmore Edward"
+307,Sex,male
+307,Age,16.0
+307,SibSp,1
+307,Parch,1
+307,Ticket,C.A. 2673
+307,Fare,20.25
+307,Embarked,S
+308,PassengerId,748
+308,Survived,1
+308,Pclass,2
+308,Name,"Sinkkonen, Miss. Anna"
+308,Sex,female
+308,Age,30.0
+308,SibSp,0
+308,Parch,0
+308,Ticket,250648
+308,Fare,13.0
+308,Embarked,S
+309,PassengerId,749
+309,Survived,0
+309,Pclass,1
+309,Name,"Marvin, Mr. Daniel Warner"
+309,Sex,male
+309,Age,19.0
+309,SibSp,1
+309,Parch,0
+309,Ticket,113773
+309,Fare,53.1
+309,Cabin,D30
+309,Embarked,S
+310,PassengerId,750
+310,Survived,0
+310,Pclass,3
+310,Name,"Connaghton, Mr. Michael"
+310,Sex,male
+310,Age,31.0
+310,SibSp,0
+310,Parch,0
+310,Ticket,335097
+310,Fare,7.75
+310,Embarked,Q
+311,PassengerId,751
+311,Survived,1
+311,Pclass,2
+311,Name,"Wells, Miss. Joan"
+311,Sex,female
+311,Age,4.0
+311,SibSp,1
+311,Parch,1
+311,Ticket,29103
+311,Fare,23.0
+311,Embarked,S
+312,PassengerId,752
+312,Survived,1
+312,Pclass,3
+312,Name,"Moor, Master. Meier"
+312,Sex,male
+312,Age,6.0
+312,SibSp,0
+312,Parch,1
+312,Ticket,392096
+312,Fare,12.475
+312,Cabin,E121
+312,Embarked,S
+313,PassengerId,753
+313,Survived,0
+313,Pclass,3
+313,Name,"Vande Velde, Mr. Johannes Joseph"
+313,Sex,male
+313,Age,33.0
+313,SibSp,0
+313,Parch,0
+313,Ticket,345780
+313,Fare,9.5
+313,Embarked,S
+314,PassengerId,754
+314,Survived,0
+314,Pclass,3
+314,Name,"Jonkoff, Mr. Lalio"
+314,Sex,male
+314,Age,23.0
+314,SibSp,0
+314,Parch,0
+314,Ticket,349204
+314,Fare,7.8958
+314,Embarked,S
+315,PassengerId,755
+315,Survived,1
+315,Pclass,2
+315,Name,"Herman, Mrs. Samuel (Jane Laver)"
+315,Sex,female
+315,Age,48.0
+315,SibSp,1
+315,Parch,2
+315,Ticket,220845
+315,Fare,65.0
+315,Embarked,S
+316,PassengerId,756
+316,Survived,1
+316,Pclass,2
+316,Name,"Hamalainen, Master. Viljo"
+316,Sex,male
+316,Age,0.67
+316,SibSp,1
+316,Parch,1
+316,Ticket,250649
+316,Fare,14.5
+316,Embarked,S
+317,PassengerId,757
+317,Survived,0
+317,Pclass,3
+317,Name,"Carlsson, Mr. August Sigfrid"
+317,Sex,male
+317,Age,28.0
+317,SibSp,0
+317,Parch,0
+317,Ticket,350042
+317,Fare,7.7958
+317,Embarked,S
+318,PassengerId,758
+318,Survived,0
+318,Pclass,2
+318,Name,"Bailey, Mr. Percy Andrew"
+318,Sex,male
+318,Age,18.0
+318,SibSp,0
+318,Parch,0
+318,Ticket,29108
+318,Fare,11.5
+318,Embarked,S
+319,PassengerId,759
+319,Survived,0
+319,Pclass,3
+319,Name,"Theobald, Mr. Thomas Leonard"
+319,Sex,male
+319,Age,34.0
+319,SibSp,0
+319,Parch,0
+319,Ticket,363294
+319,Fare,8.05
+319,Embarked,S
+320,PassengerId,760
+320,Survived,1
+320,Pclass,1
+320,Name,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)"
+320,Sex,female
+320,Age,33.0
+320,SibSp,0
+320,Parch,0
+320,Ticket,110152
+320,Fare,86.5
+320,Cabin,B77
+320,Embarked,S
+321,PassengerId,761
+321,Survived,0
+321,Pclass,3
+321,Name,"Garfirth, Mr. John"
+321,Sex,male
+321,SibSp,0
+321,Parch,0
+321,Ticket,358585
+321,Fare,14.5
+321,Embarked,S
+322,PassengerId,762
+322,Survived,0
+322,Pclass,3
+322,Name,"Nirva, Mr. Iisakki Antino Aijo"
+322,Sex,male
+322,Age,41.0
+322,SibSp,0
+322,Parch,0
+322,Ticket,SOTON/O2 3101272
+322,Fare,7.125
+322,Embarked,S
+323,PassengerId,763
+323,Survived,1
+323,Pclass,3
+323,Name,"Barah, Mr. Hanna Assi"
+323,Sex,male
+323,Age,20.0
+323,SibSp,0
+323,Parch,0
+323,Ticket,2663
+323,Fare,7.2292
+323,Embarked,C
+324,PassengerId,764
+324,Survived,1
+324,Pclass,1
+324,Name,"Carter, Mrs. William Ernest (Lucile Polk)"
+324,Sex,female
+324,Age,36.0
+324,SibSp,1
+324,Parch,2
+324,Ticket,113760
+324,Fare,120.0
+324,Cabin,B96 B98
+324,Embarked,S
+325,PassengerId,765
+325,Survived,0
+325,Pclass,3
+325,Name,"Eklund, Mr. Hans Linus"
+325,Sex,male
+325,Age,16.0
+325,SibSp,0
+325,Parch,0
+325,Ticket,347074
+325,Fare,7.775
+325,Embarked,S
+326,PassengerId,766
+326,Survived,1
+326,Pclass,1
+326,Name,"Hogeboom, Mrs. John C (Anna Andrews)"
+326,Sex,female
+326,Age,51.0
+326,SibSp,1
+326,Parch,0
+326,Ticket,13502
+326,Fare,77.9583
+326,Cabin,D11
+326,Embarked,S
+327,PassengerId,767
+327,Survived,0
+327,Pclass,1
+327,Name,"Brewe, Dr. Arthur Jackson"
+327,Sex,male
+327,SibSp,0
+327,Parch,0
+327,Ticket,112379
+327,Fare,39.6
+327,Embarked,C
+328,PassengerId,768
+328,Survived,0
+328,Pclass,3
+328,Name,"Mangan, Miss. Mary"
+328,Sex,female
+328,Age,30.5
+328,SibSp,0
+328,Parch,0
+328,Ticket,364850
+328,Fare,7.75
+328,Embarked,Q
+329,PassengerId,769
+329,Survived,0
+329,Pclass,3
+329,Name,"Moran, Mr. Daniel J"
+329,Sex,male
+329,SibSp,1
+329,Parch,0
+329,Ticket,371110
+329,Fare,24.15
+329,Embarked,Q
+330,PassengerId,770
+330,Survived,0
+330,Pclass,3
+330,Name,"Gronnestad, Mr. Daniel Danielsen"
+330,Sex,male
+330,Age,32.0
+330,SibSp,0
+330,Parch,0
+330,Ticket,8471
+330,Fare,8.3625
+330,Embarked,S
+331,PassengerId,771
+331,Survived,0
+331,Pclass,3
+331,Name,"Lievens, Mr. Rene Aime"
+331,Sex,male
+331,Age,24.0
+331,SibSp,0
+331,Parch,0
+331,Ticket,345781
+331,Fare,9.5
+331,Embarked,S
+332,PassengerId,772
+332,Survived,0
+332,Pclass,3
+332,Name,"Jensen, Mr. Niels Peder"
+332,Sex,male
+332,Age,48.0
+332,SibSp,0
+332,Parch,0
+332,Ticket,350047
+332,Fare,7.8542
+332,Embarked,S
+333,PassengerId,773
+333,Survived,0
+333,Pclass,2
+333,Name,"Mack, Mrs. (Mary)"
+333,Sex,female
+333,Age,57.0
+333,SibSp,0
+333,Parch,0
+333,Ticket,S.O./P.P. 3
+333,Fare,10.5
+333,Cabin,E77
+333,Embarked,S
+334,PassengerId,774
+334,Survived,0
+334,Pclass,3
+334,Name,"Elias, Mr. Dibo"
+334,Sex,male
+334,SibSp,0
+334,Parch,0
+334,Ticket,2674
+334,Fare,7.225
+334,Embarked,C
+335,PassengerId,775
+335,Survived,1
+335,Pclass,2
+335,Name,"Hocking, Mrs. Elizabeth (Eliza Needs)"
+335,Sex,female
+335,Age,54.0
+335,SibSp,1
+335,Parch,3
+335,Ticket,29105
+335,Fare,23.0
+335,Embarked,S
+336,PassengerId,776
+336,Survived,0
+336,Pclass,3
+336,Name,"Myhrman, Mr. Pehr Fabian Oliver Malkolm"
+336,Sex,male
+336,Age,18.0
+336,SibSp,0
+336,Parch,0
+336,Ticket,347078
+336,Fare,7.75
+336,Embarked,S
+337,PassengerId,777
+337,Survived,0
+337,Pclass,3
+337,Name,"Tobin, Mr. Roger"
+337,Sex,male
+337,SibSp,0
+337,Parch,0
+337,Ticket,383121
+337,Fare,7.75
+337,Cabin,F38
+337,Embarked,Q
+338,PassengerId,778
+338,Survived,1
+338,Pclass,3
+338,Name,"Emanuel, Miss. Virginia Ethel"
+338,Sex,female
+338,Age,5.0
+338,SibSp,0
+338,Parch,0
+338,Ticket,364516
+338,Fare,12.475
+338,Embarked,S
+339,PassengerId,779
+339,Survived,0
+339,Pclass,3
+339,Name,"Kilgannon, Mr. Thomas J"
+339,Sex,male
+339,SibSp,0
+339,Parch,0
+339,Ticket,36865
+339,Fare,7.7375
+339,Embarked,Q
+340,PassengerId,780
+340,Survived,1
+340,Pclass,1
+340,Name,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)"
+340,Sex,female
+340,Age,43.0
+340,SibSp,0
+340,Parch,1
+340,Ticket,24160
+340,Fare,211.3375
+340,Cabin,B3
+340,Embarked,S
+341,PassengerId,781
+341,Survived,1
+341,Pclass,3
+341,Name,"Ayoub, Miss. Banoura"
+341,Sex,female
+341,Age,13.0
+341,SibSp,0
+341,Parch,0
+341,Ticket,2687
+341,Fare,7.2292
+341,Embarked,C
+342,PassengerId,782
+342,Survived,1
+342,Pclass,1
+342,Name,"Dick, Mrs. Albert Adrian (Vera Gillespie)"
+342,Sex,female
+342,Age,17.0
+342,SibSp,1
+342,Parch,0
+342,Ticket,17474
+342,Fare,57.0
+342,Cabin,B20
+342,Embarked,S
+343,PassengerId,783
+343,Survived,0
+343,Pclass,1
+343,Name,"Long, Mr. Milton Clyde"
+343,Sex,male
+343,Age,29.0
+343,SibSp,0
+343,Parch,0
+343,Ticket,113501
+343,Fare,30.0
+343,Cabin,D6
+343,Embarked,S
+344,PassengerId,784
+344,Survived,0
+344,Pclass,3
+344,Name,"Johnston, Mr. Andrew G"
+344,Sex,male
+344,SibSp,1
+344,Parch,2
+344,Ticket,W./C. 6607
+344,Fare,23.45
+344,Embarked,S
+345,PassengerId,785
+345,Survived,0
+345,Pclass,3
+345,Name,"Ali, Mr. William"
+345,Sex,male
+345,Age,25.0
+345,SibSp,0
+345,Parch,0
+345,Ticket,SOTON/O.Q. 3101312
+345,Fare,7.05
+345,Embarked,S
+346,PassengerId,786
+346,Survived,0
+346,Pclass,3
+346,Name,"Harmer, Mr. Abraham (David Lishin)"
+346,Sex,male
+346,Age,25.0
+346,SibSp,0
+346,Parch,0
+346,Ticket,374887
+346,Fare,7.25
+346,Embarked,S
+347,PassengerId,787
+347,Survived,1
+347,Pclass,3
+347,Name,"Sjoblom, Miss. Anna Sofia"
+347,Sex,female
+347,Age,18.0
+347,SibSp,0
+347,Parch,0
+347,Ticket,3101265
+347,Fare,7.4958
+347,Embarked,S
+348,PassengerId,788
+348,Survived,0
+348,Pclass,3
+348,Name,"Rice, Master. George Hugh"
+348,Sex,male
+348,Age,8.0
+348,SibSp,4
+348,Parch,1
+348,Ticket,382652
+348,Fare,29.125
+348,Embarked,Q
+349,PassengerId,789
+349,Survived,1
+349,Pclass,3
+349,Name,"Dean, Master. Bertram Vere"
+349,Sex,male
+349,Age,1.0
+349,SibSp,1
+349,Parch,2
+349,Ticket,C.A. 2315
+349,Fare,20.575
+349,Embarked,S
+350,PassengerId,790
+350,Survived,0
+350,Pclass,1
+350,Name,"Guggenheim, Mr. Benjamin"
+350,Sex,male
+350,Age,46.0
+350,SibSp,0
+350,Parch,0
+350,Ticket,PC 17593
+350,Fare,79.2
+350,Cabin,B82 B84
+350,Embarked,C
+351,PassengerId,791
+351,Survived,0
+351,Pclass,3
+351,Name,"Keane, Mr. Andrew ""Andy"""
+351,Sex,male
+351,SibSp,0
+351,Parch,0
+351,Ticket,12460
+351,Fare,7.75
+351,Embarked,Q
+352,PassengerId,792
+352,Survived,0
+352,Pclass,2
+352,Name,"Gaskell, Mr. Alfred"
+352,Sex,male
+352,Age,16.0
+352,SibSp,0
+352,Parch,0
+352,Ticket,239865
+352,Fare,26.0
+352,Embarked,S
+353,PassengerId,793
+353,Survived,0
+353,Pclass,3
+353,Name,"Sage, Miss. Stella Anna"
+353,Sex,female
+353,SibSp,8
+353,Parch,2
+353,Ticket,CA. 2343
+353,Fare,69.55
+353,Embarked,S
+354,PassengerId,794
+354,Survived,0
+354,Pclass,1
+354,Name,"Hoyt, Mr. William Fisher"
+354,Sex,male
+354,SibSp,0
+354,Parch,0
+354,Ticket,PC 17600
+354,Fare,30.6958
+354,Embarked,C
+355,PassengerId,795
+355,Survived,0
+355,Pclass,3
+355,Name,"Dantcheff, Mr. Ristiu"
+355,Sex,male
+355,Age,25.0
+355,SibSp,0
+355,Parch,0
+355,Ticket,349203
+355,Fare,7.8958
+355,Embarked,S
+356,PassengerId,796
+356,Survived,0
+356,Pclass,2
+356,Name,"Otter, Mr. Richard"
+356,Sex,male
+356,Age,39.0
+356,SibSp,0
+356,Parch,0
+356,Ticket,28213
+356,Fare,13.0
+356,Embarked,S
+357,PassengerId,797
+357,Survived,1
+357,Pclass,1
+357,Name,"Leader, Dr. Alice (Farnham)"
+357,Sex,female
+357,Age,49.0
+357,SibSp,0
+357,Parch,0
+357,Ticket,17465
+357,Fare,25.9292
+357,Cabin,D17
+357,Embarked,S
+358,PassengerId,798
+358,Survived,1
+358,Pclass,3
+358,Name,"Osman, Mrs. Mara"
+358,Sex,female
+358,Age,31.0
+358,SibSp,0
+358,Parch,0
+358,Ticket,349244
+358,Fare,8.6833
+358,Embarked,S
+359,PassengerId,799
+359,Survived,0
+359,Pclass,3
+359,Name,"Ibrahim Shawah, Mr. Yousseff"
+359,Sex,male
+359,Age,30.0
+359,SibSp,0
+359,Parch,0
+359,Ticket,2685
+359,Fare,7.2292
+359,Embarked,C
+360,PassengerId,800
+360,Survived,0
+360,Pclass,3
+360,Name,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)"
+360,Sex,female
+360,Age,30.0
+360,SibSp,1
+360,Parch,1
+360,Ticket,345773
+360,Fare,24.15
+360,Embarked,S
+361,PassengerId,801
+361,Survived,0
+361,Pclass,2
+361,Name,"Ponesell, Mr. Martin"
+361,Sex,male
+361,Age,34.0
+361,SibSp,0
+361,Parch,0
+361,Ticket,250647
+361,Fare,13.0
+361,Embarked,S
+362,PassengerId,802
+362,Survived,1
+362,Pclass,2
+362,Name,"Collyer, Mrs. Harvey (Charlotte Annie Tate)"
+362,Sex,female
+362,Age,31.0
+362,SibSp,1
+362,Parch,1
+362,Ticket,C.A. 31921
+362,Fare,26.25
+362,Embarked,S
+363,PassengerId,803
+363,Survived,1
+363,Pclass,1
+363,Name,"Carter, Master. William Thornton II"
+363,Sex,male
+363,Age,11.0
+363,SibSp,1
+363,Parch,2
+363,Ticket,113760
+363,Fare,120.0
+363,Cabin,B96 B98
+363,Embarked,S
+364,PassengerId,804
+364,Survived,1
+364,Pclass,3
+364,Name,"Thomas, Master. Assad Alexander"
+364,Sex,male
+364,Age,0.42
+364,SibSp,0
+364,Parch,1
+364,Ticket,2625
+364,Fare,8.5167
+364,Embarked,C
+365,PassengerId,805
+365,Survived,1
+365,Pclass,3
+365,Name,"Hedman, Mr. Oskar Arvid"
+365,Sex,male
+365,Age,27.0
+365,SibSp,0
+365,Parch,0
+365,Ticket,347089
+365,Fare,6.975
+365,Embarked,S
+366,PassengerId,806
+366,Survived,0
+366,Pclass,3
+366,Name,"Johansson, Mr. Karl Johan"
+366,Sex,male
+366,Age,31.0
+366,SibSp,0
+366,Parch,0
+366,Ticket,347063
+366,Fare,7.775
+366,Embarked,S
+367,PassengerId,807
+367,Survived,0
+367,Pclass,1
+367,Name,"Andrews, Mr. Thomas Jr"
+367,Sex,male
+367,Age,39.0
+367,SibSp,0
+367,Parch,0
+367,Ticket,112050
+367,Fare,0.0
+367,Cabin,A36
+367,Embarked,S
+368,PassengerId,808
+368,Survived,0
+368,Pclass,3
+368,Name,"Pettersson, Miss. Ellen Natalia"
+368,Sex,female
+368,Age,18.0
+368,SibSp,0
+368,Parch,0
+368,Ticket,347087
+368,Fare,7.775
+368,Embarked,S
+369,PassengerId,809
+369,Survived,0
+369,Pclass,2
+369,Name,"Meyer, Mr. August"
+369,Sex,male
+369,Age,39.0
+369,SibSp,0
+369,Parch,0
+369,Ticket,248723
+369,Fare,13.0
+369,Embarked,S
+370,PassengerId,810
+370,Survived,1
+370,Pclass,1
+370,Name,"Chambers, Mrs. Norman Campbell (Bertha Griggs)"
+370,Sex,female
+370,Age,33.0
+370,SibSp,1
+370,Parch,0
+370,Ticket,113806
+370,Fare,53.1
+370,Cabin,E8
+370,Embarked,S
+371,PassengerId,811
+371,Survived,0
+371,Pclass,3
+371,Name,"Alexander, Mr. William"
+371,Sex,male
+371,Age,26.0
+371,SibSp,0
+371,Parch,0
+371,Ticket,3474
+371,Fare,7.8875
+371,Embarked,S
+372,PassengerId,812
+372,Survived,0
+372,Pclass,3
+372,Name,"Lester, Mr. James"
+372,Sex,male
+372,Age,39.0
+372,SibSp,0
+372,Parch,0
+372,Ticket,A/4 48871
+372,Fare,24.15
+372,Embarked,S
+373,PassengerId,813
+373,Survived,0
+373,Pclass,2
+373,Name,"Slemen, Mr. Richard James"
+373,Sex,male
+373,Age,35.0
+373,SibSp,0
+373,Parch,0
+373,Ticket,28206
+373,Fare,10.5
+373,Embarked,S
+374,PassengerId,814
+374,Survived,0
+374,Pclass,3
+374,Name,"Andersson, Miss. Ebba Iris Alfrida"
+374,Sex,female
+374,Age,6.0
+374,SibSp,4
+374,Parch,2
+374,Ticket,347082
+374,Fare,31.275
+374,Embarked,S
+375,PassengerId,815
+375,Survived,0
+375,Pclass,3
+375,Name,"Tomlin, Mr. Ernest Portage"
+375,Sex,male
+375,Age,30.5
+375,SibSp,0
+375,Parch,0
+375,Ticket,364499
+375,Fare,8.05
+375,Embarked,S
+376,PassengerId,816
+376,Survived,0
+376,Pclass,1
+376,Name,"Fry, Mr. Richard"
+376,Sex,male
+376,SibSp,0
+376,Parch,0
+376,Ticket,112058
+376,Fare,0.0
+376,Cabin,B102
+376,Embarked,S
+377,PassengerId,817
+377,Survived,0
+377,Pclass,3
+377,Name,"Heininen, Miss. Wendla Maria"
+377,Sex,female
+377,Age,23.0
+377,SibSp,0
+377,Parch,0
+377,Ticket,STON/O2. 3101290
+377,Fare,7.925
+377,Embarked,S
+378,PassengerId,818
+378,Survived,0
+378,Pclass,2
+378,Name,"Mallet, Mr. Albert"
+378,Sex,male
+378,Age,31.0
+378,SibSp,1
+378,Parch,1
+378,Ticket,S.C./PARIS 2079
+378,Fare,37.0042
+378,Embarked,C
+379,PassengerId,819
+379,Survived,0
+379,Pclass,3
+379,Name,"Holm, Mr. John Fredrik Alexander"
+379,Sex,male
+379,Age,43.0
+379,SibSp,0
+379,Parch,0
+379,Ticket,C 7075
+379,Fare,6.45
+379,Embarked,S
+380,PassengerId,820
+380,Survived,0
+380,Pclass,3
+380,Name,"Skoog, Master. Karl Thorsten"
+380,Sex,male
+380,Age,10.0
+380,SibSp,3
+380,Parch,2
+380,Ticket,347088
+380,Fare,27.9
+380,Embarked,S
+381,PassengerId,821
+381,Survived,1
+381,Pclass,1
+381,Name,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)"
+381,Sex,female
+381,Age,52.0
+381,SibSp,1
+381,Parch,1
+381,Ticket,12749
+381,Fare,93.5
+381,Cabin,B69
+381,Embarked,S
+382,PassengerId,822
+382,Survived,1
+382,Pclass,3
+382,Name,"Lulic, Mr. Nikola"
+382,Sex,male
+382,Age,27.0
+382,SibSp,0
+382,Parch,0
+382,Ticket,315098
+382,Fare,8.6625
+382,Embarked,S
+383,PassengerId,823
+383,Survived,0
+383,Pclass,1
+383,Name,"Reuchlin, Jonkheer. John George"
+383,Sex,male
+383,Age,38.0
+383,SibSp,0
+383,Parch,0
+383,Ticket,19972
+383,Fare,0.0
+383,Embarked,S
+384,PassengerId,824
+384,Survived,1
+384,Pclass,3
+384,Name,"Moor, Mrs. (Beila)"
+384,Sex,female
+384,Age,27.0
+384,SibSp,0
+384,Parch,1
+384,Ticket,392096
+384,Fare,12.475
+384,Cabin,E121
+384,Embarked,S
+385,PassengerId,825
+385,Survived,0
+385,Pclass,3
+385,Name,"Panula, Master. Urho Abraham"
+385,Sex,male
+385,Age,2.0
+385,SibSp,4
+385,Parch,1
+385,Ticket,3101295
+385,Fare,39.6875
+385,Embarked,S
+386,PassengerId,826
+386,Survived,0
+386,Pclass,3
+386,Name,"Flynn, Mr. John"
+386,Sex,male
+386,SibSp,0
+386,Parch,0
+386,Ticket,368323
+386,Fare,6.95
+386,Embarked,Q
+387,PassengerId,827
+387,Survived,0
+387,Pclass,3
+387,Name,"Lam, Mr. Len"
+387,Sex,male
+387,SibSp,0
+387,Parch,0
+387,Ticket,1601
+387,Fare,56.4958
+387,Embarked,S
+388,PassengerId,828
+388,Survived,1
+388,Pclass,2
+388,Name,"Mallet, Master. Andre"
+388,Sex,male
+388,Age,1.0
+388,SibSp,0
+388,Parch,2
+388,Ticket,S.C./PARIS 2079
+388,Fare,37.0042
+388,Embarked,C
+389,PassengerId,829
+389,Survived,1
+389,Pclass,3
+389,Name,"McCormack, Mr. Thomas Joseph"
+389,Sex,male
+389,SibSp,0
+389,Parch,0
+389,Ticket,367228
+389,Fare,7.75
+389,Embarked,Q
+390,PassengerId,830
+390,Survived,1
+390,Pclass,1
+390,Name,"Stone, Mrs. George Nelson (Martha Evelyn)"
+390,Sex,female
+390,Age,62.0
+390,SibSp,0
+390,Parch,0
+390,Ticket,113572
+390,Fare,80.0
+390,Cabin,B28
+391,PassengerId,831
+391,Survived,1
+391,Pclass,3
+391,Name,"Yasbeck, Mrs. Antoni (Selini Alexander)"
+391,Sex,female
+391,Age,15.0
+391,SibSp,1
+391,Parch,0
+391,Ticket,2659
+391,Fare,14.4542
+391,Embarked,C
+392,PassengerId,832
+392,Survived,1
+392,Pclass,2
+392,Name,"Richards, Master. George Sibley"
+392,Sex,male
+392,Age,0.83
+392,SibSp,1
+392,Parch,1
+392,Ticket,29106
+392,Fare,18.75
+392,Embarked,S
+393,PassengerId,833
+393,Survived,0
+393,Pclass,3
+393,Name,"Saad, Mr. Amin"
+393,Sex,male
+393,SibSp,0
+393,Parch,0
+393,Ticket,2671
+393,Fare,7.2292
+393,Embarked,C
+394,PassengerId,834
+394,Survived,0
+394,Pclass,3
+394,Name,"Augustsson, Mr. Albert"
+394,Sex,male
+394,Age,23.0
+394,SibSp,0
+394,Parch,0
+394,Ticket,347468
+394,Fare,7.8542
+394,Embarked,S
+395,PassengerId,835
+395,Survived,0
+395,Pclass,3
+395,Name,"Allum, Mr. Owen George"
+395,Sex,male
+395,Age,18.0
+395,SibSp,0
+395,Parch,0
+395,Ticket,2223
+395,Fare,8.3
+395,Embarked,S
+396,PassengerId,836
+396,Survived,1
+396,Pclass,1
+396,Name,"Compton, Miss. Sara Rebecca"
+396,Sex,female
+396,Age,39.0
+396,SibSp,1
+396,Parch,1
+396,Ticket,PC 17756
+396,Fare,83.1583
+396,Cabin,E49
+396,Embarked,C
+397,PassengerId,837
+397,Survived,0
+397,Pclass,3
+397,Name,"Pasic, Mr. Jakob"
+397,Sex,male
+397,Age,21.0
+397,SibSp,0
+397,Parch,0
+397,Ticket,315097
+397,Fare,8.6625
+397,Embarked,S
+398,PassengerId,838
+398,Survived,0
+398,Pclass,3
+398,Name,"Sirota, Mr. Maurice"
+398,Sex,male
+398,SibSp,0
+398,Parch,0
+398,Ticket,392092
+398,Fare,8.05
+398,Embarked,S
+399,PassengerId,839
+399,Survived,1
+399,Pclass,3
+399,Name,"Chip, Mr. Chang"
+399,Sex,male
+399,Age,32.0
+399,SibSp,0
+399,Parch,0
+399,Ticket,1601
+399,Fare,56.4958
+399,Embarked,S
+400,PassengerId,840
+400,Survived,1
+400,Pclass,1
+400,Name,"Marechal, Mr. Pierre"
+400,Sex,male
+400,SibSp,0
+400,Parch,0
+400,Ticket,11774
+400,Fare,29.7
+400,Cabin,C47
+400,Embarked,C
+401,PassengerId,841
+401,Survived,0
+401,Pclass,3
+401,Name,"Alhomaki, Mr. Ilmari Rudolf"
+401,Sex,male
+401,Age,20.0
+401,SibSp,0
+401,Parch,0
+401,Ticket,SOTON/O2 3101287
+401,Fare,7.925
+401,Embarked,S
+402,PassengerId,842
+402,Survived,0
+402,Pclass,2
+402,Name,"Mudd, Mr. Thomas Charles"
+402,Sex,male
+402,Age,16.0
+402,SibSp,0
+402,Parch,0
+402,Ticket,S.O./P.P. 3
+402,Fare,10.5
+402,Embarked,S
+403,PassengerId,843
+403,Survived,1
+403,Pclass,1
+403,Name,"Serepeca, Miss. Augusta"
+403,Sex,female
+403,Age,30.0
+403,SibSp,0
+403,Parch,0
+403,Ticket,113798
+403,Fare,31.0
+403,Embarked,C
+404,PassengerId,844
+404,Survived,0
+404,Pclass,3
+404,Name,"Lemberopolous, Mr. Peter L"
+404,Sex,male
+404,Age,34.5
+404,SibSp,0
+404,Parch,0
+404,Ticket,2683
+404,Fare,6.4375
+404,Embarked,C
+405,PassengerId,845
+405,Survived,0
+405,Pclass,3
+405,Name,"Culumovic, Mr. Jeso"
+405,Sex,male
+405,Age,17.0
+405,SibSp,0
+405,Parch,0
+405,Ticket,315090
+405,Fare,8.6625
+405,Embarked,S
+406,PassengerId,846
+406,Survived,0
+406,Pclass,3
+406,Name,"Abbing, Mr. Anthony"
+406,Sex,male
+406,Age,42.0
+406,SibSp,0
+406,Parch,0
+406,Ticket,C.A. 5547
+406,Fare,7.55
+406,Embarked,S
+407,PassengerId,847
+407,Survived,0
+407,Pclass,3
+407,Name,"Sage, Mr. Douglas Bullen"
+407,Sex,male
+407,SibSp,8
+407,Parch,2
+407,Ticket,CA. 2343
+407,Fare,69.55
+407,Embarked,S
+408,PassengerId,848
+408,Survived,0
+408,Pclass,3
+408,Name,"Markoff, Mr. Marin"
+408,Sex,male
+408,Age,35.0
+408,SibSp,0
+408,Parch,0
+408,Ticket,349213
+408,Fare,7.8958
+408,Embarked,C
+409,PassengerId,849
+409,Survived,0
+409,Pclass,2
+409,Name,"Harper, Rev. John"
+409,Sex,male
+409,Age,28.0
+409,SibSp,0
+409,Parch,1
+409,Ticket,248727
+409,Fare,33.0
+409,Embarked,S
+410,PassengerId,850
+410,Survived,1
+410,Pclass,1
+410,Name,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)"
+410,Sex,female
+410,SibSp,1
+410,Parch,0
+410,Ticket,17453
+410,Fare,89.1042
+410,Cabin,C92
+410,Embarked,C
+411,PassengerId,851
+411,Survived,0
+411,Pclass,3
+411,Name,"Andersson, Master. Sigvard Harald Elias"
+411,Sex,male
+411,Age,4.0
+411,SibSp,4
+411,Parch,2
+411,Ticket,347082
+411,Fare,31.275
+411,Embarked,S
+412,PassengerId,852
+412,Survived,0
+412,Pclass,3
+412,Name,"Svensson, Mr. Johan"
+412,Sex,male
+412,Age,74.0
+412,SibSp,0
+412,Parch,0
+412,Ticket,347060
+412,Fare,7.775
+412,Embarked,S
+413,PassengerId,853
+413,Survived,0
+413,Pclass,3
+413,Name,"Boulos, Miss. Nourelain"
+413,Sex,female
+413,Age,9.0
+413,SibSp,1
+413,Parch,1
+413,Ticket,2678
+413,Fare,15.2458
+413,Embarked,C
+414,PassengerId,854
+414,Survived,1
+414,Pclass,1
+414,Name,"Lines, Miss. Mary Conover"
+414,Sex,female
+414,Age,16.0
+414,SibSp,0
+414,Parch,1
+414,Ticket,PC 17592
+414,Fare,39.4
+414,Cabin,D28
+414,Embarked,S
+415,PassengerId,855
+415,Survived,0
+415,Pclass,2
+415,Name,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)"
+415,Sex,female
+415,Age,44.0
+415,SibSp,1
+415,Parch,0
+415,Ticket,244252
+415,Fare,26.0
+415,Embarked,S
+416,PassengerId,856
+416,Survived,1
+416,Pclass,3
+416,Name,"Aks, Mrs. Sam (Leah Rosen)"
+416,Sex,female
+416,Age,18.0
+416,SibSp,0
+416,Parch,1
+416,Ticket,392091
+416,Fare,9.35
+416,Embarked,S
+417,PassengerId,857
+417,Survived,1
+417,Pclass,1
+417,Name,"Wick, Mrs. George Dennick (Mary Hitchcock)"
+417,Sex,female
+417,Age,45.0
+417,SibSp,1
+417,Parch,1
+417,Ticket,36928
+417,Fare,164.8667
+417,Embarked,S
+418,PassengerId,858
+418,Survived,1
+418,Pclass,1
+418,Name,"Daly, Mr. Peter Denis "
+418,Sex,male
+418,Age,51.0
+418,SibSp,0
+418,Parch,0
+418,Ticket,113055
+418,Fare,26.55
+418,Cabin,E17
+418,Embarked,S
+419,PassengerId,859
+419,Survived,1
+419,Pclass,3
+419,Name,"Baclini, Mrs. Solomon (Latifa Qurban)"
+419,Sex,female
+419,Age,24.0
+419,SibSp,0
+419,Parch,3
+419,Ticket,2666
+419,Fare,19.2583
+419,Embarked,C
+420,PassengerId,860
+420,Survived,0
+420,Pclass,3
+420,Name,"Razi, Mr. Raihed"
+420,Sex,male
+420,SibSp,0
+420,Parch,0
+420,Ticket,2629
+420,Fare,7.2292
+420,Embarked,C
+421,PassengerId,861
+421,Survived,0
+421,Pclass,3
+421,Name,"Hansen, Mr. Claus Peter"
+421,Sex,male
+421,Age,41.0
+421,SibSp,2
+421,Parch,0
+421,Ticket,350026
+421,Fare,14.1083
+421,Embarked,S
+422,PassengerId,862
+422,Survived,0
+422,Pclass,2
+422,Name,"Giles, Mr. Frederick Edward"
+422,Sex,male
+422,Age,21.0
+422,SibSp,1
+422,Parch,0
+422,Ticket,28134
+422,Fare,11.5
+422,Embarked,S
+423,PassengerId,863
+423,Survived,1
+423,Pclass,1
+423,Name,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)"
+423,Sex,female
+423,Age,48.0
+423,SibSp,0
+423,Parch,0
+423,Ticket,17466
+423,Fare,25.9292
+423,Cabin,D17
+423,Embarked,S
+424,PassengerId,864
+424,Survived,0
+424,Pclass,3
+424,Name,"Sage, Miss. Dorothy Edith ""Dolly"""
+424,Sex,female
+424,SibSp,8
+424,Parch,2
+424,Ticket,CA. 2343
+424,Fare,69.55
+424,Embarked,S
+425,PassengerId,865
+425,Survived,0
+425,Pclass,2
+425,Name,"Gill, Mr. John William"
+425,Sex,male
+425,Age,24.0
+425,SibSp,0
+425,Parch,0
+425,Ticket,233866
+425,Fare,13.0
+425,Embarked,S
+426,PassengerId,866
+426,Survived,1
+426,Pclass,2
+426,Name,"Bystrom, Mrs. (Karolina)"
+426,Sex,female
+426,Age,42.0
+426,SibSp,0
+426,Parch,0
+426,Ticket,236852
+426,Fare,13.0
+426,Embarked,S
+427,PassengerId,867
+427,Survived,1
+427,Pclass,2
+427,Name,"Duran y More, Miss. Asuncion"
+427,Sex,female
+427,Age,27.0
+427,SibSp,1
+427,Parch,0
+427,Ticket,SC/PARIS 2149
+427,Fare,13.8583
+427,Embarked,C
+428,PassengerId,868
+428,Survived,0
+428,Pclass,1
+428,Name,"Roebling, Mr. Washington Augustus II"
+428,Sex,male
+428,Age,31.0
+428,SibSp,0
+428,Parch,0
+428,Ticket,PC 17590
+428,Fare,50.4958
+428,Cabin,A24
+428,Embarked,S
+429,PassengerId,869
+429,Survived,0
+429,Pclass,3
+429,Name,"van Melkebeke, Mr. Philemon"
+429,Sex,male
+429,SibSp,0
+429,Parch,0
+429,Ticket,345777
+429,Fare,9.5
+429,Embarked,S
+430,PassengerId,870
+430,Survived,1
+430,Pclass,3
+430,Name,"Johnson, Master. Harold Theodor"
+430,Sex,male
+430,Age,4.0
+430,SibSp,1
+430,Parch,1
+430,Ticket,347742
+430,Fare,11.1333
+430,Embarked,S
+431,PassengerId,871
+431,Survived,0
+431,Pclass,3
+431,Name,"Balkic, Mr. Cerin"
+431,Sex,male
+431,Age,26.0
+431,SibSp,0
+431,Parch,0
+431,Ticket,349248
+431,Fare,7.8958
+431,Embarked,S
+432,PassengerId,872
+432,Survived,1
+432,Pclass,1
+432,Name,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)"
+432,Sex,female
+432,Age,47.0
+432,SibSp,1
+432,Parch,1
+432,Ticket,11751
+432,Fare,52.5542
+432,Cabin,D35
+432,Embarked,S
+433,PassengerId,873
+433,Survived,0
+433,Pclass,1
+433,Name,"Carlsson, Mr. Frans Olof"
+433,Sex,male
+433,Age,33.0
+433,SibSp,0
+433,Parch,0
+433,Ticket,695
+433,Fare,5.0
+433,Cabin,B51 B53 B55
+433,Embarked,S
+434,PassengerId,874
+434,Survived,0
+434,Pclass,3
+434,Name,"Vander Cruyssen, Mr. Victor"
+434,Sex,male
+434,Age,47.0
+434,SibSp,0
+434,Parch,0
+434,Ticket,345765
+434,Fare,9.0
+434,Embarked,S
+435,PassengerId,875
+435,Survived,1
+435,Pclass,2
+435,Name,"Abelson, Mrs. Samuel (Hannah Wizosky)"
+435,Sex,female
+435,Age,28.0
+435,SibSp,1
+435,Parch,0
+435,Ticket,P/PP 3381
+435,Fare,24.0
+435,Embarked,C
+436,PassengerId,876
+436,Survived,1
+436,Pclass,3
+436,Name,"Najib, Miss. Adele Kiamie ""Jane"""
+436,Sex,female
+436,Age,15.0
+436,SibSp,0
+436,Parch,0
+436,Ticket,2667
+436,Fare,7.225
+436,Embarked,C
+437,PassengerId,877
+437,Survived,0
+437,Pclass,3
+437,Name,"Gustafsson, Mr. Alfred Ossian"
+437,Sex,male
+437,Age,20.0
+437,SibSp,0
+437,Parch,0
+437,Ticket,7534
+437,Fare,9.8458
+437,Embarked,S
+438,PassengerId,878
+438,Survived,0
+438,Pclass,3
+438,Name,"Petroff, Mr. Nedelio"
+438,Sex,male
+438,Age,19.0
+438,SibSp,0
+438,Parch,0
+438,Ticket,349212
+438,Fare,7.8958
+438,Embarked,S
+439,PassengerId,879
+439,Survived,0
+439,Pclass,3
+439,Name,"Laleff, Mr. Kristo"
+439,Sex,male
+439,SibSp,0
+439,Parch,0
+439,Ticket,349217
+439,Fare,7.8958
+439,Embarked,S
+440,PassengerId,880
+440,Survived,1
+440,Pclass,1
+440,Name,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)"
+440,Sex,female
+440,Age,56.0
+440,SibSp,0
+440,Parch,1
+440,Ticket,11767
+440,Fare,83.1583
+440,Cabin,C50
+440,Embarked,C
+441,PassengerId,881
+441,Survived,1
+441,Pclass,2
+441,Name,"Shelley, Mrs. William (Imanita Parrish Hall)"
+441,Sex,female
+441,Age,25.0
+441,SibSp,0
+441,Parch,1
+441,Ticket,230433
+441,Fare,26.0
+441,Embarked,S
+442,PassengerId,882
+442,Survived,0
+442,Pclass,3
+442,Name,"Markun, Mr. Johann"
+442,Sex,male
+442,Age,33.0
+442,SibSp,0
+442,Parch,0
+442,Ticket,349257
+442,Fare,7.8958
+442,Embarked,S
+443,PassengerId,883
+443,Survived,0
+443,Pclass,3
+443,Name,"Dahlberg, Miss. Gerda Ulrika"
+443,Sex,female
+443,Age,22.0
+443,SibSp,0
+443,Parch,0
+443,Ticket,7552
+443,Fare,10.5167
+443,Embarked,S
+444,PassengerId,884
+444,Survived,0
+444,Pclass,2
+444,Name,"Banfield, Mr. Frederick James"
+444,Sex,male
+444,Age,28.0
+444,SibSp,0
+444,Parch,0
+444,Ticket,C.A./SOTON 34068
+444,Fare,10.5
+444,Embarked,S
+445,PassengerId,885
+445,Survived,0
+445,Pclass,3
+445,Name,"Sutehall, Mr. Henry Jr"
+445,Sex,male
+445,Age,25.0
+445,SibSp,0
+445,Parch,0
+445,Ticket,SOTON/OQ 392076
+445,Fare,7.05
+445,Embarked,S
+446,PassengerId,886
+446,Survived,0
+446,Pclass,3
+446,Name,"Rice, Mrs. William (Margaret Norton)"
+446,Sex,female
+446,Age,39.0
+446,SibSp,0
+446,Parch,5
+446,Ticket,382652
+446,Fare,29.125
+446,Embarked,Q
+447,PassengerId,887
+447,Survived,0
+447,Pclass,2
+447,Name,"Montvila, Rev. Juozas"
+447,Sex,male
+447,Age,27.0
+447,SibSp,0
+447,Parch,0
+447,Ticket,211536
+447,Fare,13.0
+447,Embarked,S
+448,PassengerId,888
+448,Survived,1
+448,Pclass,1
+448,Name,"Graham, Miss. Margaret Edith"
+448,Sex,female
+448,Age,19.0
+448,SibSp,0
+448,Parch,0
+448,Ticket,112053
+448,Fare,30.0
+448,Cabin,B42
+448,Embarked,S
+449,PassengerId,889
+449,Survived,0
+449,Pclass,3
+449,Name,"Johnston, Miss. Catherine Helen ""Carrie"""
+449,Sex,female
+449,SibSp,1
+449,Parch,2
+449,Ticket,W./C. 6607
+449,Fare,23.45
+449,Embarked,S
+450,PassengerId,890
+450,Survived,1
+450,Pclass,1
+450,Name,"Behr, Mr. Karl Howell"
+450,Sex,male
+450,Age,26.0
+450,SibSp,0
+450,Parch,0
+450,Ticket,111369
+450,Fare,30.0
+450,Cabin,C148
+450,Embarked,C
+451,PassengerId,891
+451,Survived,0
+451,Pclass,3
+451,Name,"Dooley, Mr. Patrick"
+451,Sex,male
+451,Age,32.0
+451,SibSp,0
+451,Parch,0
+451,Ticket,370376
+451,Fare,7.75
+451,Embarked,Q
